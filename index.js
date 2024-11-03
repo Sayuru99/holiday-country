@@ -4,7 +4,8 @@ const BASE_URL = "https://lkholidays.s3.ca-central-1.amazonaws.com/jsons";
 
 export const getHolidays = async (countryCode, year) => {
   try {
-    const url = `${BASE_URL}/${countryCode.toUpperCase()}.json`;
+    const normalizedCountryCode = countryCode.toUpperCase();
+    const url = `${BASE_URL}/${normalizedCountryCode}.json`;
 
     const response = await axios.get(url);
 
@@ -14,7 +15,7 @@ export const getHolidays = async (countryCode, year) => {
 
     if (!holidayData) {
       throw new Error(
-        `No holidays found for ${countryCode} in the year ${year}`
+        `No holidays found for country code "${countryCode}" in the year ${year}. Please use an uppercase country code like "LK".`
       );
     }
 
