@@ -1,0 +1,19 @@
+{
+  "name": "holiday-country",
+  "version": "1.0.0",
+  "description": "Fetch country-specific holidays by year.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test_folder/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sayuru99/holiday-country.git"
+  },
+  "author": "Sayuru De Alwis",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
