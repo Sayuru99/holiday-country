@@ -1,6 +1,6 @@
 {
   "name": "holiday-country",
-  "version": "1.0.1",
+  "version": "1.0.19",
   "description": "Fetch country-specific holidays by year.",
   "main": "index.js",
   "type": "module",
@@ -15,5 +15,16 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.7"
-  }
+  },
+  "keywords": [
+    "holidays",
+    "country",
+    "fetch",
+    "api",
+    "axios",
+    "json",
+    "date",
+    "calendar",
+    "public holidays"
+  ]
 }
