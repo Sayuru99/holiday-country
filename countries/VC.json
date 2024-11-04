@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Thursday",
+        "name": "National Heroes Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day / National Workers' Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Carnival Monday"
+      },
+      {
+        "date": "July 2",
+        "weekday": "Tuesday",
+        "name": "Carnival Tuesday"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "Emancipation Day"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "National Heroes Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day / National Workers' Day"
+      },
+      {
+        "date": "May 21",
+        "weekday": "Wednesday",
+        "name": "National Spiritual Baptist Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Monday",
+        "name": "Carnival Monday"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Tuesday",
+        "name": "Carnival Tuesday"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "Emancipation Day"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Orthodox Christmas Eve (RS)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas (RS)"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Tuesday",
+        "name": "Republic Day (RS)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Orthodox New Year (RS)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Independence Day (FBiH)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Catholic Easter (FBiH)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Catholic Easter Monday (FBiH)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ramadan Bajram (End of Ramadan) (FBiH)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday (RS)"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (RS)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (RS)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Day of Victory over Fascism (RS)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Kurban Bajram (Feast of Sacrifice) (FBiH)"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Friday",
+        "name": "St Vitus Day (RS)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day (FBiH)"
+      },
+      {
+        "date": "Nov 21",
+        "weekday": "Thursday",
+        "name": "General Framework Agreement Day (RS)"
+      },
+      {
+        "date": "Nov 25",
+        "weekday": "Monday",
+        "name": "Statehood Day (FBiH)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Catholic Christmas (FBiH)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Orthodox Christmas Eve (RS)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas (RS)"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Thursday",
+        "name": "Republic Day (RS)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Orthodox New Year (RS)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Independence Day (FBiH)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ramadan Bajram (End of Ramadan) (FBiH)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday (RS)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (RS)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Catholic Easter (FBiH)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (RS)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Catholic Easter Monday (FBiH)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Day of Victory over Fascism (RS)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Kurban Bajram (Feast of Sacrifice) (FBiH)"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Saturday",
+        "name": "St Vitus Day (RS)"
+      }
+    ]
+  }
+]

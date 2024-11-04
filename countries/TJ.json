@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Navruz (Persian New Year)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Navruz Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Navruz Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Navruz Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Idi Ramazon (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Idi Qurbon (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Idi Qurbon Holiday"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Thursday",
+        "name": "Day of National Unity"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Nov 6",
+        "weekday": "Wednesday",
+        "name": "Constitution Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 10",
+        "weekday": "Monday",
+        "name": "Women's Day Holiday"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Navruz (Persian New Year)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Navruz Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Navruz Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Navruz Holiday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Idi Ramazon (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Idi Ramazon Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Idi Qurbon (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Day of National Unity"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

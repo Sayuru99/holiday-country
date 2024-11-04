@@ -1,0 +1,102 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Saturday",
+        "name": "Heroes' Day (Anniversary of the Death of Amilcar Cabral)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Pidjiguiti Day"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Tuesday",
+        "name": "National Day"
+      },
+      {
+        "date": "Nov 14",
+        "weekday": "Thursday",
+        "name": "Readjustment Movement Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Heroes' Day (Anniversary of the Death of Amilcar Cabral)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Sunday",
+        "name": "Pidjiguiti Day"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "National Day"
+      }
+    ]
+  }
+]

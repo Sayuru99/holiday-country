@@ -1,0 +1,322 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Statehood Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Guru Ravidas' Birthday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivratri"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Idu'l Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. B.R. Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Himachal Day"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Parshu Ram Jayanti"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Budha Purnima"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Sunday",
+        "name": "Maharana Pratap Jayanti"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Idu'l Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Sant Guru Kabir Jayanti / Prakato Diwas"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Muharram"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Raksha Bandhan (only for women employees)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dussehra (Vijaya Dashami)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Maharishi Valmiki's Birthday"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Sunday",
+        "name": "Karva Chauth (only for women employees)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Bhai Duj (only for women employees)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak's Birthday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 25",
+        "weekday": "Saturday",
+        "name": "Statehood Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Guru Ravidas' Birthday"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivratri"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Idu'l Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. B.R. Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Himachal Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Tuesday",
+        "name": "Parshu Ram Jayanti"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Budha Purnima"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Maharana Pratap Jayanti"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Idu'l Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Sant Guru Kabir Jayanti / Prakato Diwas"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Muharram"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Raksha Bandhan (only for women employees)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dussehra (Vijaya Dashami)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Maharishi Valmiki's Birthday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Karva Chauth (only for women employees)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Bhai Duj (only for women employees)"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak's Birthday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      }
+    ]
+  }
+]

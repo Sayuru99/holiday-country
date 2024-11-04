@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Anul Nou)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas (Craciunul pe stil vechi)"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Monday",
+        "name": "Orthodox Christmas Holiday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Solidarity Day of Workers"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Paste)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (Doua zi de Paste)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Victory Day / Day of Europe"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Memory/Parents' Day (Pastele Blajinilor)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "International Children's Day"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Tuesday",
+        "name": "Independence Day (Ziua Republicii)"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Saturday",
+        "name": "National Language Day (Limba Noastra)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Chisinau Day (Hramul Chisinaului)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Western Christmas (Craciunul pe stil nou)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Anul Nou)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas (Craciunul pe stil vechi)"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Wednesday",
+        "name": "Orthodox Christmas Holiday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Paste)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (Doua zi de Paste)"
+      },
+      {
+        "date": "Apr 28",
+        "weekday": "Monday",
+        "name": "Memory/Parents' Day (Pastele Blajinilor)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Solidarity Day of Workers"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Victory Day / Day of Europe"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "International Children's Day"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Wednesday",
+        "name": "Independence Day (Ziua Republicii)"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Sunday",
+        "name": "National Language Day (Limba Noastra)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Tuesday",
+        "name": "Chisinau Day (Hramul Chisinaului)"
+      }
+    ]
+  }
+]

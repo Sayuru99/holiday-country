@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Wednesday",
+        "name": "Robert Gabriel Mugabe National Youth Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Africa Day"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Monday",
+        "name": "Heroes' Day"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Tuesday",
+        "name": "Defense Forces Day"
+      },
+      {
+        "date": "Dec 22",
+        "weekday": "Sunday",
+        "name": "National Unity Day"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Friday",
+        "name": "Robert Gabriel Mugabe National Youth Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Sunday",
+        "name": "Africa Day"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Monday",
+        "name": "Heroes' Day"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Tuesday",
+        "name": "Defense Forces Day"
+      }
+    ]
+  }
+]

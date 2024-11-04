@@ -1,0 +1,262 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Makha Bucha Day"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Monday",
+        "name": "Makha Bucha Holiday"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "King Rama I Memorial and Chakri Day"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Chakri Day Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Songkran Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Songkran (Thai New Year)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Songkran Holiday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Songkran Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Tuesday",
+        "name": "Songkran Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "National Labour Day (except Government)"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Anniversary of the Coronation of King Maha Vajiralongkorn"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Coronation Holiday"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Royal Ploughing Ceremony"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Visakha Bucha Day (Buddha Day)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Asarnha Bucha Day"
+      },
+      {
+        "date": "July 22",
+        "weekday": "Monday",
+        "name": "Asarnha Bucha Holiday"
+      },
+      {
+        "date": "July 23",
+        "weekday": "Tuesday",
+        "name": "Khao Phansa Holiday"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Sunday",
+        "name": "H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday"
+      },
+      {
+        "date": "July 29",
+        "weekday": "Monday",
+        "name": "Holiday for H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Monday",
+        "name": "Queen Dowager's Birthday"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "H.M. King Bhumibol Adulyadej The Great Memorial Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Holiday for H.M. King Bhumibol Adulyadej The Great Memorial Day"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Wednesday",
+        "name": "Chulalongkorn Day (Rama V Day)"
+      },
+      {
+        "date": "Dec 5",
+        "weekday": "Thursday",
+        "name": "H.M. King Bhumibol Adulyadej The Great’s Birthday / National Day / Father's Day"
+      },
+      {
+        "date": "Dec 10",
+        "weekday": "Tuesday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Makha Bucha Day"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "King Rama I Memorial and Chakri Day"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Monday",
+        "name": "Chakri Day Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Songkran (Thai New Year)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Songkran Holiday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Songkran Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Songkran Holiday (tentative)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "National Labour Day (except Government)"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Sunday",
+        "name": "Anniversary of the Coronation of King Maha Vajiralongkorn"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Coronation Holiday"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Royal Ploughing Ceremony (exact date to be announced)"
+      },
+      {
+        "date": "May 11",
+        "weekday": "Sunday",
+        "name": "Visakha Bucha Day (Buddha Day)"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Visakha Bucha Holiday"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Tuesday",
+        "name": "H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday"
+      },
+      {
+        "date": "July 10",
+        "weekday": "Thursday",
+        "name": "Asarnha Bucha Day"
+      },
+      {
+        "date": "July 11",
+        "weekday": "Friday",
+        "name": "Khao Phansa (Buddhist Lent begins)"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Tuesday",
+        "name": "Queen Dowager's Birthday"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "H.M. King Bhumibol Adulyadej The Great Memorial Day"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Chulalongkorn Day (Rama V Day)"
+      }
+    ]
+  }
+]

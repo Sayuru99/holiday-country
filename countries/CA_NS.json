@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Heritage Day (Honouring William Hall)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (designated retail closing day)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Canada Day"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Truth and Reconciliation Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (designated retail closing day)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day (designated retail closing day)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Heritage Day (Honouring Nora Bernard)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (designated retail closing day)"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Canada Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Truth and Reconciliation Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (designated retail closing day)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day (designated retail closing day)"
+      }
+    ]
+  }
+]

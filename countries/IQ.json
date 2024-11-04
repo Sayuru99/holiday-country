@@ -1,0 +1,247 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Sovereignty Day)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Army Day (1921) (except Kurdistan)"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Tuesday",
+        "name": "Rebellion Anniversary (1991) (Kurdistan)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Spring Day (Nowruz)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Baghdad Liberation Day (Kurdistan)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Eid al-Ghadir"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "July 11",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Excessive Temperatures)"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Sunday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Ashura"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "The day after the Arbaeen of Imam Hussein"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Moulad (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "National Iraqi Day"
+      },
+      {
+        "date": "Dec 10",
+        "weekday": "Tuesday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Sovereignty Day)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Army Day (1921) (except Kurdistan)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Rebellion Anniversary (1991) (Kurdistan)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Spring Day (Nowruz)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Wednesday",
+        "name": "Baghdad Liberation Day (Kurdistan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Saturday",
+        "name": "Eid al-Ghadir"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Ashura"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Monday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "The day after the Arbaeen of Imam Hussein"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Moulad (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "National Iraqi Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Korité / Aid el Fitre (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Public Holiday (Presidential Election)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Tabaski / Aid el Kabir (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Tabaski Holiday"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Prophet's Birthday (Maouloud-Al-Nebi)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Sunday",
+        "name": "Freedom and Democracy Day"
+      },
+      {
+        "date": "Dec 2",
+        "weekday": "Monday",
+        "name": "Freedom and Democracy Day Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Korité / Aid el Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Korité Holiday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Tabaski / Aid el Kabir (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "The Prophet's Birthday (Maouloud-Al-Nebi)"
+      }
+    ]
+  }
+]

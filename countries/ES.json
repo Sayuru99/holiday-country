@@ -1,0 +1,462 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Año Nuevo)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany (Reyes Magos)"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Shrove Tuesday (Martes de Carnaval) (EX)"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Wednesday",
+        "name": "Community Day (Día de Andalucía) (AN)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Community Day (Día de las Islas Baleares) (IB)"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Tuesday",
+        "name": "Saint Joseph's Day (San José) (MC VC)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Jueves Santo) (except CT VC)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday (Lunes de Pascua) (CB CT IB NC PV RI VC)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Fin de Ramadán (Eid Al Fitr) (CE)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Fin de Ramadán (Eid Al Fitr) (ML)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "Community Day (Día de Aragón) (AR)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "Community Day (Día de Castilla y León) (CL)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (Fiesta del Trabajo)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "Community Day (Fiesta de la Comunidad de Madrid) (MD)"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Wednesday",
+        "name": "San Isidro (Madrid City) (MD)"
+      },
+      {
+        "date": "May 17",
+        "weekday": "Friday",
+        "name": "Día de las Letras Gallegas (GA)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Community Day (Día de Canarias) (CN)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi (CM)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Friday",
+        "name": "Community Day (Día de la Región de Castilla-La Mancha) (CM)"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Lunes siguiente al Día de La Rioja (RI)"
+      },
+      {
+        "date": "June 13",
+        "weekday": "Thursday",
+        "name": "San Antonio (CE)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Fiesta del Sacrificio (Eid Al Adha) (CE)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Fiesta del Sacrificio (Eid Al Adha) (ML)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "San Juan (CT VC)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Thursday",
+        "name": "Santiago Apóstol (CB MD NC PV)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Thursday",
+        "name": "Community Day (Día Nacional de Galicia) (GA)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Nuestra Señora de África (CE)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption (La Asunción)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Community Day (Día de Extremadura) (EX) (not a public holiday in 2024)"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Monday",
+        "name": "Lunes siguiente al Día de Asturias (AS)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Wednesday",
+        "name": "Community Day (Fiesta Nacional de Cataluña) (CT)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Community Day (Día de Melilla) (ML)"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Wednesday",
+        "name": "Community Day (Día de la Comunidad Valenciana) (VC)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "National Day (Fiesta Nacional de España)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day (Todos los Santos)"
+      },
+      {
+        "date": "Nov 9",
+        "weekday": "Saturday",
+        "name": "La Almudena (Madrid City) (MD)"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Tuesday",
+        "name": "Community Day (Día de Navarra) (NC)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Constitution Day (Día de la Constitución Española)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception (Inmaculada Concepción) (not a public holiday in 2024)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Lunes siguiente a la Inmaculada Concepción (AN AR AS CB CL EX MC ML)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas (Navidad)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Saint Stephen's Day (San Esteban) (CT)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Año Nuevo)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (Reyes Magos)"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Community Day (Día de Andalucía) (AN)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Community Day (Día de las Islas Baleares) (IB)"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Wednesday",
+        "name": "Saint Joseph's Day (San José) (MC VC)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Fin de Ramadán (Eid Al Fitr) (CE)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Fin de Ramadán (Eid Al Fitr) (ML)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Jueves Santo) (except CT VC)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday (Lunes de Pascua) (CT NC PV RI VC)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Wednesday",
+        "name": "Community Day (Día de Aragón) (AR)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Wednesday",
+        "name": "Community Day (Día de Castilla y León) (CL)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (Fiesta del Trabajo)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Community Day (Fiesta de la Comunidad de Madrid) (MD)"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Thursday",
+        "name": "San Isidro (Madrid City) (MD)"
+      },
+      {
+        "date": "May 17",
+        "weekday": "Saturday",
+        "name": "Día de las Letras Gallegas (GA)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Community Day (Día de Canarias) (CN)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Saturday",
+        "name": "Community Day (Día de la Región de Castilla-La Mancha) (CM)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Fiesta del Sacrificio (Eid Al Adha) (CE)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Fiesta del Sacrificio (Eid Al Adha) (ML)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Community Day (Día de La Rioja) (RI)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Community Day (Día de la Región de Murcia) (MC)"
+      },
+      {
+        "date": "June 13",
+        "weekday": "Friday",
+        "name": "San Antonio (CE)"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi (CM)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "San Juan (CT VC)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Friday",
+        "name": "Santiago Apóstol (MD NC PV)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Friday",
+        "name": "Community Day (Día Nacional de Galicia) (GA)"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "Día de las Instituciones (CB)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Tuesday",
+        "name": "Nuestra Señora de África (CE)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption (La Asunción)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Monday",
+        "name": "Community Day (Día de Extremadura) (EX)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Monday",
+        "name": "Virgen de la Victoria (ML)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Monday",
+        "name": "Community Day (Día de Asturias) (AS)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Thursday",
+        "name": "Community Day (Fiesta Nacional de Cataluña) (CT)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Community Day (La Bien Aparecida) (CB)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Wednesday",
+        "name": "Community Day (Día de Melilla) (ML)"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Thursday",
+        "name": "Community Day (Día de la Comunidad Valenciana) (VC)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "National Day (Fiesta Nacional de España) (not a public holiday in 2025)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Lunes siguiente a la Fiesta Nacional de España (AN AR AS CL EX)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "All Saints' Day (Todos los Santos)"
+      },
+      {
+        "date": "Nov 10",
+        "weekday": "Monday",
+        "name": "Lunes siguiente a La Almudena (Madrid City) (MD)"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Wednesday",
+        "name": "Community Day (Día de Navarra) (NC)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Saturday",
+        "name": "Constitution Day (Día de la Constitución Española)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Monday",
+        "name": "Immaculate Conception (Inmaculada Concepción)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas (Navidad)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Saint Stephen's Day (San Esteban) (CT)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day (Segunda fiesta de Navidad) (IB)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Vappu (May Day)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Sunday",
+        "name": "Självstyrelsedagen (Åland Self-Governing Day)"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Friday",
+        "name": "Midsummer's Eve"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Midsummer's Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Vappu (May Day)"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Självstyrelsedagen (Åland Self-Governing Day)"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Friday",
+        "name": "Midsummer's Eve"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Saturday",
+        "name": "Midsummer's Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Fête de l'iris (Brussels Region Day)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Ascension Friday"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "July 11",
+        "weekday": "Thursday",
+        "name": "Flemish Community Day"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Sunday",
+        "name": "National Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Friday",
+        "name": "French Community Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Armistice Day"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "King's Day / German Community Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "Fête de l'iris (Brussels Region Day)"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Ascension Friday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "July 11",
+        "weekday": "Friday",
+        "name": "Flemish Community Day"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Monday",
+        "name": "National Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Saturday",
+        "name": "French Community Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Nieuwjaarsdag)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Phagwah (Holi Phagwa)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Goede Vrijdag)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (1e Pasen)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday (2e Pasen)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ied-Ul-Fitre (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (Dag van de arbeid)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Ied-Ul-Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Emancipation Day (Keti Koti/Dag der Vrijheden)"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Javanese New Year (Sasi Sura)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Friday",
+        "name": "Indigenous People's Day (Dag der Inheemsen)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Maroons Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Divali"
+      },
+      {
+        "date": "Nov 25",
+        "weekday": "Monday",
+        "name": "Republic Day (Srefidensi/Onafhankelijkheidsdag)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Kerstmis)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Nieuwjaarsdag)"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Phagwah (Holi Phagwa)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ied-Ul-Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Goede Vrijdag)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (1e Pasen)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday (2e Pasen)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (Dag van de arbeid)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Ied-Ul-Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Javanese New Year (Sasi Sura)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Emancipation Day (Keti Koti/Dag der Vrijheden)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Indigenous People's Day (Dag der Inheemsen)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Maroons Day"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Divali"
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Saturday",
+        "name": "Mozambique's Heroes' Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Mozambique's Women's Day"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Mozambique's Women's Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "June 25",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Saturday",
+        "name": "Lusaka Peace Agreement Day"
+      },
+      {
+        "date": "Sep 25",
+        "weekday": "Wednesday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Friday",
+        "name": "Peace and National Reconciliation Day"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Presidential Election)"
+      },
+      {
+        "date": "Nov 10",
+        "weekday": "Sunday",
+        "name": "Maputo Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Maputo Day Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Family Day / Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Mozambique's Heroes' Day"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Monday",
+        "name": "Mozambique's Women's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "June 25",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Lusaka Peace Agreement Day"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Monday",
+        "name": "Lusaka Peace Agreement Holiday"
+      },
+      {
+        "date": "Sep 25",
+        "weekday": "Thursday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Saturday",
+        "name": "Peace and National Reconciliation Day"
+      }
+    ]
+  }
+]

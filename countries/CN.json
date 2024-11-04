@@ -1,0 +1,272 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Encouraged paid day off"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Spring Festival (Chinese New Year)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Feb 15",
+        "weekday": "Thursday",
+        "name": "Spring Festival (workday moved to Sun. Feb. 4)"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Friday",
+        "name": "Spring Festival (workday moved to Sat. Feb. 18)"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Saturday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Tomb Sweeping Day (Qing Ming Jie)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Tomb Sweeping Day Holiday (workday moved to Sun. Apr. 7)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "Tomb Sweeping Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "Labour Day Holiday (workday moved to Sun. Apr. 28)"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Labour Day Holiday (workday moved to Sat. May 11)"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Saturday",
+        "name": "Dragon Boat Festival Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Sunday",
+        "name": "Dragon Boat Festival Holiday"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Dragon Boat Festival (Duan Wu Jie)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mid-Autumn Festival Holiday"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Mid-Autumn Festival Holiday (workday moved to Sat. Sep. 14)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Mid-Autumn Festival (Zhong Qiu Jie)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "National Day (Guoqing Jie)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Friday",
+        "name": "National Day Holiday (workday moved to Sun. Sep. 29)"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Sunday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Monday",
+        "name": "National Day Holiday (workday moved to Sat. Oct. 12)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Spring Festival (Chinese New Year's Eve)"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Spring Festival (Chinese New Year)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Feb 1",
+        "weekday": "Saturday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Feb 2",
+        "weekday": "Sunday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Spring Festival"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Friday",
+        "name": "Tomb Sweeping Day (Qing Ming Jie)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Labour Day Holiday (tentative)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Saturday",
+        "name": "Dragon Boat Festival (Duan Wu Jie)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Dragon Boat Festival Holiday (tentative)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "National Day (Guoqing Jie)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Saturday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Sunday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Mid-Autumn Festival (Zhong Qiu Jie)"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "National Day Holiday"
+      }
+    ]
+  }
+]

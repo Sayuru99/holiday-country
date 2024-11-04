@@ -1,0 +1,157 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Yangi Yil Bayrami)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday (workday moved to Sat. Jan. 6)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Women's Day (Xalqaro Xotin-Qizlar Kuni)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Navruz / Persian New Year (Navro'z Bayrami)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Navruz Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "End of Ramadan (Ramazon Hayit / Iyd ul Fitr)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "End of Ramadan Holiday (workday moved to Sat. Apr. 13)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Day of Remembrance and Honors (Xotira va Qadirlash Kuni)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Feast of Sacrifice (Qurbon Hayit / Iyd ul Adha)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Feast of Sacrifice Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Feast of Sacrifice Holiday"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Sunday",
+        "name": "Independence Day (Mustaqillik Kuni)"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Tuesday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Day of Teachers and Instructors (O'qituvchi va Murabbiylar Kuni)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Constitution Day (Konstitutsiya Kuni)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Constitution Day Holiday"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "New Year Holiday (workday moved to Sat. Dec. 14)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Yangi Yil Bayrami)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day (Xalqaro Xotin-Qizlar Kuni)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Navruz / Persian New Year (Navro'z Bayrami)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "End of Ramadan (Ramazon Hayit / Iyd ul Fitr)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Day of Remembrance and Honors (Xotira va Qadirlash Kuni)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Feast of Sacrifice (Qurbon Hayit / Iyd ul Adha)"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Independence Day (Mustaqillik Kuni)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Day of Teachers and Instructors (O'qituvchi va Murabbiylar Kuni)"
+      }
+    ]
+  }
+]

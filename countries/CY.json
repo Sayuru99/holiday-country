@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "Ash Monday / Clean Monday (Kathara Deftera)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Greek Independence Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Greek Cypriot Day (EOKA Day)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Easter Tuesday"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Orthodox Whit Monday (Kataklysmos)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Cyprus Independence Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "Ochi Day (Greek National Day)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Ash Monday / Clean Monday (Kathara Deftera)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Tuesday",
+        "name": "Greek Independence Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Greek Cypriot Day (EOKA Day)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "Apr 22",
+        "weekday": "Tuesday",
+        "name": "Orthodox Easter Tuesday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Orthodox Whit Monday (Kataklysmos)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Cyprus Independence Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Tuesday",
+        "name": "Ochi Day (Greek National Day)"
+      }
+    ]
+  }
+]

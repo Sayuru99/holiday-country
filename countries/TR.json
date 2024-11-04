@@ -1,0 +1,227 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ramazan Bayramy (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "National Sovereignty and Children's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor and Solidarity Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Ataturk Memorial, Youth and Sports Day"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Kurban Bayramy Eve"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Kurban Bayramy (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Friday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Sunday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Monday",
+        "name": "Day of Democracy and Freedoms"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "Republic Day Eve"
+      },
+      {
+        "date": "Oct 29",
+        "weekday": "Tuesday",
+        "name": "Republic Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Saturday",
+        "name": "Ramazan Bayramy Eve"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ramazan Bayramy (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Ramazan Bayramy Holiday"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Wednesday",
+        "name": "National Sovereignty and Children's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor and Solidarity Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Ataturk Memorial, Youth and Sports Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Kurban Bayramy Eve"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Kurban Bayramy (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Tuesday",
+        "name": "Day of Democracy and Freedoms"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Saturday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Tuesday",
+        "name": "Republic Day Eve"
+      },
+      {
+        "date": "Oct 29",
+        "weekday": "Wednesday",
+        "name": "Republic Day"
+      }
+    ]
+  }
+]

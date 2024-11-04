@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Gregorian New Year"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "The Prophet's Ascension (Isra and Miraj)"
+      },
+      {
+        "date": "Feb 25",
+        "weekday": "Sunday",
+        "name": "National Day"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Monday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Parliamentary Elections"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Government Holiday (recess)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Hejira New Year (Islamic New Year)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Prophet's Birthday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Gregorian New Year"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "The Prophet's Ascension (day in lieu)"
+      },
+      {
+        "date": "Feb 25",
+        "weekday": "Tuesday",
+        "name": "National Day"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Feb 27",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Arafat Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Hejira New Year (Islamic New Year)"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "The Prophet's Birthday"
+      }
+    ]
+  }
+]

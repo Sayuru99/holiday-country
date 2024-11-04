@@ -1,0 +1,292 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Thursday",
+        "name": "New Year Holiday (workday moved to Sat. Dec. 30, 2023)"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Friday",
+        "name": "New Year Holiday (workday moved to Sun. Jan. 7)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Feb 7",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Early Presidential Election)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Wednesday",
+        "name": "Novruz Bairam (Persian New Year)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ramazan Bayram (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramazan Bayram Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Ramazan Bayram Holiday (workday moved to Sat. Apr. 6)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Ramazan Bayram Holiday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Ramazan Bayram Holiday"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Day of Victory over Fascism"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "National Day of Salvation"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Gurban Bayram (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Salvation Day Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Gurban Bayram Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Gurban Bayram Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Wednesday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "Nov 9",
+        "weekday": "Saturday",
+        "name": "State Flag Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "State Flag Day Holiday"
+      },
+      {
+        "date": "Nov 12",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (COP29) (workday moved to Sat. Nov. 16)"
+      },
+      {
+        "date": "Nov 13",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (COP29) (workday moved to Sat. Nov. 23)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Solidarity Day of World Azerbaijanis"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 10",
+        "weekday": "Monday",
+        "name": "Women's Day Holiday"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Thursday",
+        "name": "Novruz Bairam (Persian New Year)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Novruz Holiday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Tuesday",
+        "name": "Novruz Holiday (tentative)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Wednesday",
+        "name": "Novruz Holiday (tentative)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ramazan Bayram (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramazan Bayram Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Ramazan Bayram Holiday"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Day of Victory over Fascism"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Gurban Bayram (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Gurban Bayram Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Gurban Bayram Holiday (day in lieu)"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Sunday",
+        "name": "National Day of Salvation"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Monday",
+        "name": "Salvation Day Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Armed Forces Day"
+      }
+    ]
+  }
+]

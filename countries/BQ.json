@@ -1,0 +1,157 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day / Maskarada"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Saturday",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Tuesday",
+        "name": "Rincon Day (BO)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Thursday"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Emancipation Day (SE)"
+      },
+      {
+        "date": "July 29",
+        "weekday": "Monday",
+        "name": "Carnival Monday (SA)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Friday",
+        "name": "Bonaire Flag Day (BO)"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Saturday",
+        "name": "Statia Day / Sint Eustatius Flag Day (SE)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Saba Flag Day (SA)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day / Maskarada"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Saturday",
+        "name": "King's Birthday Holiday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Sunday",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Wednesday",
+        "name": "Rincon Day (BO)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Thursday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Emancipation Day (SE)"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Carnival Monday (SA)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Saturday",
+        "name": "Bonaire Flag Day (BO)"
+      }
+    ]
+  }
+]

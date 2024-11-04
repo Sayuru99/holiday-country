@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "State Holiday (Swieto Panstwowe)"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "State Holiday (Swieto Panstwowe)"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Saturday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Australia Day"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Chinese New Year Holiday (Day 1)"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Chinese New Year Holiday (Day 2)"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Hari Raya Puasa"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Thursday",
+        "name": "ANZAC Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Hari Raya Haji"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Monday",
+        "name": "Territory Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Australia Day"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Australia Day Holiday"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Chinese New Year (Day 2)"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Hari Raya Puasa"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Friday",
+        "name": "ANZAC Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Hari Raya Haji Holiday"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Hari Raya Haji"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Territory Day"
+      }
+    ]
+  }
+]

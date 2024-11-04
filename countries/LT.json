@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Friday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Mar 11",
+        "weekday": "Monday",
+        "name": "Independence Restoration Day"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Mothers' Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Sunday",
+        "name": "Fathers' Day"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Jonines (Saint John's Day)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Saturday",
+        "name": "Day of the State (Coronation of King Mindaugas)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Zoline (Assumption)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Sunday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Mar 11",
+        "weekday": "Tuesday",
+        "name": "Independence Restoration Day"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Sunday",
+        "name": "Mothers' Day"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "Fathers' Day"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "Jonines (Saint John's Day)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Day of the State (Coronation of King Mindaugas)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Zoline (Assumption)"
+      }
+    ]
+  }
+]

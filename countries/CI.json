@@ -1,0 +1,157 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 18",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday (AFCON game against Nigeria)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Public Holiday (African Cup of Nations Victory)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Day after Lailatou-Kadr (Quran Revelation)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Korité / Aîd-eI-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Tabaski / Aîd-El-Kébir (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Tabaski Holiday"
+      },
+      {
+        "date": "Aug 7",
+        "weekday": "Wednesday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Day after the Prophet's Birthday (Maouloud)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "National Peace Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Day after Lailatou-Kadr (Quran Revelation)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Korité / Aîd-eI-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Korité Holiday (tentative)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Tabaski / Aîd-El-Kébir (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "Aug 7",
+        "weekday": "Thursday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "The Day after the Prophet's Birthday (Maouloud)"
+      }
+    ]
+  }
+]

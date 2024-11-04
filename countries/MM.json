@@ -1,0 +1,277 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 4",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Thursday",
+        "name": "Karen New Year"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Union Day"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Saturday",
+        "name": "Farmers' Day"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Full Moon Day of Tabaung"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Myanmar New Year Holidays (Thingyan Eve)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Myanmar New Year Holidays (Thingyan/Start of Water Festival)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Tuesday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Myanmar New Year"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Thursday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Saturday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Full Moon Day of Kasone"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid ul Adha"
+      },
+      {
+        "date": "July 19",
+        "weekday": "Friday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Full Moon Day of Waso (Buddhist Lent Begins)"
+      },
+      {
+        "date": "Oct 16",
+        "weekday": "Wednesday",
+        "name": "Thadingyut Holidays"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Thadingyut Full Moon (Buddhist Lent Ends)"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Friday",
+        "name": "Thadingyut Holidays"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Full Moon Day of Tasaungmone"
+      },
+      {
+        "date": "Nov 25",
+        "weekday": "Monday",
+        "name": "National Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Karen New Year"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Union Day"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Sunday",
+        "name": "Farmers' Day"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Full Moon Day of Tabaung"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Thursday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Myanmar New Year Holidays (Thingyan Eve)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Myanmar New Year Holidays (Thingyan/Start of Water Festival)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Myanmar New Year"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Myanmar New Year Holidays"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 11",
+        "weekday": "Sunday",
+        "name": "Full Moon Day of Kasone"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid ul Adha (date to be confirmed)"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Wednesday",
+        "name": "Full Moon Day of Waso (Buddhist Lent Begins)"
+      },
+      {
+        "date": "July 19",
+        "weekday": "Saturday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Sunday",
+        "name": "Thadingyut Holidays"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Thadingyut Full Moon (Buddhist Lent Ends)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Thadingyut Holidays"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Deepavali (date to be confirmed)"
+      }
+    ]
+  }
+]

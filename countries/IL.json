@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Feb 27",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Municipal Elections)"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Purim Bank Holiday (Tel-Aviv)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Purim Bank Holiday (Jerusalem)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "First Day of Pessah (Passover)"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Monday",
+        "name": "Last Day of Pessah (Passover)"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Tuesday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Wednesday",
+        "name": "Shavuot (Pentecost)"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Tuesday",
+        "name": "Tisha b'Av Bank Holiday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Rosh Hashanah (Jewish New Year)"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Friday",
+        "name": "Rosh Hashanah Holiday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Yom Kippur (Day of Atonement)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "First Day of Sukkot (Harvest)"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Thursday",
+        "name": "Simhat Torah"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Purim Bank Holiday (Tel-Aviv)"
+      },
+      {
+        "date": "Mar 16",
+        "weekday": "Sunday",
+        "name": "Purim Bank Holiday (Jerusalem)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "First Day of Pessah (Passover)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Last Day of Pessah (Passover)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Shavuot (Pentecost)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Sunday",
+        "name": "Tisha b'Av Bank Holiday"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Rosh Hashanah (Jewish New Year)"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "Rosh Hashanah Holiday"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Yom Kippur (Day of Atonement)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "First Day of Sukkot (Harvest)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Tuesday",
+        "name": "Simhat Torah"
+      }
+    ]
+  }
+]

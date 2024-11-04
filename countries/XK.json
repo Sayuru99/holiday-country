@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Viti i Ri)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas (Krishtlindjet Ortodokse)"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Monday",
+        "name": "Orthodox Christmas Holiday"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Saturday",
+        "name": "Kosovo Independence Day (Dita e Pavarësisë)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Catholic Easter (Pashkët Katolike)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Catholic Easter Monday"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Kosovo Constitution Day (Dita e Kushtetutës)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Uraza-bairam / Eid al-Fitr (Bajrami i Madh, dita e parë)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labor Day (Dita Ndërkombëtare e Punës)"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Pashkët Ortodokse)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Europe Day (Dita e Evropës)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Kurban-bairam / Eid al-Adha (Bajrami i Vogël, dita e parë)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Kurban-bairam Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Catholic Christmas (Krishtlindjet Katolike)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Viti i Ri)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas (Krishtlindjet Ortodokse)"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Kosovo Independence Day (Dita e Pavarësisë)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Uraza-bairam / Eid al-Fitr (Bajrami i Madh, dita e parë)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Uraza-bairam / Eid al-Fitr Holiday"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Wednesday",
+        "name": "Kosovo Constitution Day (Dita e Kushtetutës)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Catholic Easter (Pashkët Katolike)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Catholic Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labor Day (Dita Ndërkombëtare e Punës)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Europe Day (Dita e Evropës)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Kurban-bairam / Eid al-Adha (Bajrami i Vogël, dita e parë)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "John Chilembwe Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Sunday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Monday",
+        "name": "Martyrs' Day Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Easter Saturday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Tuesday",
+        "name": "President Kamuzu Banda's Birthday"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Public Holiday (Funeral of Vice President Saulos Chilima)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Mothers' Day (World Rural Women's Day)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Wednesday",
+        "name": "John Chilembwe Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Easter Saturday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Wednesday",
+        "name": "President Kamuzu Banda's Birthday"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Wednesday",
+        "name": "Mothers' Day (World Rural Women's Day)"
+      }
+    ]
+  }
+]

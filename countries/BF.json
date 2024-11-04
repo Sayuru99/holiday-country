@@ -1,0 +1,172 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "Revolution Day (National Day)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Aïd el Segheir / Korité (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Wednesday",
+        "name": "Day of Customs and Traditions"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Aïd el Kébir / Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Feast of Sacrifice Holiday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Fête du Maouloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Prophet's Birthday Holiday"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Dec 11",
+        "weekday": "Wednesday",
+        "name": "Proclamation of Independence Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "Revolution Day (National Day)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Aïd el Segheir / Korité (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Thursday",
+        "name": "Day of Customs and Traditions"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Aïd el Kébir / Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Fête du Maouloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Friday",
+        "name": "Martyrs' Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Día de la Fundación del Estado Plurinacional de Bolivia"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnaval (Martes de Ch'alla)"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Tuesday",
+        "name": "Día del Padre Boliviano (only for fathers)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Population and Housing Census)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Chuquisaca (Feriado Departamental) (H)"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Día de la Madre Boliviana (only for mothers)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Friday",
+        "name": "Año Nuevo Andino Amazónico Chaqueño"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "La Paz Day (Feriado Departamental) (L)"
+      },
+      {
+        "date": "Aug 6",
+        "weekday": "Tuesday",
+        "name": "National Day"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "Cochabamba Day (Feriado Departamental) (C)"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Tuesday",
+        "name": "Santa Cruz Day (Feriado Departamental) (S)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Día Nacional de la Mujer Boliviana (half-day) (only for women employees)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day (Día de los Fieles Difuntos)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Wednesday",
+        "name": "Día de la Fundación del Estado Plurinacional de Bolivia"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnaval (Martes de Ch'alla)"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Wednesday",
+        "name": "Día del Padre Boliviano (only for fathers)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Sunday",
+        "name": "Chuquisaca (Feriado Departamental) (H)"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Tuesday",
+        "name": "Día de la Madre Boliviana (only for mothers)"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Saturday",
+        "name": "Año Nuevo Andino Amazónico Chaqueño"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Wednesday",
+        "name": "La Paz Day (Feriado Departamental) (L)"
+      },
+      {
+        "date": "Aug 6",
+        "weekday": "Wednesday",
+        "name": "National Day"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Sunday",
+        "name": "Cochabamba Day (Feriado Departamental) (C)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Cochabamba Day Holiday (C)"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "Santa Cruz Day (Feriado Departamental) (S)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Saturday",
+        "name": "Día Nacional de la Mujer Boliviana (only for women employees) (tentative)"
+      }
+    ]
+  }
+]

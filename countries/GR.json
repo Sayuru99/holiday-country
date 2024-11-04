@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "Ash Monday / Clean Monday (Kathara Deftera)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Special Holiday for Interbank Transactions"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Pascha)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "May Day Holiday (in lieu of May 1st)"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Sunday",
+        "name": "Orthodox Whit Sunday"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Orthodox Whit Monday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day (Dormition)"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "Ochi Day (National Day)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Christougenna)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Ash Monday / Clean Monday (Kathara Deftera)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Pascha)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Orthodox Whit Sunday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Orthodox Whit Monday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day (Dormition)"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Tuesday",
+        "name": "Ochi Day (National Day)"
+      }
+    ]
+  }
+]

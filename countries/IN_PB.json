@@ -1,0 +1,362 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 17",
+        "weekday": "Wednesday",
+        "name": "Birthday of Sri Guru Gobind Singh ji"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Birthday of Sri Guru Ravidas Ji"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivratri"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Martyrdom Day of Shaheed Bhagat Singh"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Birthday of Sri Guru Nabha Dass Ji"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Idul Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Vaisakhi"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Birthday of Dr. B.R. Ambedkar"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Mahavir Jayanti"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Lord Parshuram Jayanti"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Martyrdom Day of Sri Guru Arjun Dev Ji"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-ul-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Kabir Jayanti"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janam Ashtami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Agarsain Jayanti"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dusherra"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Panchayats Elections)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Birthday of Maharishi Valmiki Ji"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Vishwakarma Day"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Birthday of Sri Guru Nanak Dev Ji"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Saturday",
+        "name": "Shahidi Divas S. Kartar Singh Srabha Ji"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Martyrdom Day of Sri Guru Teg Bahadur Ji"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Shaheed Sabha"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Birthday of Sri Guru Gobind Singh ji"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Birthday of Sri Guru Ravidas Ji"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivratri"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Martyrdom Day of Shaheed Bhagat Singh"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Idul Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Tuesday",
+        "name": "Birthday of Sri Guru Nabha Dass Ji"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Thursday",
+        "name": "Mahavir Jayanti"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Vaisakhi"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Birthday of Dr. B.R. Ambedkar"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Tuesday",
+        "name": "Lord Parshuram Jayanti"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Martyrdom Day of Sri Guru Arjun Dev Ji"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id-ul-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Kabir Jayanti"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janam Ashtami"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Agarsain Jayanti"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dusherra"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Birthday of Maharishi Valmiki Ji"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Vishwakarma Day"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Birthday of Sri Guru Nanak Dev Ji"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Sunday",
+        "name": "Shahidi Divas S. Kartar Singh Srabha Ji"
+      },
+      {
+        "date": "Nov 25",
+        "weekday": "Tuesday",
+        "name": "Martyrdom Day of Sri Guru Teg Bahadur Ji"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Birthday of Sri Guru Gobind Singh ji"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Sunday",
+        "name": "Shaheed Sabha"
+      }
+    ]
+  }
+]

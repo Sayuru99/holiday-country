@@ -1,0 +1,107 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Carnival Holiday"
+      },
+      {
+        "date": "Aug 6",
+        "weekday": "Tuesday",
+        "name": "Carnival Holiday"
+      },
+      {
+        "date": "Sep 12",
+        "weekday": "Thursday",
+        "name": "Public Holiday (National Day of Prayer)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Vere Cornwall Bird Snr. Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Carnival Holiday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Tuesday",
+        "name": "Carnival Holiday"
+      }
+    ]
+  }
+]

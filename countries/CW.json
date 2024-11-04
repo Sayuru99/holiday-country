@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnival Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday / Seú Harvest Parade"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Saturday",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "July 2",
+        "weekday": "Tuesday",
+        "name": "Curaçao National Flag and Anthem Day (Day of Himno and Bandera)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Curaçao Day (Day of the Korsou Country)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Curaçao Day Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnival Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday / Seú Harvest Parade"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Saturday",
+        "name": "King's Birthday Holiday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Sunday",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "July 2",
+        "weekday": "Wednesday",
+        "name": "Curaçao National Flag and Anthem Day (Day of Himno and Bandera)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Curaçao Day (Day of the Korsou Country)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Saturday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Sunday",
+        "name": "Fête Nationale (National Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Saturday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Tuesday",
+        "name": "Fête de la Citoyenneté (New Caledonia Day)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Armistice Day"
+      },
+      {
+        "date": "Nov 12",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Monday",
+        "name": "Fête Nationale (National Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "Fête de la Citoyenneté (New Caledonia Day)"
+      }
+    ]
+  }
+]

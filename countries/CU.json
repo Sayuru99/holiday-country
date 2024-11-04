@@ -1,0 +1,112 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Liberation Day (Día de la Liberación)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Victory Day (Día de la Victoria)"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day (Día Internacional de los Trabajadores)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Thursday",
+        "name": "Revolution Anniversary (Conmemoración al asalto al Cuartel Moncada)"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Friday",
+        "name": "Revolution Anniversary (Día de la Rebeldía Nacional)"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Saturday",
+        "name": "Revolution Anniversary (Conmemoración del asalto a Moncada)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Independence Day (Día de la Independencia)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Día de Navidad)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve (Fiesta de Fin de Año)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Liberation Day (Día de la Liberación)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Victory Day (Día de la Victoria)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day (Día Internacional de los Trabajadores)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Friday",
+        "name": "Revolution Anniversary (Conmemoración al asalto al Cuartel Moncada)"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Saturday",
+        "name": "Revolution Anniversary (Día de la Rebeldía Nacional)"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Sunday",
+        "name": "Revolution Anniversary (Conmemoración del asalto a Moncada)"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "Revolution Anniversary Holiday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Independence Day (Día de la Independencia)"
+      }
+    ]
+  }
+]

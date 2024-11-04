@@ -1,0 +1,262 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Fraternidade Universal)"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Lunar New Year's Eve (afternoon)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Lunar New Year's Day (Novo Ano Lunar)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "The second day of the Lunar New Year"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "The third day of the Lunar New Year"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Compensatory rest day for Lunar New Year's Day"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Compensatory rest day for The second day of the Lunar New Year"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Compensatory rest day for the Day before Easter"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Cheng Ming (Tomb Sweeping Day)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Wednesday",
+        "name": "The Buddha's Birthday (Dia do Buda)"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Tung Ng (Dragon Boat Festival)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Chong Chao (Mid-Autumn Festival Holiday)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "PRC National Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "The Day following the PRC National Day (except Banks)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Chong Yeung Festival (Festival of Ancestors)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day (Dia de Finados)"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Compensatory rest day for All Soul's Day"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Compensatory rest day for Feast of Immaculate Conception"
+      },
+      {
+        "date": "Dec 20",
+        "weekday": "Friday",
+        "name": "Macao S.A.R. Establishment Day"
+      },
+      {
+        "date": "Dec 21",
+        "weekday": "Saturday",
+        "name": "Dongzhi (Winter Solstice) (except banks)"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Compensatory rest day for Winter Solstice"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Natal)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve (afternoon)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Fraternidade Universal)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Lunar New Year's Eve (afternoon)"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Lunar New Year's Day (Novo Ano Lunar)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "The second day of the Lunar New Year"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "The third day of the Lunar New Year"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Friday",
+        "name": "Cheng Ming (Tomb Sweeping Day)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Compensatory rest day for the Day before Easter"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "The Buddha's Birthday (Dia do Buda)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Saturday",
+        "name": "Tung Ng (Dragon Boat Festival)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Compensatory rest day for Tung Ng Festival"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "PRC National Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "The Day following the PRC National Day (except Banks)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Chong Chao (Mid-Autumn Festival Holiday)"
+      },
+      {
+        "date": "Oct 29",
+        "weekday": "Wednesday",
+        "name": "Chong Yeung Festival (Festival of Ancestors)"
+      }
+    ]
+  }
+]

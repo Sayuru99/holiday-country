@@ -1,0 +1,217 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "International New Year's Day"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Victory Day over the Genocidal Regime"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Rights Day"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Cambodian New Year"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Cambodian New Year Holiday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Cambodian New Year Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Tuesday",
+        "name": "Cambodian New Year Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Tuesday",
+        "name": "King Norodom Sihamoni's Birthday"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Visakh Bochea Day (Buddha Day)"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Sunday",
+        "name": "Royal Ploughing Ceremony (Pithi Chrat Preah Neanng Korl)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Ex-Queen Norodom Monineath's Birthday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Public Holiday (Funan Techo Waterway)"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Tuesday",
+        "name": "Constitution Day (Recoronation of King Norodom Sihanouk)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Bonn Phchum Ben (Ancestors' Day)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Bonn Phchum Ben Holiday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Bonn Phchum Ben Holiday"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Day of Hommage for the late King Father (Norodom Sihanouk)"
+      },
+      {
+        "date": "Oct 29",
+        "weekday": "Tuesday",
+        "name": "King Norodom Sihamony's Coronation Day"
+      },
+      {
+        "date": "Nov 9",
+        "weekday": "Saturday",
+        "name": "National Independence Day"
+      },
+      {
+        "date": "Nov 14",
+        "weekday": "Thursday",
+        "name": "Bonn Om Touk (Water Festival)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Bonn Om Touk Holiday"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Saturday",
+        "name": "Bonn Om Touk Holiday"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "Peace Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "International New Year's Day"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Victory Day over the Genocidal Regime"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Rights Day"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Cambodian New Year"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Cambodian New Year Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Cambodian New Year Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "May 11",
+        "weekday": "Sunday",
+        "name": "Visakh Bochea Day (Buddha Day)"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Wednesday",
+        "name": "King Norodom Sihamoni's Birthday"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Thursday",
+        "name": "Royal Ploughing Ceremony (Pithi Chrat Preah Neanng Korl)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Wednesday",
+        "name": "Ex-Queen Norodom Monineath's Birthday"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Bonn Phchum Ben (Ancestors' Day)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Bonn Phchum Ben Holiday"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Bonn Phchum Ben Holiday"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "Constitution Day (Recoronation of King Norodom Sihanouk)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Wednesday",
+        "name": "Day of Hommage for the late King Father (Norodom Sihanouk)"
+      },
+      {
+        "date": "Oct 29",
+        "weekday": "Wednesday",
+        "name": "King Norodom Sihamony's Coronation Day"
+      }
+    ]
+  }
+]

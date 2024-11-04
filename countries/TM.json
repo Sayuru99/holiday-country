@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "National Spring Festival"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "National Spring Festival"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Oraza Baramy / Oraza Ait (End of Ramadan)"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Saturday",
+        "name": "Constitution and Flag Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Kurban Bayramy Holiday (in lieu of June 16)"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Friday",
+        "name": "Independence Day of Turkmenistan"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Sunday",
+        "name": "Commemoration Day"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Monday",
+        "name": "Commemoration Day Holiday"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Thursday",
+        "name": "International Day of Neutrality"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "National Spring Festival"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "National Spring Festival"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Oraza Baramy / Oraza Ait (End of Ramadan)"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Sunday",
+        "name": "Constitution and Flag Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Kurban Bayramy Holiday"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Saturday",
+        "name": "Independence Day of Turkmenistan"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Commemoration Day"
+      }
+    ]
+  }
+]

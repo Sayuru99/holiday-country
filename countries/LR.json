@@ -1,0 +1,117 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Armed Forces Day Holiday"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Wednesday",
+        "name": "National Decoration Day"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Friday",
+        "name": "Joseph Jenkins Roberts' Birthday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Fast and Prayer Day"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Tuesday",
+        "name": "National Unification Day"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Saturday",
+        "name": "National Flag Day"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Nov 29",
+        "weekday": "Friday",
+        "name": "William V.S. Tubman's Birthday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Tuesday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Mar 12",
+        "weekday": "Wednesday",
+        "name": "National Decoration Day"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Saturday",
+        "name": "Joseph Jenkins Roberts' Birthday"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Friday",
+        "name": "Fast and Prayer Day"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Wednesday",
+        "name": "National Unification Day"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Sunday",
+        "name": "National Flag Day"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "National Flag Day Holiday"
+      }
+    ]
+  }
+]

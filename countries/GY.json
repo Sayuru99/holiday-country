@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Friday",
+        "name": "Republic Day (Mashramani / National Day)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Phagwah (Holi)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Arrival Day"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Arrival Day Holiday"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid-Ul-Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "CARICOM Day"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "Emancipation Day"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Youmun Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali (Festival of Lights)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Sunday",
+        "name": "Republic Day (Mashramani / National Day)"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Monday",
+        "name": "Republic Day Holiday"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Phagwah (Holi)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Arrival Day"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid-Ul-Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Monday",
+        "name": "CARICOM Day"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "Emancipation Day"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Youmun Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Deepavali (Festival of Lights)"
+      }
+    ]
+  }
+]

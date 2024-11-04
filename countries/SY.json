@@ -1,0 +1,197 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Revolution Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Mothers' Day"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter (Gregorian/Western)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Easter (Julian/Orthodox)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mawlid An Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Sunday",
+        "name": "Tishreen Liberation War Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Revolution Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Mothers' Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter (Julian/Orthodox)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter (Gregorian/Western)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Tuesday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Mawlid An Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Tishreen Liberation War Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Confraternização Universal)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Ash Wednesday (until 2pm)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday (beginning at 12:00 noon)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Paixão de Cristo)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Tiradentes Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day (Dia Mundial do Trabalho)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Friday",
+        "name": "Ponto Facultativo"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Municipal Public Holiday (Rio de Janeiro) (Copa Libertadores da América)"
+      },
+      {
+        "date": "Sep 19",
+        "weekday": "Thursday",
+        "name": "Municipal Public Holiday (Rio de Janeiro) (Copa Libertadores da América)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Lady of Aparecida Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "Civil Servants' Day (Dia do Servidor Público)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day (Finados)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Municipal Public Holiday (Rio de Janeiro) (G20)"
+      },
+      {
+        "date": "Nov 19",
+        "weekday": "Tuesday",
+        "name": "Municipal Public Holiday (Rio de Janeiro) (G20)"
+      },
+      {
+        "date": "Nov 20",
+        "weekday": "Wednesday",
+        "name": "Black Consciousness Day (Dia Nacional de Zumbi e da Consciência Negra)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve (after 2pm)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Natal)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve (after 2pm)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Confraternização Universal)"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Ash Wednesday (until 2pm)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday (beginning at 12:00 noon)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Paixão de Cristo)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Tiradentes Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day (Dia Mundial do Trabalho)"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Friday",
+        "name": "Ponto Facultativo (tentative)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "Lady of Aparecida Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Tuesday",
+        "name": "Civil Servants' Day (Dia do Servidor Público)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Tahun Baru 2024)"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "The Prophet's Ascension (Isra' Mi'raj Nabi Muhammad SAW)"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Chinese New Year (Tahun Baru Imlek)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Presidential Election)"
+      },
+      {
+        "date": "Mar 11",
+        "weekday": "Monday",
+        "name": "Hindu New Year (Hari Raya Nyepi Tahun Baru Saka 1946)"
+      },
+      {
+        "date": "Mar 12",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Wafat Yesus Kristus)"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "End of Ramadan (Hari Raya Idul Fitri 1445 Hijriyah)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labor Day (Hari Buruh Internasional)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day (Kenaikan Yesus Kristus)"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Day (Hari Raya Waisak)"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Pancasila Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Feast of Sacrifice (Hari Raya Idul Adha 1445 Hijriyah)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year (Tahun Baru Islam 1446 Hijriyah)"
+      },
+      {
+        "date": "Aug 17",
+        "weekday": "Saturday",
+        "name": "Independence Day (Hari Kemerdekaan RI)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "The Prophet's Birthday (Maulid Nabi Muhammad SAW 1446 H)"
+      },
+      {
+        "date": "Nov 27",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Regional Elections)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Hari Raya Natal)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Cuti Bersama 2024) (widespread nationwide)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Tahun Baru 2025)"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "The Prophet's Ascension (Isra' Mi'raj Nabi Muhammad SAW)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year (Tahun Baru Imlek)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Saturday",
+        "name": "Hindu New Year (Hari Raya Nyepi Tahun Baru Saka 1947)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "End of Ramadan (Hari Raya Idul Fitri 1446 Hijriyah)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "Apr 3",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Monday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Wafat Yesus Kristus)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter (Paskah)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labor Day (Hari Buruh Internasional)"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Day (Hari Raya Waisak)"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day (Kenaikan Yesus Kristus)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "Pancasila Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Feast of Sacrifice (Hari Raya Idul Adha 1446 Hijriyah)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Public Holiday (Cuti Bersama 2025) (widespread nationwide)"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Islamic New Year (Tahun Baru Islam 1447 Hijriyah)"
+      },
+      {
+        "date": "Aug 17",
+        "weekday": "Sunday",
+        "name": "Independence Day (Hari Kemerdekaan RI)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "The Prophet's Birthday (Maulid Nabi Muhammad SAW 1447 H)"
+      }
+    ]
+  }
+]

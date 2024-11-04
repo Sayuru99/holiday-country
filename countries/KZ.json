@@ -1,0 +1,207 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Nauryz Meyramy (Persian New Year)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Unity Day"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Homeland Defender Day"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (workday moved to Sat. May 4)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Kurban Ait (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Saturday",
+        "name": "Day of the Capital"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Day of the Capital Holiday"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Oct 25",
+        "weekday": "Friday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Dec 16",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 10",
+        "weekday": "Monday",
+        "name": "International Women's Day Holiday"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Nauryz Meyramy (Persian New Year)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Tuesday",
+        "name": "Nauryz Meyramy Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Unity Day"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Wednesday",
+        "name": "Homeland Defender Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Kurban Ait (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Day of the Capital"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Monday",
+        "name": "Day of the Capital Holiday"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Saturday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Constitution Day Holiday"
+      },
+      {
+        "date": "Oct 25",
+        "weekday": "Saturday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "Republic Day Holiday"
+      }
+    ]
+  }
+]

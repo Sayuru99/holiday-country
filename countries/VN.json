@@ -1,0 +1,172 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Tet Eve (Vietnamese New Year's Eve)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Tet Nguyen Dan (Vietnamese New Year)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Thursday",
+        "name": "Gio to Hung Vuong Day"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Monday",
+        "name": "Liberation/Reunification/Labour Day Holiday (workday moved to Sat. May 4)"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Tuesday",
+        "name": "Liberation/Reunification Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Saturday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Sunday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "National Day"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Tuesday",
+        "name": "National Day Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Saturday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Tet Holiday (tentative)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Tet Eve (Vietnamese New Year's Eve)"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Tet Nguyen Dan (Vietnamese New Year)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Feb 1",
+        "weekday": "Saturday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Feb 2",
+        "weekday": "Sunday",
+        "name": "Tet Holiday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Monday",
+        "name": "Gio to Hung Vuong Day"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Wednesday",
+        "name": "Liberation/Reunification Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Labour Day Holiday (tentative) (workday moved to Sat. Apr. 26)"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Tuesday",
+        "name": "National Day"
+      }
+    ]
+  }
+]

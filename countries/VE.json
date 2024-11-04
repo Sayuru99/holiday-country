@@ -1,0 +1,222 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Tuesday",
+        "name": "Saint Joseph's Day (San José)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Independence Declaration Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Ascension Bank Holiday"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "Corpus Christi Bank Holiday"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Día de San Antonio Bank Holiday"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Battle of Carabobo Day"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 24",
+        "weekday": "Wednesday",
+        "name": "Simón Bolívar's Birthday"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Assumption Bank Holiday"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Virgin of Coromoto Day Bank Holiday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Día de la Resistencia Indígena"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "All Saints Bank Holiday"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Día de la Virgen del Rosario de Chiquinquirá"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (Dia de Reyes)"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Día de la Divina Pastora Bank Holiday"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Wednesday",
+        "name": "Saint Joseph's Day (San José)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Independence Declaration Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Thursday",
+        "name": "Venezuelan Family Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Ascension Bank Holiday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Monday",
+        "name": "Día de San Antonio Bank Holiday (tentative)"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Monday",
+        "name": "Corpus Christi Bank Holiday"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "Battle of Carabobo Day"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 24",
+        "weekday": "Thursday",
+        "name": "Simón Bolívar's Birthday"
+      },
+      {
+        "date": "Aug 18",
+        "weekday": "Monday",
+        "name": "Assumption Bank Holiday"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Virgin of Coromoto Day Bank Holiday (tentative)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "Día de la Resistencia Indígena"
+      }
+    ]
+  }
+]

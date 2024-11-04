@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Feb 17",
+        "weekday": "Saturday",
+        "name": "February 17 Revolution Day"
+      },
+      {
+        "date": "Feb 18",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Thirteenth Anniversary of the February 17 Revolution)"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Tuesday",
+        "name": "Commemoration of the Victory over Kadhafi"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Arafat Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid ul Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid ul Adha Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid ul Adha Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mouled Al Nabee (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Wednesday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "February 17 Revolution Day"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Wednesday",
+        "name": "Commemoration of the Victory over Kadhafi"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Arafat Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid ul Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid ul Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid ul Adha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Mouled Al Nabee (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Tuesday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Liberation Day"
+      }
+    ]
+  }
+]

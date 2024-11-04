@@ -1,0 +1,127 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Amanor)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Armenian Christmas (Surb Tsnund)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Sunday",
+        "name": "National Army Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 24",
+        "weekday": "Wednesday",
+        "name": "Armenian Remembrance Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Victory and Peace Day"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Tuesday",
+        "name": "1st Republic Day"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Amanor)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Armenian Christmas (Surb Tsnund)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "National Army Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 24",
+        "weekday": "Thursday",
+        "name": "Armenian Remembrance Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Victory and Peace Day"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Wednesday",
+        "name": "1st Republic Day"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

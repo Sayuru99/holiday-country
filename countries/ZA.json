@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Human Rights Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Family Day / Easter Monday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Saturday",
+        "name": "Freedom Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (General National and Provincial Elections)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Youth Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Friday",
+        "name": "National Women’s Day"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Tuesday",
+        "name": "Heritage Day"
+      },
+      {
+        "date": "Dec 16",
+        "weekday": "Monday",
+        "name": "Day of Reconciliation"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Day of Goodwill"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Human Rights Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Family Day / Easter Monday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Sunday",
+        "name": "Freedom Day"
+      },
+      {
+        "date": "Apr 28",
+        "weekday": "Monday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Monday",
+        "name": "Youth Day"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "National Women’s Day"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "Heritage Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Thursday",
+        "name": "Independence Manifesto Day (1944)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Yennayer (Amazigh New Year)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Aïd al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Aïd al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Aïd al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Aïd al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Aïd al Adha Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "1er Moharrem (Islamic New Year)"
+      },
+      {
+        "date": "July 30",
+        "weekday": "Tuesday",
+        "name": "Throne Day"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Wednesday",
+        "name": "Oued Ed-Dahab Day"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Tuesday",
+        "name": "Revolution Day (1953)"
+      },
+      {
+        "date": "Aug 21",
+        "weekday": "Wednesday",
+        "name": "HM Mohammed VI's Birthday (Fête de la Jeunesse)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Aîd el Maoulid Annabaoui (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Aîd el Maoulid Annabaoui Holiday"
+      },
+      {
+        "date": "Nov 6",
+        "weekday": "Wednesday",
+        "name": "Green March Day"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Saturday",
+        "name": "Independence Manifesto Day (1944)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Yennayer (Amazigh New Year)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Aïd al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Aïd al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Aïd al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Aïd al Adha Holiday"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "1er Moharrem (Islamic New Year)"
+      },
+      {
+        "date": "July 30",
+        "weekday": "Wednesday",
+        "name": "Throne Day"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Thursday",
+        "name": "Oued Ed-Dahab Day"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Wednesday",
+        "name": "Revolution Day (1953)"
+      },
+      {
+        "date": "Aug 21",
+        "weekday": "Thursday",
+        "name": "HM Mohammed VI's Birthday (Fête de la Jeunesse)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Aîd el Maoulid Annabaoui (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Saturday",
+        "name": "Aîd el Maoulid Annabaoui Holiday"
+      }
+    ]
+  }
+]

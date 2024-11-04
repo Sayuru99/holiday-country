@@ -1,0 +1,157 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 25",
+        "weekday": "Sunday",
+        "name": "Public Holiday (passing of president Hage Geingob)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Monday",
+        "name": "Public Holiday (passing of president Hage Geingob)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter Sunday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Cassinga Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Africa Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Heroes' Day"
+      },
+      {
+        "date": "Nov 27",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Presidential and National Assembly Elections)"
+      },
+      {
+        "date": "Dec 10",
+        "weekday": "Tuesday",
+        "name": "International Human Rights Day / Namibian Women's Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Family Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Sunday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Workers' Day"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Sunday",
+        "name": "Cassinga Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Cassinga Day (day in lieu)"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Sunday",
+        "name": "Africa Day"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Africa Day (day in lieu)"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Wednesday",
+        "name": "Genocide Remembrance Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Tuesday",
+        "name": "Heroes' Day"
+      }
+    ]
+  }
+]

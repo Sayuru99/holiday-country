@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Año Nuevo)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany (Reyes Magos)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Jueves Santo)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Fin de Ramadán (Eid Al Fitr)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (Fiesta del Trabajo)"
+      },
+      {
+        "date": "June 13",
+        "weekday": "Thursday",
+        "name": "San Antonio"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Fiesta del Sacrificio (Eid Al Adha)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Nuestra Señora de África"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption (La Asunción)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "National Day (Fiesta Nacional de España)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day (Todos los Santos)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Constitution Day (Día de la Constitución Española)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception (Inmaculada Concepción) (not a public holiday in 2024)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas (Navidad)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Año Nuevo)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (Reyes Magos)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Fin de Ramadán (Eid Al Fitr)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Jueves Santo)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (Fiesta del Trabajo)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Fiesta del Sacrificio (Eid Al Adha)"
+      },
+      {
+        "date": "June 13",
+        "weekday": "Friday",
+        "name": "San Antonio"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Tuesday",
+        "name": "Nuestra Señora de África"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption (La Asunción)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "National Day (Fiesta Nacional de España) (not a public holiday in 2025)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "All Saints' Day (Todos los Santos)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Saturday",
+        "name": "Constitution Day (Día de la Constitución Española)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Monday",
+        "name": "Immaculate Conception (Inmaculada Concepción)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas (Navidad)"
+      }
+    ]
+  }
+]

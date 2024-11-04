@@ -1,0 +1,262 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Dol Jatra / Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Id-Ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-Ul-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Wednesday",
+        "name": "Behdeinkhlam"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Death Anniversary of U Tirot Sing"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dussehra"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Diwali (Deepavali)"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Wangala Festival"
+      },
+      {
+        "date": "Nov 23",
+        "weekday": "Saturday",
+        "name": "Seng Kut Snem"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of Pa Togan Nengminja Sangma"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Wednesday",
+        "name": "Death Anniversary of U SoSo Tham"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Death Anniversary of U Kiang Nangbah"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Dol Jatra / Holi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Id-Ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id-Ul-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Monday",
+        "name": "Behdeinkhlam"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of U Tirot Sing"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dussehra"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Diwali (Deepavali)"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Friday",
+        "name": "Wangala Festival"
+      },
+      {
+        "date": "Nov 23",
+        "weekday": "Sunday",
+        "name": "Seng Kut Snem"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Friday",
+        "name": "Death Anniversary of Pa Togan Nengminja Sangma"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of U SoSo Tham"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Wednesday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Christmas Festival"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Tuesday",
+        "name": "Death Anniversary of U Kiang Nangbah"
+      }
+    ]
+  }
+]

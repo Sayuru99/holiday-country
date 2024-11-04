@@ -1,0 +1,97 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Sunday",
+        "name": "Orthodox Pentecost"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 10",
+        "weekday": "Monday",
+        "name": "Women's Day Holiday (might be canceled due to martial law)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (might be canceled due to martial law)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day (might be canceled due to martial law)"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "Day of Remembrance and Victory over Nazism (might be canceled due to martial law)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Orthodox Pentecost"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Orthodox Pentecost Monday (might be canceled due to martial law)"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Saturday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Monday",
+        "name": "Constitution Day Holiday (might be canceled due to martial law)"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Tuesday",
+        "name": "Day of Ukrainian Statehood (might be canceled due to martial law)"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday (might be canceled due to martial law)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Day of the Defenders of the Ukraine (might be canceled due to martial law)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 10",
+        "weekday": "Wednesday",
+        "name": "Majority Rule Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Friday",
+        "name": "Sir Randol Fawkes Day (Labour Day)"
+      },
+      {
+        "date": "July 10",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Emancipation Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "National Heroes Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 10",
+        "weekday": "Friday",
+        "name": "Majority Rule Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Sir Randol Fawkes Day (Labour Day)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "July 10",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Emancipation Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "National Heroes Day"
+      }
+    ]
+  }
+]

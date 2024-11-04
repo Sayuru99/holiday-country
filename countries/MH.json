@@ -1,0 +1,107 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Nuclear Victims Remembrance Day (Bravo Day)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Constitution Day (National Day)"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Fishermen's Day"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Friday",
+        "name": "Dri-jerbal Day (Labor Day)"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Friday",
+        "name": "Manit Day (Culture Day)"
+      },
+      {
+        "date": "Nov 17",
+        "weekday": "Sunday",
+        "name": "Presidents' Day"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Presidents' Day Holiday"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Gospel Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Remembrance Day Public Holiday"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Nuclear Victims Remembrance Day (Bravo Day)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Constitution Day (National Day)"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Friday",
+        "name": "Fishermen's Day"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Dri-jerbal Day (Labor Day)"
+      },
+      {
+        "date": "Sep 26",
+        "weekday": "Friday",
+        "name": "Manit Day (Culture Day)"
+      }
+    ]
+  }
+]

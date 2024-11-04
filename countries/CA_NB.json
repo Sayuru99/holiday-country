@@ -1,0 +1,182 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Family Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Victoria Day (prescribed day of rest)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Canada Day"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Civic/Provincial Holiday"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Truth and Reconciliation Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (prescribed day of rest)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Remembrance Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Family Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Victoria Day (prescribed day of rest)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Canada Day"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Civic/Provincial Holiday"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Truth and Reconciliation Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (prescribed day of rest)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Remembrance Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day"
+      }
+    ]
+  }
+]

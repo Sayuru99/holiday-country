@@ -1,0 +1,127 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Republic Day / New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Catholic Epiphany"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Liberation of the Republic"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Saints Cyril and Methodius' Day"
+      },
+      {
+        "date": "Aug 29",
+        "weekday": "Thursday",
+        "name": "Slovak National Uprising Anniversary"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Virgin Mary of the Seven Sorrows Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 17",
+        "weekday": "Sunday",
+        "name": "Freedom and Democracy Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Republic Day / New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Catholic Epiphany"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "Liberation of the Republic"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Saints Cyril and Methodius' Day"
+      },
+      {
+        "date": "Aug 29",
+        "weekday": "Friday",
+        "name": "Slovak National Uprising Anniversary"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Virgin Mary of the Seven Sorrows Day"
+      }
+    ]
+  }
+]

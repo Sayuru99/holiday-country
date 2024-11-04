@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "NRM Liberation Day"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Friday",
+        "name": "Archbishop Janani Luwum Memorial Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Idd el-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Public Holiday (National Census)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "Uganda Martyrs' Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Sunday",
+        "name": "National Heroes' Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Idd-al-Adhuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "NRM Liberation Day"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Sunday",
+        "name": "Archbishop Janani Luwum Memorial Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Idd el-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Tuesday",
+        "name": "Uganda Martyrs' Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Idd-al-Adhuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "National Heroes' Day"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

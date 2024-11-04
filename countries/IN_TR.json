@@ -1,0 +1,337 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Pous Parban"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Netaji's Birthday"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Doljatra"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Id-Ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Biju Festival"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Bengali New Year's Day"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Saturday",
+        "name": "Garia Puja"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day / Labor Day"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-Uz-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Sunday",
+        "name": "Kharchi Puja"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Last Day Of Kharchi Puja"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Ker Puja"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Panchayats Elections)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Birthday of Prophet Mohammad"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahalaya"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Maha Saptami"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Maha Ashtami"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Vijaya Dasami"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Additional Holiday"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Additional Holiday"
+      },
+      {
+        "date": "Oct 16",
+        "weekday": "Wednesday",
+        "name": "Lakshmi Puja"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Tuesday",
+        "name": "World Disabled Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Pous Parban"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Thursday",
+        "name": "Netaji's Birthday"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Saraswati Puja"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivaratri"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Doljatra"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Id-Ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Biju Festival"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Bengali New Year's Day"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Garia Puja"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day / Labor Day"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id-Uz-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Thursday",
+        "name": "Kharchi Puja"
+      },
+      {
+        "date": "July 19",
+        "weekday": "Saturday",
+        "name": "Ker Puja"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Birthday of Prophet Mohammad"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Mahalaya"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Maha Saptami"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Maha Ashtami"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Vijaya Dasami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Lakshmi Puja"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      }
+    ]
+  }
+]

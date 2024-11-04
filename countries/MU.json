@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Bank Holiday (Tropical Storm Belal) (afternoon from 12:30)"
+      },
+      {
+        "date": "Jan 16",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday (Tropical Storm Belal)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Thaipoosam Cavadee"
+      },
+      {
+        "date": "Feb 1",
+        "weekday": "Thursday",
+        "name": "Commemoration of the Abolition of Slavery"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Fête du Printemps (Chinese New Year)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivaratree"
+      },
+      {
+        "date": "Mar 12",
+        "weekday": "Tuesday",
+        "name": "National Day / Independence Day"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Ougadi / Ugaadi"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 22",
+        "weekday": "Monday",
+        "name": "Bank Holiday (Torrential Rains)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Ganesh Chathurthi"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Divali (Festival of Lights)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Commemoration of the Arrival of Indentured Labourers"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Fête du Printemps (Chinese New Year)"
+      },
+      {
+        "date": "Feb 1",
+        "weekday": "Saturday",
+        "name": "Commemoration of the Abolition of Slavery"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Tuesday",
+        "name": "Thaipoosam Cavadee"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivaratree"
+      },
+      {
+        "date": "Mar 12",
+        "weekday": "Wednesday",
+        "name": "National Day / Independence Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ougadi / Ugaadi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Thursday",
+        "name": "Ganesh Chathurthi"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Divali (Festival of Lights)"
+      }
+    ]
+  }
+]

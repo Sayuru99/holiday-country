@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr's Birthday"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Monday",
+        "name": "Guam History and Chamorro Heritage Day"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Sunday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "July 22",
+        "weekday": "Monday",
+        "name": "Liberation Day Holiday"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Souls' Day Holiday"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Veterans Day"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Santa Marian Kamalen (Our Lady of Camarin Day)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Santa Marian Kamalen Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr. Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Guam History and Chamorro Heritage Day"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Monday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      }
+    ]
+  }
+]

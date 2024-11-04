@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "The Prophet's Ascension"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Prophet's Birthday"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (except Gaza)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "The Prophet's Ascension"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "The Prophet's Birthday"
+      }
+    ]
+  }
+]

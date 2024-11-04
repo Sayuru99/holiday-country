@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Friday",
+        "name": "World Children's Day"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "German Unity Day"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Reformation Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Saturday",
+        "name": "World Children's Day"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "German Unity Day"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Friday",
+        "name": "Reformation Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Second Day of Christmas"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  }
+]

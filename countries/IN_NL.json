@@ -1,0 +1,277 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year Day"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Id-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-Ul-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Urban Local Bodies Election)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami (Vaishnva)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Milad-un-Nabi / Id-E-Milad (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Dussehra / Durga Puja (Day 1)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Dussehra / Durga Puja (Day 2)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali / Deepavali"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Birthday"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Sunday",
+        "name": "State Inauguration Day"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Saturday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Christmas Holidays"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year Day"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Id-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id-Ul-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami (Vaishnva)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Milad-un-Nabi / Id-E-Milad (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Dussehra / Durga Puja (Day 1)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dussehra / Durga Puja (Day 2)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali / Deepavali"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Birthday"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Monday",
+        "name": "State Inauguration Day"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Tuesday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Wednesday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Sunday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Monday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Tuesday",
+        "name": "Christmas Holidays"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Wednesday",
+        "name": "Christmas Holidays"
+      }
+    ]
+  }
+]

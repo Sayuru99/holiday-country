@@ -1,0 +1,177 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Monday",
+        "name": "Liberation Day / Saint Agatha's Day"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Anniversary of the Arengo"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Investiture of the Captains Regent (Heads of State)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Domini (Corpus Christi)"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Sunday",
+        "name": "Anniversary of the Fall of Fascism"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption of the Virgin Day"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Tuesday",
+        "name": "San Marino National Day / Republic Day"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Investiture of the Captains Regent (Heads of State)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day (Commemoration of the Dead)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Saint Stephen's Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Wednesday",
+        "name": "Liberation Day / Saint Agatha's Day"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Tuesday",
+        "name": "Anniversary of the Arengo"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Investiture of the Captains Regent (Heads of State)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Domini (Corpus Christi)"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "Anniversary of the Fall of Fascism"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption of the Virgin Day"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Wednesday",
+        "name": "San Marino National Day / Republic Day"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Investiture of the Captains Regent (Heads of State)"
+      }
+    ]
+  }
+]

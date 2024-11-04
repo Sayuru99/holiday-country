@@ -1,0 +1,447 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Makar Sankranti"
+      },
+      {
+        "date": "Jan 17",
+        "weekday": "Wednesday",
+        "name": "Puri Jagannath Temple Project Inauguration"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Subash Chandra Bose Jayanti / Vir Surendrasai Jayanti"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Saturday",
+        "name": "Samaleswari Temple Inauguration"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Basanta Panchami"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Tuesday",
+        "name": "Panchayatiraj Divas"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivaratri"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Dola Purnima"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Utkal Divas"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "ld-ul-Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. B.R. Ambedkar Javanti"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Maha Vishuva Sankranti"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Purnima / Birthday of Pandit Raghunath Murmu"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Thursday",
+        "name": "Sabitri Amabasya"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Friday",
+        "name": "Pahili Raja"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Raja Sankranti"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-Ul-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Ratha Yatra"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Ratha Yatra"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Muharram"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Jhulana Purnima"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmastami"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Saturday",
+        "name": "Ganesh Puja"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Nuakhai"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Monday",
+        "name": "Nuakhai"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Birthday of Prophet Mohammad"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahalaya"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Maha Saptami"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Maha Astami"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Vijaya Dashami"
+      },
+      {
+        "date": "Oct 16",
+        "weekday": "Wednesday",
+        "name": "Kumar Purnima"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali / Kalipuja"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Rahash Purnima"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "X-Mass Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Makar Sankranti"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Thursday",
+        "name": "Subash Chandra Bose Jayanti / Vir Surendrasai Jayanti"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Basanta Panchami"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivaratri"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Panchayatiraj Divas"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Dola Purnima"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "ld-ul-Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Utkal Divas"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Maha Vishuva Sankranti"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. B.R. Ambedkar Javanti"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnima / Birthday of Pandit Raghunath Murmu"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Tuesday",
+        "name": "Sabitri Amabasya"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id-Ul-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Saturday",
+        "name": "Pahili Raja"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Sunday",
+        "name": "Raja Sankranti"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Ratha Yatra"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Muharram"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Friday",
+        "name": "Jhulana Purnima"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmastami"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Wednesday",
+        "name": "Ganesh Puja"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Thursday",
+        "name": "Nuakhai"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Birthday of Prophet Mohammad"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Mahalaya"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Maha Saptami"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Maha Astami"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Vijaya Dashami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Kumar Purnima"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Kali Puja"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali / Kalipuja"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Rahash Purnima"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "X-Mass Day"
+      }
+    ]
+  }
+]

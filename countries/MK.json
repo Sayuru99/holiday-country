@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Nova Godina)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Christmas Day (Orthodox)"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Monday",
+        "name": "Christmas Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ramazan Bajram (End of Ramadan)"
+      },
+      {
+        "date": "Apr 24",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (First Round Presidential Election)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (Den na trudot)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (Vtor den Veligden)"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Parliamentary Elections and 2nd Round Presidential Election)"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Friday",
+        "name": "Saints Cyril and Methodius' Day"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Friday",
+        "name": "Iliden Day (Republic Day)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Uprising Against Facism Day"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Wednesday",
+        "name": "Day of the Macedonian Revolution"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "St. Kliment Ohridski (St. Clement of Ohrid)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "St. Kliment Ohridski Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Nova Godina)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Christmas Day (Orthodox)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ramazan Bajram (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramazan Bajram Holiday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (Vtor den Veligden)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (Den na trudot)"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Saturday",
+        "name": "Saints Cyril and Methodius' Day"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Saturday",
+        "name": "Iliden Day (Republic Day)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Saturday",
+        "name": "Uprising Against Facism Day"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Day of the Macedonian Revolution"
+      }
+    ]
+  }
+]

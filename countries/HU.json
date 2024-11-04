@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Friday",
+        "name": "1848 Revolution Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Public Holiday (workday moved to Sat. Aug. 3)"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Tuesday",
+        "name": "Saint Stephen's Day (National Day)"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Wednesday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (workday moved to Sat. Dec. 7)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Public Holiday (workday moved to Sat. Dec. 14)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Saturday",
+        "name": "1848 Revolution Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Public Holiday (workday moved to May 17)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Wednesday",
+        "name": "Saint Stephen's Day (National Day)"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "Public Holiday (workday moved to Oct.18)"
+      }
+    ]
+  }
+]

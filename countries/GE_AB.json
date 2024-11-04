@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Azhirnikhua (Day of world creation)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Day of the Holy Apostle Simon the Zealot"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Kurbanykhua / Eil al-Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Anniversary of Official Recognition"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Wednesday",
+        "name": "Assumption of the Blessed Virgin Mary"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Day of Liberation of the Republic of Abkhazia"
+      },
+      {
+        "date": "Nov 26",
+        "weekday": "Tuesday",
+        "name": "Constitution Day of the Republic of Abkhazia"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Azhirnikhua (Day of world creation)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 10",
+        "weekday": "Monday",
+        "name": "Women's Day Holiday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Friday",
+        "name": "Day of the Holy Apostle Simon the Zealot"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Kurbanykhua / Eil al-Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Tuesday",
+        "name": "Anniversary of Official Recognition"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Thursday",
+        "name": "Assumption of the Blessed Virgin Mary"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Day of Liberation of the Republic of Abkhazia"
+      }
+    ]
+  }
+]

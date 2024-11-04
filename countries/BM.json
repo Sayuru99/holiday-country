@@ -1,0 +1,97 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Friday",
+        "name": "Bermuda Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "National Heroes' Day"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "Emancipation Day (1st Day of Cup Match)"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Friday",
+        "name": "Mary Prince Day (2nd Day of Cup Match)"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Remembrance Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Friday",
+        "name": "Bermuda Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Monday",
+        "name": "National Heroes' Day"
+      },
+      {
+        "date": "July 31",
+        "weekday": "Thursday",
+        "name": "Emancipation Day (1st Day of Cup Match)"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "Mary Prince Day (2nd Day of Cup Match)"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      }
+    ]
+  }
+]

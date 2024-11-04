@@ -1,0 +1,262 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Friday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas Day"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Monday",
+        "name": "Orthodox Christmas Holiday"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Friday",
+        "name": "Motherland Defenders' Day"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Feb 25",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 9",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 10",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 28",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Monday",
+        "name": "Public Holiday (workday moved to Apr. 27)"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (workday moved to Nov. 2)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Public Holiday (in lieu of Jan. 6)"
+      },
+      {
+        "date": "May 11",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Wednesday",
+        "name": "Russia Day"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Unity Day"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "New Year Holiday (workday moved to Sat. Dec. 28)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday (in lieu of Jan. 7)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas Day"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Wednesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Feb 22",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Sunday",
+        "name": "Motherland Defenders' Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 9",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Public Holiday (in lieu of Jan. 4)"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "Public Holiday (in lieu of Feb. 23)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "May 11",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Thursday",
+        "name": "Russia Day"
+      },
+      {
+        "date": "June 13",
+        "weekday": "Friday",
+        "name": "Public Holiday (in lieu of Mar. 8)"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      }
+    ]
+  }
+]

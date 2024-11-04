@@ -1,0 +1,247 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday (in lieu of Mon. Jan. 8)"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "New Year Holiday (workday moved to Sat. Jan. 27)"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Thursday",
+        "name": "New Year Holiday (workday moved to Sat. Mar. 2)"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Friday",
+        "name": "New Year Holiday (in lieu of Mon. Sep. 2)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Friday",
+        "name": "Homeland Defenders' Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "People's Holiday of Nooruz"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Nooruz Holiday (in lieu of Mon. Apr. 8)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Nooruz Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Nooruz Holiday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Day of the People's April Revolution"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Orozo Ait (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "Labour Day Holiday (in lieu of Mon. May 6)"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Labour Day Holiday (workday moved to Sat. May 11)"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Constitution Day of the Kyrgyz Republic"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Kurman Ait (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Kurman Ait Holiday"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Saturday",
+        "name": "Independence Day of the Kyrgyz Republic"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Thursday",
+        "name": "Days of History and Memory"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Days of History and Memory"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holidays"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "New Year Holidays"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Saturday",
+        "name": "New Year Holidays"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Sunday",
+        "name": "New Year Holidays"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "New Year Holidays"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "People's Holiday of Nooruz"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Orozo Ait (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "May Holidays"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Saturday",
+        "name": "May Holidays"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Sunday",
+        "name": "May Holidays"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Constitution Day of the Kyrgyz Republic"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Tuesday",
+        "name": "May Holidays"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Wednesday",
+        "name": "May Holidays"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "May Holidays"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Kurman Ait (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Sunday",
+        "name": "Independence Day of the Kyrgyz Republic"
+      }
+    ]
+  }
+]

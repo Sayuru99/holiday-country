@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Lendemain de la nuit de Laylatoul Qadr"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Laylatoul Qadr Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Africa Day (OAU Anniversary)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Tabaski Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Lendemain de la nuit du Maouloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Thursday",
+        "name": "Lendemain de la nuit de Laylatoul Qadr"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Korité Holiday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Sunday",
+        "name": "Africa Day (OAU Anniversary)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Tabaski Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Lendemain de la nuit du Maouloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

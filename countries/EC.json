@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Thursday",
+        "name": "Public Holiday (electrical load shedding) (except banks)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (electrical load shedding) (except banks)"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Labor Day Holiday"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Friday",
+        "name": "Battle of Pichincha Day"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Friday",
+        "name": "Guayaquil Day Holiday"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Friday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Aug 10",
+        "weekday": "Saturday",
+        "name": "National Day"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Guayaquil Independence Holiday"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "All Souls' Holiday"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Souls' Holiday"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Cuenca Independence Day"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Cuenca Independence Holiday"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Quito Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Labor Day Holiday"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Friday",
+        "name": "Battle of Pichincha Holiday"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Saturday",
+        "name": "Battle of Pichincha Day"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Friday",
+        "name": "Guayaquil Day"
+      },
+      {
+        "date": "Aug 10",
+        "weekday": "Sunday",
+        "name": "National Day"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Monday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Guayaquil Independence Holiday"
+      }
+    ]
+  }
+]

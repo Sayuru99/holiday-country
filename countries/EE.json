@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Friday",
+        "name": "Shortened Workday"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Iseseisvuspäev (Independence Day)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Kevadpüha (Spring Day)"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Sunday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Midsummer's Day / Saint John's Day"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Tuesday",
+        "name": "Independence Restoration Day"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Shortened Workday"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Shortened Workday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Monday",
+        "name": "Iseseisvuspäev (Independence Day)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Kevadpüha (Spring Day)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Whit Sunday (Pentecost)"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Monday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "Midsummer's Day / Saint John's Day"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Wednesday",
+        "name": "Independence Restoration Day"
+      }
+    ]
+  }
+]

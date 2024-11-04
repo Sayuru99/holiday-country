@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Leddet (Coptic Christmas)"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Saturday",
+        "name": "Timket (Coptic Epiphany)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ed'Al Fetir / Eid Al-Fater (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Coptic Good Friday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Tensae (Coptic Easter)"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Ed'Al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Sunday",
+        "name": "Revolution Day (Bahti Meskerem)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Wednesday",
+        "name": "Keddus Johannes (Geez New Year)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Eid Al-Maulid Anebi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Friday",
+        "name": "Meskel (Discovery of the True Cross)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Leddet (Coptic Christmas)"
+      },
+      {
+        "date": "Jan 19",
+        "weekday": "Sunday",
+        "name": "Timket (Coptic Epiphany)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ed'Al Fetir / Eid Al-Fater (End of Ramadan)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Coptic Good Friday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Tensae (Coptic Easter)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Ed'Al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Friday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Revolution Day (Bahti Meskerem)"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Eid Al-Maulid Anebi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Thursday",
+        "name": "Keddus Johannes (Geez New Year)"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Saturday",
+        "name": "Meskel (Discovery of the True Cross)"
+      }
+    ]
+  }
+]

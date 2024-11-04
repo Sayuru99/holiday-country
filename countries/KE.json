@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Idd ul Fitr / Idd Baraza (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "National Tree Growing Day"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Madaraka Day (National Day)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Idd-ul-Azha"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Mazingira Day"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Monday",
+        "name": "Mashujaa Day Holiday"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Thursday",
+        "name": "Jamhuri Day (National Day)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day / Utamaduni Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Idd ul Fitr / Idd Baraza (End of Ramadan)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Madaraka Day Holiday"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Idd-ul-Azha"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Mazingira Day"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Mashujaa Day (National Day)"
+      }
+    ]
+  }
+]

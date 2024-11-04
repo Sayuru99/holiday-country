@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Feb 22",
+        "weekday": "Thursday",
+        "name": "Founding Day"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday (Arafat Day)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Sunday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "National Day (Al-Yaom Al-Watany)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Feb 22",
+        "weekday": "Saturday",
+        "name": "Founding Day"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Sunday",
+        "name": "Founding Day Holiday (tentative)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 3",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Eid al Adha Holiday (Arafat Day)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "National Day (Al-Yaom Al-Watany)"
+      }
+    ]
+  }
+]

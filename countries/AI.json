@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Saturday",
+        "name": "James Ronald Webster's Birthday"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Monday",
+        "name": "James Ronald Webster Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Anguilla Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Celebration of the Birthday of His Majesty The King"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "August Monday (Start of Carnival)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "August Thursday"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Dec 19",
+        "weekday": "Thursday",
+        "name": "National Heroes and Heroines Day/National Jollification Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Sunday",
+        "name": "James Ronald Webster's Birthday"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "James Ronald Webster Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Anguilla Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Monday",
+        "name": "Celebration of the Birthday of His Majesty The King"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "August Monday (Start of Carnival)"
+      },
+      {
+        "date": "Aug 7",
+        "weekday": "Thursday",
+        "name": "August Thursday"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      }
+    ]
+  }
+]

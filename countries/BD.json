@@ -1,0 +1,282 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Public Holiday (12th Parliamentary Elections)"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Wednesday",
+        "name": "Shahid Dibosh (International Mother Language Day)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Monday",
+        "name": "Shab e-Barat (Night of Records)"
+      },
+      {
+        "date": "Mar 17",
+        "weekday": "Sunday",
+        "name": "Sheikh Mujibur Rahman's Birth Anniversary"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Jumatul Bidah"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Shab-e-Qadar (Night of Destiny)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid-ul-Fiter Holiday"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid-ul-Fiter (End of Ramadan)"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid-ul-Fiter Holiday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Pahela Baishakh (Bangla New Year)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Buddha Purnuma (Buddha Day)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid-ul-Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "July Bank Holiday"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Ashura (Muharrum)"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "July 22",
+        "weekday": "Monday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "July 23",
+        "weekday": "Tuesday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Sri Krishna Janamashtami"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Eid-e-Milad-un Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Durga Puja Holiday"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Durga Puja (Bijoya Dashami)"
+      },
+      {
+        "date": "Dec 16",
+        "weekday": "Monday",
+        "name": "Bijoy Dibosh (Victory Day)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Feb 15",
+        "weekday": "Saturday",
+        "name": "Shab e-Barat (Night of Records)"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Friday",
+        "name": "Shahid Dibosh (International Mother Language Day)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Wednesday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Shab-e-Qadar (Night of Destiny)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Jumatul Bidah"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Saturday",
+        "name": "Eid-ul-Fiter Holiday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid-ul-Fiter Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid-ul-Fiter (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid-ul-Fiter Holiday"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Wednesday",
+        "name": "Eid-ul-Fiter Holiday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Pahela Baishakh (Bangla New Year)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnuma (Buddha Day)"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid-ul-Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Tuesday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "July Bank Holiday"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Ashura (Muharrum)"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Sri Krishna Janamashtami"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Eid-e-Milad-un Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Durga Puja Holiday"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Durga Puja (Bijoya Dashami)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ramazan Bayram (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Youth and Sports Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Kurban Bayram (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Kurban Bayram Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Kurban Bayram Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Kurban Bayram Holiday"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Peace and Freedom Day"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "Social Resistance Day (Establishment date of T.M.T)"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Friday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mavlid Al Nabi (the Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 29",
+        "weekday": "Tuesday",
+        "name": "Turkish Republic Day"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Republic Day of TRNC"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ramazan Bayram (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Wednesday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Youth and Sports Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Kurban Bayram (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Kurban Bayram Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Kurban Bayram Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Kurban Bayram Holiday"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Sunday",
+        "name": "Peace and Freedom Day"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "Social Resistance Day (Establishment date of T.M.T)"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Saturday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Mavlid Al Nabi (the Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 29",
+        "weekday": "Wednesday",
+        "name": "Turkish Republic Day"
+      }
+    ]
+  }
+]

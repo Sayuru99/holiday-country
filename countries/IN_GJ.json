@@ -1,0 +1,312 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Makar Sankranti"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivratri / Maha vad-14"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi 2nd Day / Dhuleti"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Chetichand"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramjan-Id / Id-Ul-Fitra / 1st Shawaal (End of Ramadan)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. Baba Saheb Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Shree Ram Navmi"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Mahavir Janma Kalyanak"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Bhagvan Shree Parshuram Jayanti"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Bakri-Eid / Eid-Ul-Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Muharram / Asura"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Parsi New Year Day / Pateti (Parsi Shahenshahi)"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Rakshabandhan"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami / Shravan Vad-8"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Saturday",
+        "name": "Samvatsari / Ganesh Chaturthi (Chaturthi Paksha)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Eid-e-Meeladunnabi / Bara Vafat (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dusshera / Vijaya Dashmi / Aaos sud-10"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Sardar Vallabhbhai Patel's Birthday"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Diwali Holiday (workday moved to Sat. Nov. 9)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Vikram Sambat New Year Day"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Bhai Bij"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Makar Sankranti"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivratri / Maha vad-14"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi 2nd Day / Dhuleti"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Chetichand"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramjan-Id / Id-Ul-Fitra / 1st Shawaal (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Shree Ram Navmi"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Thursday",
+        "name": "Mahavir Janma Kalyanak"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. Baba Saheb Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Tuesday",
+        "name": "Bhagvan Shree Parshuram Jayanti"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Bakri-Eid / Eid-Ul-Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Muharram / Asura"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Rakshabandhan"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Parsi New Year Day / Pateti (Parsi Shahenshahi)"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami / Shravan Vad-8"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Wednesday",
+        "name": "Samvatsari / Ganesh Chaturthi (Chaturthi Paksha)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Eid-e-Meeladunnabi / Bara Vafat (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dusshera / Vijaya Dashmi / Aaos sud-10"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Vikram Sambat New Year Day"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Bhai Bij"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Friday",
+        "name": "Sardar Vallabhbhai Patel's Birthday"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      }
+    ]
+  }
+]

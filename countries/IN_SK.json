@@ -1,0 +1,547 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Maghe Sankranti"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Losar"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Sonam Lochhar"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Bhumchu"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Id-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. Babasaheb Ambedkar Jayanti"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ramnawami / Chaite Dasain"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 16",
+        "weekday": "Thursday",
+        "name": "State Day"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Shyadar Pidar"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Saga Dawa"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Tuesday",
+        "name": "Drukpa Tshechi"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Saturday",
+        "name": "Bhanu Jayanti"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Guru Rimpoche's Thungkar Tshechu"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "Tendong Lho Rum Faat"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Tuesday",
+        "name": "Nepali Bhasa Manyata Diwas"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Friday",
+        "name": "Teej / Haritalika"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Indrajatra"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Pang Lhabsol"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Half Yearly Closing of Bank Accounts"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "Birthday of Late Nar Bahadur Bhandari (former CM of Sikkim)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Dussehra / Durga Ashtami (Maha Ashtami)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dussehra / Ayudha Puja / Saraswathi Puja (Maha Navami)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Durga Puja / Dussehra / Dasehra (Vijaya Dashami)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Durga Puja / Dasain"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Durga Puja / Dasain"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Laxmi Puja / Deepawali"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Laxmi Puja / Deepawali"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Laxmi Puja / Deepawali"
+      },
+      {
+        "date": "Nov 20",
+        "weekday": "Wednesday",
+        "name": "Sakewa"
+      },
+      {
+        "date": "Nov 22",
+        "weekday": "Friday",
+        "name": "Lhabab Duchen"
+      },
+      {
+        "date": "Dec 15",
+        "weekday": "Sunday",
+        "name": "Chasok Tangnam"
+      },
+      {
+        "date": "Dec 15",
+        "weekday": "Sunday",
+        "name": "Puhgal Parim"
+      },
+      {
+        "date": "Dec 15",
+        "weekday": "Sunday",
+        "name": "Teyongsi Sirijunga Sawan Tongnam"
+      },
+      {
+        "date": "Dec 20",
+        "weekday": "Friday",
+        "name": "Barahimizong"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "Kagyed Dance"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Tamu Lochar"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Losoong / Namsoong"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Saturday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Sunday",
+        "name": "Nyempa Guzom"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Nyempa Guzom"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Maghe Sankranti"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Sonam Lochhar"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Losar"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Bhumchu"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Id-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ramnawami / Chaite Dasain"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. Babasaheb Ambedkar Jayanti"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Shyadar Pidar"
+      },
+      {
+        "date": "May 16",
+        "weekday": "Friday",
+        "name": "State Day"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Saga Dawa"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Sunday",
+        "name": "Bhanu Jayanti"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "Drukpa Tshechi"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Guru Rimpoche's Thungkar Tshechu"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Friday",
+        "name": "Tendong Lho Rum Faat"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Wednesday",
+        "name": "Nepali Bhasa Manyata Diwas"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Tuesday",
+        "name": "Teej / Haritalika"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Indrajatra"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Pang Lhabsol"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Durga Puja / Dasain"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Durga Puja / Dasain"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Durga Puja / Dasain"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Half Yearly Closing of Bank Accounts"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Durga Puja / Dasain"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Durga Puja / Dasain"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Sunday",
+        "name": "Birthday of Late Nar Bahadur Bhandari (former CM of Sikkim)"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Laxmi Puja / Deepawali"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Laxmi Puja / Deepawali"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Laxmi Puja / Deepawali"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Lhabab Duchen"
+      },
+      {
+        "date": "Dec 4",
+        "weekday": "Thursday",
+        "name": "Puhgal Parim"
+      },
+      {
+        "date": "Dec 5",
+        "weekday": "Friday",
+        "name": "Teyongsi Sirijunga Sawan Tongnam"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Saturday",
+        "name": "Sakewa"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Tuesday",
+        "name": "Barahimizong"
+      },
+      {
+        "date": "Dec 11",
+        "weekday": "Thursday",
+        "name": "Chasok Tangnam"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Thursday",
+        "name": "Kagyed Dance"
+      },
+      {
+        "date": "Dec 20",
+        "weekday": "Saturday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Dec 21",
+        "weekday": "Sunday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Dec 22",
+        "weekday": "Monday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Tuesday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Wednesday",
+        "name": "Losoong / Namsoong"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Nyempa Guzom"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Nyempa Guzom"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Tuesday",
+        "name": "Tamu Lochar"
+      }
+    ]
+  }
+]

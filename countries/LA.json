@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "International New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Lao New Year (Pi Mai)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Tuesday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Thursday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Lao Women Union's Day"
+      },
+      {
+        "date": "July 22",
+        "weekday": "Monday",
+        "name": "Lao Women Union's Day Holiday (day in lieu)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Monday",
+        "name": "BOL Foundation Day"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Friday",
+        "name": "Boat Racing Festival (Ventiane)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "That Luang Festival (Ventiane)"
+      },
+      {
+        "date": "Dec 2",
+        "weekday": "Monday",
+        "name": "National Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "International New Year's Day"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 10",
+        "weekday": "Monday",
+        "name": "International Women's Day Holiday (day in lieu)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Lao New Year (Pi Mai)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Lao New Year Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Sunday",
+        "name": "Lao Women Union's Day"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Monday",
+        "name": "Lao Women Union's Day Holiday (day in lieu)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "BOL Foundation Day"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Wednesday",
+        "name": "Boat Racing Festival (Ventiane)"
+      }
+    ]
+  }
+]

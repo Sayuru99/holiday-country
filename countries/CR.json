@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Juan Santamaria Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Thursday",
+        "name": "Guanacaste Day"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Friday",
+        "name": "Lady of the Angels' Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Mothers' Day / Assumption"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Saturday",
+        "name": "Día de la Persona Negra y la Cultura Afrocostarricense"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Sunday",
+        "name": "Día de la Abolición del Ejército"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Friday",
+        "name": "Juan Santamaria Day"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday (Semana Santa) (tentative)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday (Semana Santa) (tentative)"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday (Semana Santa) (tentative)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day (date to be confirmed, could move to Mon. May. 5)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Friday",
+        "name": "Guanacaste Day"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Saturday",
+        "name": "Lady of the Angels' Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Mothers' Day / Assumption"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Sunday",
+        "name": "Día de la Persona Negra y la Cultura Afrocostarricense"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

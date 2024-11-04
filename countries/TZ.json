@@ -1,0 +1,187 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Friday",
+        "name": "Zanzibar Revolutionary Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Sheikh Abeid Amani Karume Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Iddi El Fitry (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Iddi El Fitry Holiday"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Union Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Workers' Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Iddi El Haji (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Maonyesho ya Saba Saba (Dar es Salaam Trade Fair)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year (Zanzibar)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "Wakulima ya Nane Nane (Peasants' Day)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Prophet's Birthday (Maulid)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Mwalimu Julius Nyerere Day (Climax of the Uhuru Torch Race)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Sunday",
+        "name": "Zanzibar Revolutionary Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Iddi El Fitry (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Iddi El Fitry Holiday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Monday",
+        "name": "Sheikh Abeid Amani Karume Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Saturday",
+        "name": "Union Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Workers' Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Iddi El Haji (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year (Zanzibar)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Monday",
+        "name": "Maonyesho ya Saba Saba (Dar es Salaam Trade Fair)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Friday",
+        "name": "Wakulima ya Nane Nane (Peasants' Day)"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "The Prophet's Birthday (Maulid)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Tuesday",
+        "name": "Mwalimu Julius Nyerere Day (Climax of the Uhuru Torch Race)"
+      }
+    ]
+  }
+]

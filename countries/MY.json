@@ -1,0 +1,577 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (except JHR KDH KTN PLS TRG)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Sultan's Birthday) (NSN)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "State Public Holiday (NSN)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Thaipusam (JHR KDH KUL NSN PJY PNG PRK SGR)"
+      },
+      {
+        "date": "Feb 1",
+        "weekday": "Thursday",
+        "name": "Federal Territory Day (KUL LBN PJY)"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Israk dan Mikraj (KDH NSN PLS TRG)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Chinese New Year, Day 2"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Chinese New Year Holiday (except JHR KDH KTN TRG)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Chinese New Year Holiday (KTN TRG)"
+      },
+      {
+        "date": "Feb 20",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (Independence Proclamation Day) (MLK)"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Monday",
+        "name": "State Public Holiday (Sultan's Coronation Anniversary) (TRG)"
+      },
+      {
+        "date": "Mar 12",
+        "weekday": "Tuesday",
+        "name": "Awal Ramadan (JHR KDH MLK)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Sultan's Birthday) (JHR)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Nuzul Quran (KTN KUL LBN PHG PJY PLS PNG PRK SGR TRG)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (SBH SRW)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Hari Raya Puasa Holiday (KTN)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Hari Raya Puasa (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Hari Raya Puasa Holiday"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "State Public Holiday (Sultan's Birthday) (TRG)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 17",
+        "weekday": "Friday",
+        "name": "State Public Holiday (Raja's Birthday) (PLS)"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Wesak (Buddha Day)"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "State Public Holiday (Hari Hol Pahang) (PHG)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "State Public Holiday (Harvest Festival) (LBN SBH)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Friday",
+        "name": "State Public Holiday (LBN SBH)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Hari Gawai Dayak) (SRW)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (SRW)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "Birthday of SPB Yang di-Pertuan Agong"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "State Public Holiday (SRW)"
+      },
+      {
+        "date": "June 4",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (SRW)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Hari Arafah (Arafat Day) (KTN TRG)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Hari Raya Qurban (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Hari Raya Qurban, Day 2 (KDH KTN PLS TRG)"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Sultan's Birthday) (KDH)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Awal Muharram (Islamic New Year)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (George Town UNESCO Heritage Day) (PNG)"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Awal Muharram Holiday (except JHR KDH KTN TRG)"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (PNG)"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Ruler's Birthday) (PNG)"
+      },
+      {
+        "date": "July 22",
+        "weekday": "Monday",
+        "name": "State Public Holiday (Sarawak Day) (SRW)"
+      },
+      {
+        "date": "July 30",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (Sultan's Birthday) (PHG)"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Hari Hol Almarhum Sultan Iskandar) (JHR)"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Ruler's 75th Birthday) (MLK)"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (to honour JDT fans) (JHR)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "State Public Sector Holiday (MLK*)"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Saturday",
+        "name": "National Day (Hari Kebangsaan)"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Sunday",
+        "name": "National Day Holiday (KTN TRG)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Maulidur Rasul (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Malaysia Day"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Sultan's Birthday) (KTN)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "State Public Holiday (KTN)"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Ruler's Birthday) (SBH)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Ruler's Birthday) (SRW)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali (Festival of Lights) (except SRW)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "State Public Holiday (Sultan's Birthday) (PRK)"
+      },
+      {
+        "date": "Dec 11",
+        "weekday": "Wednesday",
+        "name": "State Public Holiday (Sultan's Birthday) (SGR)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve (SBH)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (except JHR KDH KTN PLS TRG)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (Sultan's Birthday) (NSN)"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Israk dan Mikraj (KDH NSN PLS TRG)"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Chinese New Year, Day 2 (except KTN)"
+      },
+      {
+        "date": "Feb 1",
+        "weekday": "Saturday",
+        "name": "Federal Territory Day (KUL LBN PJY)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Tuesday",
+        "name": "Thaipusam (JHR KUL NSN PJY PNG PRK SGR)"
+      },
+      {
+        "date": "Feb 20",
+        "weekday": "Thursday",
+        "name": "State Public Holiday (Independence Proclamation Day) (MLK)"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Sunday",
+        "name": "Awal Ramadan (JHR KDH)"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Awal Ramadan Holiday (JHR)"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (Sultan's Coronation Anniversary) (TRG)"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Tuesday",
+        "name": "Nuzul Quran (KTN KUL LBN PHG PJY PLS PNG PRK SGR TRG)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Sultan's Birthday) (JHR)"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "State Public Holiday (Sultan's Birthday) (JHR) (day in lieu)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Hari Raya Puasa (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Hari Raya Puasa Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (SBH SRW)"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Sultan's Birthday) (TRG)"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (TRG)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Wesak (Buddha Day)"
+      },
+      {
+        "date": "May 17",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Raja's Birthday) (PLS)"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Thursday",
+        "name": "State Public Holiday (Hari Hol Pahang) (PHG)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "State Public Holiday (Harvest Festival) (LBN SBH)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (LBN SBH)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Hari Gawai Dayak) (SRW)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "State Public Holiday (SRW)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Birthday of SPB Yang di-Pertuan Agong"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (SRW)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Hari Arafah (Arafat Day) (KTN TRG)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Hari Raya Qurban (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Hari Raya Qurban, Day 2 (KDH KTN PLS TRG)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Hari Raya Qurban Holiday (KTN TRG)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Hari Raya Qurban, Day 2 Holiday (PLS)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Sultan's Birthday) (KDH)"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Awal Muharram (Islamic New Year)"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Sunday",
+        "name": "Awal Muharram Holiday (KDH)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Monday",
+        "name": "State Public Holiday (George Town UNESCO Heritage Day) (PNG)"
+      },
+      {
+        "date": "July 12",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Ruler's Birthday) (PNG)"
+      },
+      {
+        "date": "July 22",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (Sarawak Day) (SRW)"
+      },
+      {
+        "date": "July 30",
+        "weekday": "Wednesday",
+        "name": "State Public Holiday (Sultan's Birthday) (PHG)"
+      },
+      {
+        "date": "July 31",
+        "weekday": "Thursday",
+        "name": "State Public Holiday (Hari Hol Almarhum Sultan Iskandar) (JHR)"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Sunday",
+        "name": "State Public Holiday (Ruler's Birthday) (MLK)"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "State Public Holiday (MLK)"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Sunday",
+        "name": "National Day (Hari Kebangsaan)"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "National Day Holiday (except KDH KTN TRG)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Maulidur Rasul (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Maulidur Rasul Holiday (KDH)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Tuesday",
+        "name": "Malaysia Day"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "State Public Holiday (Sultan's Birthday) (KTN)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "State Public Holiday (KTN)"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Ruler's Birthday) (SBH)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Ruler's Birthday) (SRW)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Deepavali (Festival of Lights) (except SRW)"
+      }
+    ]
+  }
+]

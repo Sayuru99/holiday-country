@@ -1,0 +1,252 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Saint Berchtold's Day (AG* BE FR* GL* JU LU NW* OW* SG* SH* SO* TG VD VS* ZG* ZH)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany (SZ TI UR)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Republic Day (NE)"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Tuesday",
+        "name": "Saint Joseph's Day (NW SO SZ TI UR VS)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (AG AI AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG UR VD ZG ZH)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday (AG* AI AR BE BL BS FR* GE GL GR JU LU NW* OW* SG SH SO* SZ TG TI UR VD VS* ZG* ZH)"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Näfelser Fahrtfest (GL)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (BL BS JU NE SH SO* TG TI ZH)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day (Auffahrt)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday (AG* AI AR BE BL BS FR* GE GL GR JU LU NW* OW* SG SH SO* SZ TG TI UR VD VS* ZG* ZH)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi (Fronleichnam) (AG* AI FR* JU LU NW OW SO SZ TI UR VS ZG)"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Sunday",
+        "name": "Jurassic Plebiscite Commemoration (JU)"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Saturday",
+        "name": "St. Peter and St. Paul (TI)"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "National Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption (AG* AI FR* JU LU NW OW SO SZ TI UR VS ZG)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Thursday",
+        "name": "Jeûne Genevois (GE)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Day after the Federal Fast (VD)"
+      },
+      {
+        "date": "Sep 25",
+        "weekday": "Wednesday",
+        "name": "Bruderklausenfest (OW)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day (AG* AI FR* GL JU LU NW OW SG SO SZ TI VS ZG)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception (AG* AI FR* LU NW OW SZ TI UR VS ZG)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Saint Stephen's Day (AG* AI AR BE BL BS FR* GL GR LU NW* OW* SG SH SO* SZ TG TI UR VS* ZG* ZH)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Restoration Day (GE)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Saint Berchtold's Day (AG* BE FR* GL* JU LU NW* OW* SG* SH* SO* TG VD VS* ZG* ZH)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (SZ TI UR)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Republic Day (NE)"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Wednesday",
+        "name": "Saint Joseph's Day (NW SO SZ TI UR VS)"
+      },
+      {
+        "date": "Apr 3",
+        "weekday": "Thursday",
+        "name": "Näfelser Fahrtfest (GL)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (AG AI AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG UR VD ZG ZH)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday (AG* AI AR BE BL BS FR* GE GL GR JU LU NW* OW* SG SH SO* SZ TG TI UR VD VS* ZG* ZH)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (BL BS JU NE SH SO* TG TI ZH)"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day (Auffahrt)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday (AG* AI AR BE BL BS FR* GE GL GR JU LU NW* OW* SG SH SO* SZ TG TI UR VD VS* ZG* ZH)"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi (Fronleichnam) (AG* AI FR* JU LU NW OW SO SZ TI UR VS ZG)"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Monday",
+        "name": "Jurassic Plebiscite Commemoration (JU)"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Sunday",
+        "name": "St. Peter and St. Paul (TI)"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "National Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption (AG* AI FR* JU LU NW OW SO SZ TI UR VS ZG)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Thursday",
+        "name": "Jeûne Genevois (GE)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Day after the Federal Fast (VD)"
+      },
+      {
+        "date": "Sep 25",
+        "weekday": "Thursday",
+        "name": "Bruderklausenfest (OW)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "All Saints' Day (AG* AI FR* GL JU LU NW OW SG SO SZ TI VS ZG)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Monday",
+        "name": "Immaculate Conception (AG* AI FR* LU NW OW SZ TI UR VS ZG)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Saint Stephen's Day (AG* AI AR BE BL BS FR* GL GR LU NW* OW* SG SH SO* SZ TG TI UR VS* ZG* ZH)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Wednesday",
+        "name": "Restoration Day (GE)"
+      }
+    ]
+  }
+]

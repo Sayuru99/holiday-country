@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Friday",
+        "name": "Amenzu n Yennayer (Amazigh New Year)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Awal Mouharem (Islamic New Year)"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Achoura (Ashura)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Mawlid En Nabaoui Echarif (The Prophet's Birthday)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Revolution Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Sunday",
+        "name": "Amenzu n Yennayer (Amazigh New Year)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Awal Mouharem (Islamic New Year)"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Achoura (Ashura)"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Mawlid En Nabaoui Echarif (The Prophet's Birthday)"
+      }
+    ]
+  }
+]

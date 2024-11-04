@@ -1,0 +1,197 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Monday",
+        "name": "Epiphany Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Palm Sunday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Saint Joseph's Day Holiday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Civic Day (Day of Peace with Nature)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Ascension Holiday"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "Corpus Christi Holiday"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Sagrado Corazon (Sacred Heart Holiday)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Saints Peter and Paul's Day Holiday"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Monday",
+        "name": "Civic Day (2024 Copa América)"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 7",
+        "weekday": "Wednesday",
+        "name": "Battle of Boyacá Day"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Assumption Day Holiday"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Día de la Raza Holiday"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "All Saints' Day Holiday"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Cartagena Independence Day"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Saint Joseph's Day Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Palm Sunday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Civic Day (Day of Peace with Nature) (tentative)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Ascension Holiday"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Monday",
+        "name": "Corpus Christi Holiday"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Monday",
+        "name": "Saints Peter and Paul's Day Holiday"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Monday",
+        "name": "Sagrado Corazon (Sacred Heart Holiday)"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 7",
+        "weekday": "Thursday",
+        "name": "Battle of Boyacá Day"
+      },
+      {
+        "date": "Aug 18",
+        "weekday": "Monday",
+        "name": "Assumption Day Holiday"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Día de la Raza Holiday"
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Glorious Independence Day (National Day)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Eastern Christmas"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter Day for Western Communities"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ramadan Bairam / Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramadan Bairam / Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Ramadan Bairam / Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Ramadan Bairam / Eid al Fitr Holiday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Easter Day for Eastern Communities"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Corban Bairam / Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Prophet's Birthday (Moulid Al Nabi)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Western Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Glorious Independence Day (National Day)"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Eastern Christmas"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ramadan Bairam / Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramadan Bairam / Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Ramadan Bairam / Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Wednesday",
+        "name": "Ramadan Bairam / Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Day for Eastern Communities"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Day for Western Communities"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Corban Bairam / Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Corban Bairam Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "The Prophet's Birthday (Moulid Al Nabi)"
+      }
+    ]
+  }
+]

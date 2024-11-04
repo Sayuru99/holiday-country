@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 11",
+        "weekday": "Thursday",
+        "name": "Accession Day"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Al Israa Wal Miraj (The Prophet's Ascension)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Public Holiday (weather conditions) (except Dhofar and Al Wusta governorates)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Milad Al Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "National Day (date to be confirmed, could move to Wed. Nov. 20)"
+      },
+      {
+        "date": "Nov 19",
+        "weekday": "Tuesday",
+        "name": "National Day Holiday (date to be confirmed, could move to Thu. Nov. 21)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 11",
+        "weekday": "Saturday",
+        "name": "Accession Day"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Sunday",
+        "name": "Accession Day Holiday"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Al Israa Wal Miraj (The Prophet's Ascension)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Milad Al Nabi (The Prophet's Birthday)"
+      }
+    ]
+  }
+]

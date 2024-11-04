@@ -1,0 +1,307 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Chhatrapati Shivaji Maharaj Jayanti"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Mahashivratri"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi (Second Day)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Gudhi Padwa"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramzan-Id / Id-Ul-Fitr / Shawal-1 (End of Ramadan)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. Babasaheb Ambedkar Jayanti"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navmi"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Mahavir Jayanti"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Maharashtra Din"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Pournima"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Bakri Id / Id-Uz-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Moharum"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Parsi New Year (Shahenshahi)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Saturday",
+        "name": "Ganesh Chaturthi"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Id-E-Milad (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dasara"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Diwali Amavasaya (Laxmi Pujan)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Diwali (Bali Pratipada)"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Bhau Beej"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Nov 20",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (State Elections)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Wednesday",
+        "name": "Chhatrapati Shivaji Maharaj Jayanti"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Mahashivratri"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi (Second Day)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Gudhi Padwa"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramzan-Id / Id-Ul-Fitr / Shawal-1 (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navmi"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Thursday",
+        "name": "Mahavir Jayanti"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. Babasaheb Ambedkar Jayanti"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Maharashtra Din"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Pournima"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Bakri Id / Id-Uz-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Moharum"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Parsi New Year (Shahenshahi)"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Wednesday",
+        "name": "Ganesh Chaturthi"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Id-E-Milad (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dasara"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali Amavasaya (Laxmi Pujan)"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Diwali (Bali Pratipada)"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      }
+    ]
+  }
+]

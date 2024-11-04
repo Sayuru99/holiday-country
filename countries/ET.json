@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Genna (Ethiopian Christmas)"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Saturday",
+        "name": "Timket (Epiphany)"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Saturday",
+        "name": "Adwa Victory Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Id Al Fetir (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Siklet (Ethiopian Good Friday)"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Fasika (Ethiopian Easter)"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Arbegnoch Qen (Patriots' Victory Day)"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Tuesday",
+        "name": "Dergue Downfall Day (National Day)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id Al Adaha / Arefa (Feast of Sacrifice)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Wednesday",
+        "name": "Enkutatash (Ethiopian New Year)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mawlid (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Friday",
+        "name": "Meskel (Discovery of the True Cross)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Genna (Ethiopian Christmas)"
+      },
+      {
+        "date": "Jan 19",
+        "weekday": "Sunday",
+        "name": "Timket (Epiphany)"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Sunday",
+        "name": "Adwa Victory Day"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Id Al Fetir (End of Ramadan)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Siklet (Ethiopian Good Friday)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Fasika (Ethiopian Easter)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labour Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Arbegnoch Qen (Patriots' Victory Day)"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Wednesday",
+        "name": "Dergue Downfall Day (National Day)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id Al Adaha / Arefa (Feast of Sacrifice)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Mawlid (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Thursday",
+        "name": "Enkutatash (Ethiopian New Year)"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Saturday",
+        "name": "Meskel (Discovery of the True Cross)"
+      }
+    ]
+  }
+]

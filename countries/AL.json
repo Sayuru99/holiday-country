@@ -1,0 +1,182 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Dita e Vitit të Ri)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Thursday",
+        "name": "Summer Day (Dita e Verës)"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Friday",
+        "name": "Summer Day Holiday"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Nevruz (Dita e Nevruzit)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Catholic Easter (Pashkës Katolike)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Catholic Easter Monday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Lesser Bajram / End of Ramadan (Bajramit të Madh)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Labor Day (Dita Ndërkombëtare e Punës)"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Pashkës Ortodokse)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Greater Bajram / Feast of Sacrifice (Kurban Bajramit)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Greater Bajram Holiday"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Thursday",
+        "name": "Day of Mother Teresa's Canonization (Dita e Lumturimit të Nënë Terezës)"
+      },
+      {
+        "date": "Nov 22",
+        "weekday": "Friday",
+        "name": "Day of the Alphabet"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Independence Day (Dita e Pavarësisë)"
+      },
+      {
+        "date": "Nov 29",
+        "weekday": "Friday",
+        "name": "Liberation Day (Dita e Çlirimit)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "National Youth Day (Dita Kombëtare e Rinisë)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "National Youth Day Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Krishtlindja)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Dita e Vitit të Ri)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Summer Day (Dita e Verës)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Nevruz (Dita e Nevruzit)"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Nevruz Holiday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Lesser Bajram / End of Ramadan (Bajramit të Madh)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Lesser Bajram Holiday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Catholic Easter (Pashkës Katolike)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Pashkës Ortodokse)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Catholic Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Labor Day (Dita Ndërkombëtare e Punës)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Greater Bajram / Feast of Sacrifice (Kurban Bajramit)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Day of Mother Teresa's Canonization (Dita e Lumturimit të Nënë Terezës)"
+      }
+    ]
+  }
+]

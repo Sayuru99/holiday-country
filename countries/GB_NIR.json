@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 17",
+        "weekday": "Sunday",
+        "name": "Saint Patrick's Day"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "Saint Patrick's Day Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "May Day Bank Holiday"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Spring Bank Holiday"
+      },
+      {
+        "date": "July 12",
+        "weekday": "Friday",
+        "name": "Battle of the Boyne / Orangemen's Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Summer Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 17",
+        "weekday": "Monday",
+        "name": "Saint Patrick's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "May Day Bank Holiday"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Spring Bank Holiday"
+      },
+      {
+        "date": "July 12",
+        "weekday": "Saturday",
+        "name": "Battle of the Boyne / Orangemen's Day"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Monday",
+        "name": "Battle of the Boyne Holiday"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "Summer Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day"
+      }
+    ]
+  }
+]

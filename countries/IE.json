@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Monday",
+        "name": "St Brigid's Day (Imbolc)"
+      },
+      {
+        "date": "Mar 17",
+        "weekday": "Sunday",
+        "name": "Saint Patrick's Day"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "Bank Holiday (not a public holiday)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Bank Holiday (not a public holiday)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "May Bank Holiday"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "June Bank Holiday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "August Bank Holiday"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "October Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Saint Stephen's Day"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Bank Holiday (not a public holiday)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "St Brigid's Day (Imbolc)"
+      },
+      {
+        "date": "Mar 17",
+        "weekday": "Monday",
+        "name": "Saint Patrick's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Bank Holiday (not a public holiday)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "May Bank Holiday"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "June Bank Holiday"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "August Bank Holiday"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "October Bank Holiday"
+      }
+    ]
+  }
+]

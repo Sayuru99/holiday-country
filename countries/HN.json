@@ -1,0 +1,187 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Government Holiday"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Government Holiday"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Government Holiday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Americas' Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Semana Morazánica"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Semana Morazánica"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Semana Morazánica (private sector works until noon)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Semana Morazánica"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Friday",
+        "name": "Semana Morazánica"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "Semana Morazánica"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Americas' Day"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Government Holiday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Government Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Government Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Semana Morazánica (tentative)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Semana Morazánica (tentative)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Semana Morazánica (private sector works until noon)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Semana Morazánica"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Semana Morazánica"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Saturday",
+        "name": "Semana Morazánica"
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Orthodox Christmas Day (Bozic)"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Monday",
+        "name": "Orthodox Christmas Holiday"
+      },
+      {
+        "date": "Feb 15",
+        "weekday": "Thursday",
+        "name": "National Day (Sretenje)"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Friday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day (Praznik rada)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "May Day Holiday"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Great Friday (Orthodox Good Friday)"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Orthodox Easter Saturday"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Armistice Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Orthodox Christmas Day (Bozic)"
+      },
+      {
+        "date": "Feb 15",
+        "weekday": "Saturday",
+        "name": "National Day (Sretenje)"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Sunday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Great Friday (Orthodox Good Friday)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Orthodox Easter Saturday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day (Praznik rada)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "May Day Holiday"
+      }
+    ]
+  }
+]

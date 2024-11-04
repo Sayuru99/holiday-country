@@ -1,0 +1,307 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Mahashivrathri"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Holika Dahan"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid Ul-Fitar (End of Ramadan)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. Bhim Rao Ambedkar Jayanti"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Mahavir Jayanthi"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid -Ul-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Harela"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Muharram"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Raksha Bandhan"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Eid Ul-Milad Nabi / Barafath (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Vishwakarma Pooja"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dussehra (Vijayadashami)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Maharshi Valmiki Jayanthi"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Govardhan Pooja"
+      },
+      {
+        "date": "Nov 12",
+        "weekday": "Tuesday",
+        "name": "Igas-Bagwal"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Mahashivrathri"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Holika Dahan"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid Ul-Fitar (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Thursday",
+        "name": "Mahavir Jayanthi"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. Bhim Rao Ambedkar Jayanti"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid -Ul-Zuha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Muharram"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Wednesday",
+        "name": "Harela"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Raksha Bandhan"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Eid Ul-Milad Nabi / Barafath (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Wednesday",
+        "name": "Vishwakarma Pooja"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dussehra (Vijayadashami)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Maharshi Valmiki Jayanthi"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Govardhan Pooja"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Igas-Bagwal"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Nov 24",
+        "weekday": "Monday",
+        "name": "Martyrdom Day of Sri Guru Teg Bahadur Ji"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Gregorian)"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Al Isra et Al Mirague (The Prophet's Ascension)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Aïd el Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Aïd el Fitre Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Youm Arafat"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Aïd el Addha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Aïd el Addha Holiday"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Thursday",
+        "name": "National Day"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Friday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Awal Mouharam (Islamic New Year)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mouloud (The Prophet's Birthday)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Gregorian)"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Al Isra et Al Mirague (The Prophet's Ascension)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Aïd el Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Aïd el Fitre Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Youm Arafat"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Aïd el Addha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Aïd el Addha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Awal Mouharam (Islamic New Year)"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "National Day"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Saturday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Mouloud (The Prophet's Birthday)"
+      }
+    ]
+  }
+]

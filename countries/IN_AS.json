@@ -1,0 +1,472 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Magh Bihu"
+      },
+      {
+        "date": "Jan 16",
+        "weekday": "Tuesday",
+        "name": "Tusu Puja"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Gwther Bathou San"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Netaji Subhas Chandra Bose Jayanti"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Wednesday",
+        "name": "Me-Dam-Me-Phi"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Bir Chilaray Divas"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Dol Jatra"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Dol Jatra"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Id-Ul-Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Bohag Bihu"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Bohag Bihu"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Bohag Bihu"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Saturday",
+        "name": "Sati Sadhani Divas"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Tithi of Damodardeva"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Friday",
+        "name": "Janmotsav of Sri Sri Madhabdeva"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-Uz-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Muharram (afternoon)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 23",
+        "weekday": "Friday",
+        "name": "Tirobhab Tithi of Sri Sri Madhabdeva"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmastomi"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Wednesday",
+        "name": "Tithi of Srimanta Shankardeva"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "Karam Puja"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Maha Saptami"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Maha Ashtami"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Vijaya Dashami"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Janmotsav of Srimanta Shankardeva"
+      },
+      {
+        "date": "Oct 16",
+        "weekday": "Wednesday",
+        "name": "Lakshmi Puja (afternoon)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Kati Bihu"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Kali Puja"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Bhatri Dwitiya / Bhai Dooj"
+      },
+      {
+        "date": "Nov 6",
+        "weekday": "Wednesday",
+        "name": "Pitri Matri Vandana"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Thursday",
+        "name": "Chhat Puja"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Pitri Matri Vandana"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Nov 24",
+        "weekday": "Sunday",
+        "name": "Lachit Divas"
+      },
+      {
+        "date": "Dec 2",
+        "weekday": "Monday",
+        "name": "Asom Divas / Su-Ka-Pha Divas"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Magh Bihu"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Wednesday",
+        "name": "Tusu Puja"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Thursday",
+        "name": "Netaji Subhas Chandra Bose Jayanti"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Gwther Bathou San"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "Me-Dam-Me-Phi"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Bir Chilaray Divas"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Dol Jatra"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Id-Ul-Fitre (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Bohag Bihu"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Bohag Bihu"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Bohag Bihu"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Sati Sadhani Divas"
+      },
+      {
+        "date": "Apr 28",
+        "weekday": "Monday",
+        "name": "Tithi of Damodardeva"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Tuesday",
+        "name": "Janmotsav of Sri Sri Madhabdeva"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id-Uz-Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Muharram (afternoon)"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Thursday",
+        "name": "Tirobhab Tithi of Sri Sri Madhabdeva"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmastomi"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "Tithi of Srimanta Shankardeva"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Wednesday",
+        "name": "Karam Puja"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Maha Saptami"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Maha Ashtami"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Maha Navami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Vijaya Dashami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Janmotsav of Srimanta Shankardeva"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Lakshmi Puja (afternoon)"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Saturday",
+        "name": "Kati Bihu"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Kali Puja"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Bhatri Dwitiya / Bhai Dooj"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "Chhat Puja"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Nov 24",
+        "weekday": "Monday",
+        "name": "Lachit Divas"
+      },
+      {
+        "date": "Dec 2",
+        "weekday": "Tuesday",
+        "name": "Asom Divas / Su-Ka-Pha Divas"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      }
+    ]
+  }
+]

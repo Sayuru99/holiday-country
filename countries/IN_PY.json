@@ -1,0 +1,342 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Pongal (only in KA PO YA)"
+      },
+      {
+        "date": "Jan 16",
+        "weekday": "Tuesday",
+        "name": "Thiruvalluvar Day / Mattu Pongal (only in KA PO)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Telugu New Year's Day / Ugadi festival (only in YA)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Day before Ramzan / Id-ul-Fitr (only in MA)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramzan / Id-ul-Fitr (End of Ramadan) (only in KA PO YA)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Vishu 1st Day (only in MA)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Tamil New Year's Day"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Vishu 2nd Day (only in MA)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day / Labor Day"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Day before Bakri Id / Id-ul-Zuha (only in MA)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Bakrid / Id-ul-Alha (Feast of Sacrifice) (only in KA PO YA)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Friday",
+        "name": "De Jure Transfer Day"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "Onam 1st Day (only in MA)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Onam 2nd Day (only in MA)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Milad-Un-Nabi (Prophet's Birthday) (only in MA)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Milad-Un-Nabi (Prophet's Birthday) (only in KA PO YA)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Mahanavami / Saraswathi Pooja / Ayudha Pooja"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "St. Theresa Festival (only in MA)"
+      },
+      {
+        "date": "Oct 30",
+        "weekday": "Wednesday",
+        "name": "Deepavali Holiday (only in KA PO YA) (workday moved to Sat. Nov. 6)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali (only in KA PO YA)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Puducherry Liberation Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Pongal (only in KA PO YA)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Wednesday",
+        "name": "Thiruvalluvar Day / Mattu Pongal (only in KA PO)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Day before Ramzan / Id-ul-Fitr (only in MA)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Telugu New Year's Day / Ugadi festival (only in YA)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramzan / Id-ul-Fitr (End of Ramadan) (only in KA PO YA)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Tamil New Year's Day"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Vishu 1st Day (only in MA)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Vishu 2nd Day (only in MA)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day / Labor Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Day before Bakri Id / Id-ul-Zuha (only in MA)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Bakrid / Id-ul-Alha (Feast of Sacrifice) (only in KA PO YA)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "De Jure Transfer Day"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Wednesday",
+        "name": "Vinayaga Chathurthi / Ganesha Chathurthi (only in KA PO YA)"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Onam 1st Day (only in MA)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Milad-Un-Nabi (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Onam 2nd Day (only in MA)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Mahanavami / Saraswathi Pooja / Ayudha Pooja"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Wednesday",
+        "name": "St. Theresa Festival (only in MA)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Deepavali (only in KA PO YA)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Puducherry Liberation Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      }
+    ]
+  }
+]

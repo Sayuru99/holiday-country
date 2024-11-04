@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Second Day of the New Year"
+      },
+      {
+        "date": "Feb 6",
+        "weekday": "Tuesday",
+        "name": "Waitangi Day (National Day)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Otago Provincial Anniversary Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Thursday",
+        "name": "ANZAC Day"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Friday",
+        "name": "Matariki (Māori New Year)"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Second Day of the New Year"
+      },
+      {
+        "date": "Feb 6",
+        "weekday": "Thursday",
+        "name": "Waitangi Day (National Day)"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Otago Provincial Anniversary Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Friday",
+        "name": "ANZAC Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Friday",
+        "name": "Matariki (Māori New Year)"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day"
+      }
+    ]
+  }
+]

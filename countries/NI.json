@@ -1,0 +1,367 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Mothers' Day (Día de las Madres)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Friday",
+        "name": "Mothers' Day Holiday"
+      },
+      {
+        "date": "July 19",
+        "weekday": "Friday",
+        "name": "Sandinista Revolution Anniversary"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "Treida de Santo Domingo de Guzmán (Managua)"
+      },
+      {
+        "date": "Aug 10",
+        "weekday": "Saturday",
+        "name": "Dejada de Santo Domingo de Guzmán (Managua)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "San Jacinto Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Independence Day (1821)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday (Fiestas Patrias)"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday (Fiestas Patrias)"
+      },
+      {
+        "date": "Sep 19",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday (Fiestas Patrias)"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday (Fiestas Patrias)"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday (Fiestas Patrias)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday (Fiestas Patrias)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception (Fiesta de la Gritería)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Immaculate Conception Holiday"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday (Semana Santa)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Mothers' Day (Día de las Madres)"
+      },
+      {
+        "date": "July 19",
+        "weekday": "Saturday",
+        "name": "Sandinista Revolution Anniversary"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "Treida de Santo Domingo de Guzmán (Managua)"
+      },
+      {
+        "date": "Aug 10",
+        "weekday": "Sunday",
+        "name": "Dejada de Santo Domingo de Guzmán (Managua)"
+      },
+      {
+        "date": "Sep 13",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday (Fiestas Patrias) (tentative)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Sunday",
+        "name": "San Jacinto Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Independence Day (1821)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday (Fiestas Patrias) (tentative)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday (Fiestas Patrias) (tentative)"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday (Fiestas Patrias) (tentative)"
+      },
+      {
+        "date": "Sep 19",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday (Fiestas Patrias) (tentative)"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday (Fiestas Patrias) (tentative)"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday (Fiestas Patrias) (tentative)"
+      }
+    ]
+  }
+]

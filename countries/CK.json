@@ -1,0 +1,127 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Second Day of the New Year"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Thursday",
+        "name": "ANZAC Day"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "The Sovereign's Birthday"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Ra o te Ui Ariki"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Sunday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Constitution Day Holiday"
+      },
+      {
+        "date": "Oct 26",
+        "weekday": "Saturday",
+        "name": "National Gospel Day"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Monday",
+        "name": "National Gospel Day Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Second Day of the New Year"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Friday",
+        "name": "ANZAC Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "The Sovereign's Birthday"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Friday",
+        "name": "Ra o te Ui Ariki"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Oct 26",
+        "weekday": "Sunday",
+        "name": "National Gospel Day"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "National Gospel Day Holiday"
+      }
+    ]
+  }
+]

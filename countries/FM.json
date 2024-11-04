@@ -1,0 +1,192 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Thursday",
+        "name": "Constitution Day (Kosrae)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Yap Day (Yap)"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Saturday",
+        "name": "Yap Day Holiday (Yap)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Pohnpei)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Micronesian Culture and Traditions Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Culture Day Holiday"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Federated States of Micronesia Day (Constitution Day)"
+      },
+      {
+        "date": "Aug 21",
+        "weekday": "Wednesday",
+        "name": "Gospel Day (Kosrae)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Liberation Day (Kosrae)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Wednesday",
+        "name": "Liberation Day (Pohnpei)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Constitution Day (Chuuk)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Teachers' Appreciation Day (Chuuk)"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Thursday",
+        "name": "United Nations' Day"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "FSM Independence Day"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Constitution Day (Pohnpei)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Veterans of Foreign Wars Day"
+      },
+      {
+        "date": "Nov 23",
+        "weekday": "Saturday",
+        "name": "Presidents Day"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day (Kosrae)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Constitution Day (Yap)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Saturday",
+        "name": "Constitution Day (Kosrae)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Yap Day (Yap)"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Sunday",
+        "name": "Yap Day Holiday (Yap)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Micronesian Culture and Traditions Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Pohnpei)"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Friday",
+        "name": "FSM Day Holiday"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Saturday",
+        "name": "Federated States of Micronesia Day (Constitution Day)"
+      },
+      {
+        "date": "Aug 21",
+        "weekday": "Thursday",
+        "name": "Gospel Day (Kosrae)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Monday",
+        "name": "Liberation Day (Kosrae)"
+      },
+      {
+        "date": "Sep 11",
+        "weekday": "Thursday",
+        "name": "Liberation Day (Pohnpei)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Constitution Day (Chuuk)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Teachers' Appreciation Day (Chuuk)"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "United Nations' Day"
+      }
+    ]
+  }
+]

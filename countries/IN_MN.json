@@ -1,0 +1,377 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Tuesday",
+        "name": "Death Anniversary of L Maharaja Gambhir Singh"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Imoinu Iratpa"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Gaan-Ngai"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 15",
+        "weekday": "Thursday",
+        "name": "Lui-Ngai-Ni"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Yaosang (Dolljatra)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Yaosang (Second Day)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Sajibu Nongmapanba (Cheiraoba)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Idul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Cheiraoba"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 22",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections re-poll)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "Khongjam Day"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections re-poll)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Cyclone Remal Flooding)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cyclone Remal Flooding)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Idul Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (heavy rains)"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Thursday",
+        "name": "Public Holiday (heavy rains)"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Public Holiday (heavy rains)"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Kang (Rathajatra)"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Tuesday",
+        "name": "Patriot's Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janma Ashtami"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Milad-un-Nabi (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Jananeta Irawat Birth Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Mera Chaoren Houba of Lainingthou Sanamahi"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Durga Ashtami"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Mera Houchongba"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Diwali / Deepavali"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Kut"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Ningol Chakkouba"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Thursday",
+        "name": "Nupi Lal"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of L Maharaja Gambhir Singh"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Saturday",
+        "name": "Imoinu Iratpa"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Sunday",
+        "name": "Gaan-Ngai"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 15",
+        "weekday": "Saturday",
+        "name": "Lui-Ngai-Ni"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Yaosang (Dolljatra)"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Yaosang (Second Day)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Sajibu Nongmapanba (Cheiraoba)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Idul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Cheiraoba"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Wednesday",
+        "name": "Khongjam Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Idul Zuha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Kang (Rathajatra)"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Wednesday",
+        "name": "Patriot's Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janma Ashtami"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Milad-un-Nabi (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Mera Chaoren Houba of Lainingthou Sanamahi"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Durga Ashtami"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Jananeta Irawat Birth Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Mera Houchongba"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali / Deepavali"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "Ningol Chakkouba"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Kut"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Friday",
+        "name": "Nupi Lal"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Wednesday",
+        "name": "Imoinu Iratpa"
+      }
+    ]
+  }
+]

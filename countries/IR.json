@@ -1,0 +1,292 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Imam Ali's Birthday"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "The Prophet's Ascension (Mabaath)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Anniversary of the Islamic Revolution"
+      },
+      {
+        "date": "Feb 25",
+        "weekday": "Sunday",
+        "name": "Imam Mahdi's Birthday"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Consultative Assembly Elections"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Tuesday",
+        "name": "Oil Nationalization Day"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Wednesday",
+        "name": "Norooz (Persian New Year)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Norooz Holiday"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Norooz Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Norooz Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Islamic Republic Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Martyrdom of Imam Ali"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Sizdehbedar (Nature Day)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid-e-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "The day after Eid-e-Fitr"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Martyrdom of Imam Jafar Sadeq"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Mourning for President Ebrahim Raisi)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "Demise of Imam Khomeini"
+      },
+      {
+        "date": "June 4",
+        "weekday": "Tuesday",
+        "name": "15th Khordad National Uprising (1963)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid-e-Qorban (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 25",
+        "weekday": "Tuesday",
+        "name": "Eid-e-Ghadir"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Monday",
+        "name": "Tasoua Hosseini"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Ashura Hosseini (Martyrdom of Imam Hussein)"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Sunday",
+        "name": "Public Holiday (due to heat wave)"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Sunday",
+        "name": "Arbaeen of Hosseini (40th day after Ashura)"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Death of Prophet Mohammad / Martyrdom of Imam Hasan"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Wednesday",
+        "name": "Martyrdom of Imam Reza"
+      },
+      {
+        "date": "Sep 12",
+        "weekday": "Thursday",
+        "name": "Martyrdom of Imam Hasan Askari"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Saturday",
+        "name": "Birth of Prophet Mohammad and of Imam Jafar Sadeq"
+      },
+      {
+        "date": "Dec 5",
+        "weekday": "Thursday",
+        "name": "Martyrdom of Hazrat Fatemeh"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Imam Ali's Birthday"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "The Prophet's Ascension (Mabaath)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Monday",
+        "name": "Anniversary of the Islamic Revolution"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Friday",
+        "name": "Imam Mahdi's Birthday"
+      },
+      {
+        "date": "Mar 19",
+        "weekday": "Wednesday",
+        "name": "Oil Nationalization Day"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Norooz (Persian New Year)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Martyrdom of Imam Ali"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Norooz Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Norooz Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Norooz Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid-e-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Islamic Republic Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "The day after Eid-e-Fitr"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Wednesday",
+        "name": "Sizdehbedar (Nature Day)"
+      },
+      {
+        "date": "Apr 24",
+        "weekday": "Thursday",
+        "name": "Martyrdom of Imam Jafar Sadeq"
+      },
+      {
+        "date": "June 4",
+        "weekday": "Wednesday",
+        "name": "Demise of Imam Khomeini"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "15th Khordad National Uprising (1963)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid-e-Qorban (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Saturday",
+        "name": "Eid-e-Ghadir"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Tasoua Hosseini"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Ashura Hosseini (Martyrdom of Imam Hussein)"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Thursday",
+        "name": "Arbaeen of Hosseini (40th day after Ashura)"
+      },
+      {
+        "date": "Aug 22",
+        "weekday": "Friday",
+        "name": "Death of Prophet Mohammad / Martyrdom of Imam Hasan"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Sunday",
+        "name": "Martyrdom of Imam Reza"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Martyrdom of Imam Hasan Askari"
+      },
+      {
+        "date": "Sep 10",
+        "weekday": "Wednesday",
+        "name": "Birth of Prophet Mohammad and of Imam Jafar Sadeq"
+      }
+    ]
+  }
+]

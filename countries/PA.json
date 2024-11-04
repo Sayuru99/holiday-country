@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Año Nuevo)"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Tuesday",
+        "name": "Martyrs' Day (Día de los Mártires)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnaval (Shrove Monday)"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnaval (Mardi Gras)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Carnaval (Ash Wednesday)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Jueves Santo)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day (Día del Trabajador)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Public Holiday (Presidential Inauguration Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Panama La Vieja Day"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Independence Day (Separación de Panamá de Colombia)"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Flag Day (Día de los símbolos patrios)"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Tuesday",
+        "name": "Colon Day (Conmemoración de la unión de Colón a la gesta)"
+      },
+      {
+        "date": "Nov 10",
+        "weekday": "Sunday",
+        "name": "Los Santos Uprising Day (Grito de Independencia de La Villa de Los Santos)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Los Santos Uprising Holiday"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Independence Day (Independencia de Panamá de España)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Mothers' Day (Día de las Madres)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Mothers' Day Holiday"
+      },
+      {
+        "date": "Dec 20",
+        "weekday": "Friday",
+        "name": "Day of National Mourning (Día de Duelo Nacional)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Navidad)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Año Nuevo)"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Thursday",
+        "name": "Martyrs' Day (Día de los Mártires)"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnaval (Shrove Monday)"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnaval (Mardi Gras)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Carnaval (Ash Wednesday)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Jueves Santo)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Viernes Santo)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day (Día del Trabajador)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Panama La Vieja Day"
+      }
+    ]
+  }
+]

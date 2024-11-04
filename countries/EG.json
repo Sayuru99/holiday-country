@@ -1,0 +1,237 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Eastern/Coptic Christmas"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "January Revolution and National Police Day"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Thursday",
+        "name": "Sinai Liberation Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Labour Day Holiday / Coptic Easter"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Sham el Nessim"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Wakfet Arafat"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Al Adha Holiday"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Al Adha Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Al Adha Holiday"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Al Adha Holiday"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Sunday",
+        "name": "June 30th Anniversary"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "July 11",
+        "weekday": "Thursday",
+        "name": "El Hijra (Islamic New Year)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Thursday",
+        "name": "Revolution Day Holiday"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Moulid El Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Sunday",
+        "name": "Armed Forces Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Eastern/Coptic Christmas"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Saturday",
+        "name": "January Revolution and National Police Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "End of Ramadan Holiday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Coptic Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Sham el Nessim"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Friday",
+        "name": "Sinai Liberation Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Wakfet Arafat"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Al Adha Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Al Adha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "El Hijra (Islamic New Year)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Thursday",
+        "name": "June 30th Anniversary Holiday"
+      },
+      {
+        "date": "July 24",
+        "weekday": "Thursday",
+        "name": "Revolution Day Holiday"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Moulid El Nabi (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Thursday",
+        "name": "Armed Forces Day Holiday"
+      }
+    ]
+  }
+]

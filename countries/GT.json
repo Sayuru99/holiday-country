@@ -1,0 +1,202 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Mothers'Day (only for women employees)"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Friday",
+        "name": "Bank Holiday (Día del Empleado Bancario)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Army Day Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day (Guatemala City)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Día de la Raza"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Sunday",
+        "name": "Revolution Day"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve (from 12:00 noon)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year Eve (from 12:00 noon)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Saturday",
+        "name": "Mothers'Day (only for women employees)"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Monday",
+        "name": "Army Day"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday (Día del Empleado Bancario)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day (Guatemala City)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "Día de la Raza"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Revolution Day"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Friday",
+        "name": "Bank Holiday (might be moved to Mon. Nov. 3)"
+      }
+    ]
+  }
+]

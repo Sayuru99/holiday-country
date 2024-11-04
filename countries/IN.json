@@ -1,0 +1,2962 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (AR ML MN MZ NL PY SK TN TS WB)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Mannam Jayanti (KL)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Celebration (MZ)"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Tuesday",
+        "name": "Death Anniversary of L Maharaja Gambhir Singh (MN)"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Thursday",
+        "name": "Missionary Day (MZ)"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Friday",
+        "name": "Swami Vivekananda Jayanti (WB)"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Saturday",
+        "name": "Lohri / Sohrai (JK*)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Bhogi / Bogi Pandigai (AP TS)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Makara Sankranti / Magh Bihu / Uttarayana Punyakala (AR DH GJ)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Sankranti / Pongal (AP PY* TN TR)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Makara Sankranti / Magh Bihu / Uttarayana Punyakala (AN AS KA OR SK TS)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Parkash Purb of Guru Govind Singh (HR*)"
+      },
+      {
+        "date": "Jan 16",
+        "weekday": "Tuesday",
+        "name": "Thiruvalluvar Day / Mattu Pongal (PY* TN)"
+      },
+      {
+        "date": "Jan 16",
+        "weekday": "Tuesday",
+        "name": "Kanuma Panduga / Tusu Puja (AP AS)"
+      },
+      {
+        "date": "Jan 17",
+        "weekday": "Wednesday",
+        "name": "Guru Govind Singh Jayanti (CH HR JK PB RJ)"
+      },
+      {
+        "date": "Jan 17",
+        "weekday": "Wednesday",
+        "name": "Uzhavar Thirunal (TN)"
+      },
+      {
+        "date": "Jan 17",
+        "weekday": "Wednesday",
+        "name": "Puri Jagannath Temple Project Inauguration (OR*)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Imoinu Iratpa (MN)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (AS* CG* CH* DL* GA* GJ* HR* JH* JK* MH* MP* OR* PY* RJ* SK* TR* UK* UP*)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (HP*)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Netaji Subhas Chandra Bose Jayanti (AS OR TR WB)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Gwther Bathou San (AS)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Gaan-Ngai (MN)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Hazarat Ali's Birthday (TS UP)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Statehood Day (HP)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Thaipoosam (TN)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Shakambhari Jayanti / Cher-Chhera Punni (CG)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Saturday",
+        "name": "Samaleswari Temple Inauguration (OR*)"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Wednesday",
+        "name": "Me-Dam-Me-Phi (AS)"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Mairaj-ul-Alam / Shab-i-Meiraj (JK TS*)"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Friday following Shab-I-Miraj (JK)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Sonam Lochhar (SK)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Losar (SK)"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Day before Saraswati Puja (WB*)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Vasant Panchami / Sir Chhotu Ram Jayanti / Saraswati Puja (HR OR WB)"
+      },
+      {
+        "date": "Feb 15",
+        "weekday": "Thursday",
+        "name": "Lui-Ngai-Ni (MN)"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Friday",
+        "name": "Shree Devnarayan Jayanti (RJ)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Chatrapati Shivaji Maharaj Jayanti (MH)"
+      },
+      {
+        "date": "Feb 20",
+        "weekday": "Tuesday",
+        "name": "Statehood Day (AR)"
+      },
+      {
+        "date": "Feb 20",
+        "weekday": "Tuesday",
+        "name": "State Day (MZ)"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Guru Ravidas Jayanti / Magha Purnima (HP HR JK* MP PB)"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Bir Chilarai Divas (AS)"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Bhumchu (SK*)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Monday",
+        "name": "Shab-e-Barat (WB*)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Chapchâr Kût (MZ)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Tuesday",
+        "name": "Panchayati Raj Divas (OR)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivaratri (AP CG CH DH GA GJ HP HR JH JK KA KL LD MH MP OR PB RJ TS UK UP WB*)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Nauroz (JK LA)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Bihar Day (BR)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Martyrdom Day of Shaheed Bhagat Singh (PB)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Shaheedi Diwas / Martyrdom Day of Sardar Bhagat Singh (HR)"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Dolapurnima / Doljatra / Holika Dahan / Holi (JH RJ UK UP)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi / Dhuleti (AN AR CG CH DH DL GA GJ JH HP HR LA LD MH ML MP MZ NL PB RJ SK TR UK UP)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Dolapurnima / Doljatra / Holika Dahan / Holi (AP AS JK* MN OR TR TS WB)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Holi / Dhuleti (MN OR)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Dolapurnima / Doljatra / Holika Dahan / Holi (AS* BR)"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Day after Doljatra (WB*)"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Holi / Dhuleti (BR)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (KL)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (AN AP AR AS BR CG CH DH DL GA GJ HP JH KA KL LD MH ML MN MP MZ NL OR PB PY RJ SK TN TS UK UP WB)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (KL)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Utkal Dibas / Odisha Day (OR)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Jumat-ul-Wida (JK)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Babu Jagjivan Ram Jayanthi (AP TS)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Bhakt Mata Karma Jayanti (CG)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "Birthday of Shri Shri Harichand Thakur (WB*)"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Shab-i-Qadr (JK)"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Birthday of Sri Guru Nabha Dass Ji (PB)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Gudi Padva / Ugadi / Chetti Chand / 1st Navratra (AP DH GA JK KA MH MP TS)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Telugu New Year (PY* TN)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Sajibu Nongmapanba (Cheiraoba) (MN)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ramazan / Id-ul-Fitr / Kuthba-e-Ramzan (End of Ramadan) (JK KL LA)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Gudi Padva / Ugadi / Chetti Chand / 1st Navratra (GJ MP RJ)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Day before Ramazan / Id-ul-Fitr (PY* WB*)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramazan / Id-ul-Fitr / Kuthba-e-Ramzan (End of Ramadan) (AN AP AR AS BR CG CH DH DL GA GJ HP HR JH KA LD MH ML MN MP MZ NL OR PB PY* RJ SK* TN TR TS UK UP WB)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Sarhul (JH)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Mahatma Jyotiba Phule Jayanti (RJ)"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Ramazan (2nd day) (TS)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Vishu (PY*)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Vaisakhi / Baisakhi (HR JK PB)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Bohag Bihu (AS)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Biju Festival (TR)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Cheiraoba (MN)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. Babasaheb Ambedkar Jayanti (AP BR CG CH GA GJ HP HR JH JK KA KL LA MH MP OR PB PY RJ SK TN TS UK UP WB)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Bengali New Year / Nababarsha / Masadi (TR WB)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Tamil New Year (PY TN)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Vishu (KL)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Maha Visubha Sankranti (OR)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Bohag Bihu (AS)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Vishu 2nd Day (PY*)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Bohag Bihu (AR)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Bohag Bihu (AS)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "Himachal Day (HP)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navami (AN AP BR CG CH DH DL GA GJ HP HR JH JK LD MH MP OR PB RJ SK TS UK UP WB)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections) (AN AP* AR AS* BR* CG* DL* HP* HR* JK* LD MH* ML MN* MP* MZ NL PB* PY RJ* SK TN TR* UK UP* WB*)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Saturday",
+        "name": "Garia Puja (TR)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Saturday",
+        "name": "Sati Sadhani Divas (AS)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Mahavir Jayanti / Janma Kalyanak (CG DH DL GJ HR JH KA MH MP MZ PB RJ TN UK UP WB)"
+      },
+      {
+        "date": "Apr 22",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections re-poll) (MN*)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "Khongjom Day (MN)"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections) (AP* AS* BR* CG* DL* HR* KA* JK* KL MH* MN* MP* PY* RJ* TR* UP* WB*)"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections re-poll) (MN*)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day / Labor Day (AP AS BR GA KA KL MN PB PY TN TR WB)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Maharashtra Din (MH)"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections) (AP* AS* BR* CG* DH DL* GA GJ HR* JK* KA* MH* MP* PY* UP* WB*)"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Rabindra Nath Tagore Jayanti (WB)"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Tithi of Damodardeva (AS)"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Maharshi Parasuram Jayanti (GJ HP HR MP PB RJ)"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Basava Jayanthi / Akshaya Tritiya (KA)"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections) (AP BR* DL* HR* JH* JK* MH* MP* OR* PY* TS UP* WB*)"
+      },
+      {
+        "date": "May 16",
+        "weekday": "Thursday",
+        "name": "State Day (SK)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections) (AP* BR* DH* HP* HR* JH* JK* LA MH* MP* OR* PY* UP* WB*)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Purnima / Shyadar Pidar (AN AR AS CG CH DL HP JH JK LA LD MH MP MZ OR SK* TR UK UP WB)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Saga Dawa (SK*)"
+      },
+      {
+        "date": "May 24",
+        "weekday": "Friday",
+        "name": "Janmotsav of Sri Sri Madhabdeva (AS)"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections) (AP* BR* DL HP* HR* JH* JK* MP* OR* PB* PY* UP* WB*)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Cyclone Remal Flooding) (MN*)"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Friday",
+        "name": "Public Holiday (Cyclone Remal Flooding) (MN*)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections) (AP* BR* CH HP HR* JH* MP* OR* PB PY* UP* WB*)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Sunday",
+        "name": "Telangana State Formation Day (TS*)"
+      },
+      {
+        "date": "June 4",
+        "weekday": "Tuesday",
+        "name": "Counting Day (TS*)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Thursday",
+        "name": "Sabitri Amabasya (OR)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Sunday",
+        "name": "Maharana Pratap Jayanti (HP HR MP RJ)"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Martyrdom Day of Sri Guru Arjun Dev Ji (PB)"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Wednesday",
+        "name": "Jamai Shasthi (WB*) (from 14:00)"
+      },
+      {
+        "date": "June 13",
+        "weekday": "Thursday",
+        "name": "Urs Shah-I-Hamdan Sahib (JK*)"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Friday",
+        "name": "Pahaliraja / Pahili Raja (OR)"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Friday",
+        "name": "Mela Khir Bhawani (JK*)"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Raja Sankranti (OR)"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "YMA Day (MZ)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Day before Bakri Id / Id-ul-Zuha (PY*)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Bakri Id / Id-ul-Zuha (Feast of Sacrifice) (AN AP AS BR CG CH DL GA GJ HP HR JH JK KA KL LA LD MH ML MN MP MZ NL OR PB PY* RJ TN TR TS UK UP WB)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid-Ul-Azha Holiday (JK)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Kabir Jayanti (CG HP HR PB)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Guru Hargobind Ji's Jayanti (JK)"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Urban Local Bodies Election) (NL)"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Sunday",
+        "name": "Remna Ni (MZ)"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Municipality Elections) (RJ)"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Wednesday",
+        "name": "Beh Deinkhlan (ML)"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (heavy rains) (MN*)"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Thursday",
+        "name": "Public Holiday (heavy rains) (MN*)"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Public Holiday (heavy rains) (MN*)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Saturday",
+        "name": "MHIP Day (MZ)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Ratha Yathra / Kang (OR WB*)"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Ratha Yathra / Kang (MN OR*)"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Tuesday",
+        "name": "Drukpa Tshechi (SK)"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Saturday",
+        "name": "Bhanu Jayanti (SK*)"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Sunday",
+        "name": "Kharchi Puja (TR)"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Muharram / Ashoora (KL)"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Harela (UK)"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Guru Rimpoche's Thungkar Tshechu (SK*)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Muharram / Ashoora (AN AP AS* BR CG DL GJ HP JH JK KA LA LD MH MP MZ OR RJ TN TS UK UP WB)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Death Anniversary of U Tirot Sing (ML)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday (KL)"
+      },
+      {
+        "date": "July 20",
+        "weekday": "Saturday",
+        "name": "Last Day Of Kharchi Puja (TR)"
+      },
+      {
+        "date": "July 29",
+        "weekday": "Monday",
+        "name": "Bonalu (TS)"
+      },
+      {
+        "date": "July 31",
+        "weekday": "Wednesday",
+        "name": "Martyrdom Day of Shahid Udham Singh (HR)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Karkidaka Vaavu Bali (KL)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Ker Puja (TR)"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Sunday",
+        "name": "Hariyali Amavasya (CG)"
+      },
+      {
+        "date": "Aug 7",
+        "weekday": "Wednesday",
+        "name": "Hariyali Teej (RJ*)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "Tendong Lho Rum Faat (SK)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Panchayats Elections) (TR*)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "State Public Holiday (Death of former CM Buddhadeb Bhattacharjee) (WB)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Friday",
+        "name": "Vishwa Adivasi Diwas / World Tribal Day (CG RJ)"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Tuesday",
+        "name": "Patriot's Day (MN)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Parsi New Year (Shahenshahi) (DH GJ LD MH)"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Friday",
+        "name": "De Jure Transfer Day (PY)"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Raksha Bandhan (CG DH GJ HP* HR LD MP RJ UK UP WB*)"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Jhulana Purnima (OR)"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Tuesday",
+        "name": "Nepali Bhasa Manyata Diwas (SK*)"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Tuesday",
+        "name": "Sree Narayana Guru Jayanthi (KL)"
+      },
+      {
+        "date": "Aug 23",
+        "weekday": "Friday",
+        "name": "Tirobhab Tithi of Sri Sri Madhabdeva (AS)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami / Sri Krishna Jayanti/ Sri Krishna Astami (AP AS BR CG CH DH DL GJ HP HR JH JK KL LD ML MN MP NL OR PB RJ SK TN TR TS UK UP WB)"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Tuesday",
+        "name": "Janmashtami / Sri Krishna Jayanti/ Sri Krishna Astami (RJ*)"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Wednesday",
+        "name": "Ayyankali Jayanti (KL)"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Wednesday",
+        "name": "Tithi of Shrimanta Shankar Deva (AS)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Elections) (RJ)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Friday",
+        "name": "Hariyali Teej (CG)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Friday",
+        "name": "Haritalika Teej (SK*)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Saturday",
+        "name": "Ganesh Chaturthi / Vinayaka Chaturthi / Chaturthi Paksha (AP DH GA GJ KA MH OR TN TS)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Nuakhai (OR)"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Ganesh Chaturthi (2nd Day) (GA)"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Monday",
+        "name": "Nuakhai Holiday (OR*)"
+      },
+      {
+        "date": "Sep 13",
+        "weekday": "Friday",
+        "name": "Ramdev Jayanti and Teja Dashmi (RJ)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "First Onam (KL PY*)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "Karma Puja (JH)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "Karam Puja (AS WB*)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Onam / Thiruonam (KL PY*)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Milad-un-Nabi / Baravfat (Prophet's Birthday) (AP CG DH DL GA GJ JH JK KA KL LA MN MP MZ NL OR PY* RJ TR UK UP WB*)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Vishwakarma Puja (UK)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Third Onam (KL)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Milad-un-Nabi / Baravfat (Prophet's Birthday) (AN LD PY* TN TS)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Fourth Onam (KL)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Indrajatra (SK)"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Milad-un-Nabi / Baravfat (Prophet's Birthday) (MH)"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Pang Lhabsol (SK)"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Assembly Elections) (JK*)"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Friday",
+        "name": "Friday Following Eid-i-Milad-ul-Nabi (JK)"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Saturday",
+        "name": "Sree Narayana Guru Samadhi Day (KL)"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Haryana Veer and Shahidi Divas (HR)"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Maharaja Hari Singh's Birth Anniversary (JK)"
+      },
+      {
+        "date": "Sep 25",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Assembly Elections) (JK*)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Jananeta Irawat Birth Day (MN)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Half Yearly Closing of Bank Accounts (SK*)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Assembly Elections) (JK*)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahalaya / Mahalaya Amavasye (KA OR TR WB)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "First day of Bathukamma (TS)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Maharaja Agrasen Jayanti (CH* HR PB RJ)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Navratra Stapanan / Navratri Ghatasthapana (RJ)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Mera Chaoren Houba of Lainingthou Sanamahi (MN)"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "Birthday of Late Nar Bahadur Bhandari (SK*)"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "Public Holiday (General Election to the Legislative Assembly) (HR)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Monday",
+        "name": "Durga Puja - Maha Chaturthi (WB*)"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Tuesday",
+        "name": "Durga Puja - Maha Panchami (WB*)"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Wednesday",
+        "name": "Durga Puja - Maha Shashthi (WB*)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Dussehra / Ayudha Puja / Saraswathi Puja (Maha Navami) (NL)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Dussehra / Durga Puja / Durga Saptami (Maha Saptami) (AS OR TR WB)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Durga Puja / Dussehra / Dasehra (Vijaya Dashami) (DH NL)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Dussehra / Durga Ashtami (Maha Ashtami) (AP AR AS BR JH MN OR RJ SK TR WB)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Dussehra / Ayudha Puja / Saraswathi Puja (Maha Navami) (AR BR JH KA KL* ML PY TN UP WB)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Durga Puja / Dussehra / Dasehra (Vijaya Dashami) (AN AP AR BR CG CH DL GA GJ HP HR JH JK KA LA MH ML MP MZ PB RJ TN TS UK UP WB)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dussehra / Ayudha Puja / Saraswathi Puja (Maha Navami) (AS JK KL OR SK TR)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Durga Puja / Dussehra / Dasehra (Vijaya Dashami) (AS KL OR SK TR)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Following day of Vijaya Dasami (TS)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Janmotsav of Srimanta Shankardeva (AS)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Durga Puja / Dasain (SK)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Additional Holiday (TR)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Additional day for Durga Puja (WB*)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "St. Theresa Festival (PY*)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Durga Puja / Dasain (SK)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Additional Holiday (TR)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Additional day for Durga Puja (WB*)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Panchayats Elections) (CH* PB*)"
+      },
+      {
+        "date": "Oct 16",
+        "weekday": "Wednesday",
+        "name": "Lakshmi Puja / Kunar Purnima (AS* OR TR WB)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Birthday of Maharishi Valmiki Ji (CH DL HP HR KA MP PB UK)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Kati Bihu (AS)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Mera Houchongba (MN)"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Additional day for Lakshmi Puja (WB*)"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Friday",
+        "name": "Additional day for Lakshmi Puja (WB*)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Sunday",
+        "name": "Karva Chauth (HP*) (only for women employees)"
+      },
+      {
+        "date": "Oct 26",
+        "weekday": "Saturday",
+        "name": "Accession Day (JK)"
+      },
+      {
+        "date": "Oct 30",
+        "weekday": "Wednesday",
+        "name": "Deepavali / Diwali (PY*)"
+      },
+      {
+        "date": "Oct 30",
+        "weekday": "Wednesday",
+        "name": "Urs Sheikh Noor-ud-din-Sahib (JK*)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali / Diwali Amavasya / Deepavali (AN AP AR BR CG CH DH DL GJ HP HR JH LA MP MZ NL OR PB RJ TS UK UP)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali / Diwali (AS GA KL LD PY* TN)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Naraka Chaturdashi / Kali Puja (AS KA WB)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Sardar Vallabhbhai Patel Jayanti (GJ)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Diwali / Diwali Amavasya / Deepavali (GJ* JK MH ML MN RJ* UK UP*)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Deepavali / Diwali (TN* TR)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Balipadyami Diwali / Govardhan Pooja / Vikram Samvat (MP* PB)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Kannada Rajyothsava (KA)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Haryana Day (HR)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Puducherry Liberation Day (PY)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Kut (MN)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Laxmi Puja / Deepawali (SK)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Additional day for Kali Puja (WB*)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Balipadyami Diwali / Govardhan Pooja / Vikram Samvat (GJ HR KA MH RJ UK UP)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Laxmi Puja / Deepawali (SK)"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Bhai Duj / Chitragupth Jayanti / Bhau Beej / Dawat Puja (AS GJ HP* MH RJ UP WB)"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Ningol Chakkouba (MN)"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Laxmi Puja / Deepawali (SK)"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Day after Bhatridwitya (WB*)"
+      },
+      {
+        "date": "Nov 6",
+        "weekday": "Wednesday",
+        "name": "Pitri Matri Vandana (AS*)"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Thursday",
+        "name": "Chhath Puja Parva / Surya Sasthi (AS BR CG DH JH WB)"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Chath Holiday (BR JH)"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Wangala Festival (ML)"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Additional day for Chhat Puja (WB*)"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Pitri Matri Vandana (AS*)"
+      },
+      {
+        "date": "Nov 12",
+        "weekday": "Tuesday",
+        "name": "Igas-Bagwal (UK)"
+      },
+      {
+        "date": "Nov 13",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (by-elections) (BR* RJ*)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Jayanti (AN AR AS CG CH DL GJ HP HR JH JK LA LD MH MP MZ NL PB RJ TS UK UP WB)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Karthika Purnima / Rahasa Purnima (OR TS)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Birsa Munda Jayanti (MP)"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Saturday",
+        "name": "Shahidi Divas S. Kartar Singh Srabha Ji (PB)"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Kanakdasa Jayanti (KA)"
+      },
+      {
+        "date": "Nov 20",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Vidhan Sabha Election) (MH)"
+      },
+      {
+        "date": "Nov 20",
+        "weekday": "Wednesday",
+        "name": "Sakewa (SK*)"
+      },
+      {
+        "date": "Nov 22",
+        "weekday": "Friday",
+        "name": "Lhabab Duchen (SK*)"
+      },
+      {
+        "date": "Nov 23",
+        "weekday": "Saturday",
+        "name": "Seng Kut Snem (ML)"
+      },
+      {
+        "date": "Nov 24",
+        "weekday": "Sunday",
+        "name": "Lachit Divas (AS)"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Sunday",
+        "name": "State Inauguration Day (NL)"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Sunday",
+        "name": "Indigenous Faith Day (AR)"
+      },
+      {
+        "date": "Dec 2",
+        "weekday": "Monday",
+        "name": "Asom Divas / Su-Ka-Pha Divas (Assam Day) (AS)"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Tuesday",
+        "name": "World Disabled Day (TR)"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Tuesday",
+        "name": "Feast of St. Francis Xavier (GA)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Martyrdom Day of Sri Guru Teg Bahadur Ji (PB)"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of Pa Togan Nengminja Sangma (ML)"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Thursday",
+        "name": "Nupi Lal (MN)"
+      },
+      {
+        "date": "Dec 15",
+        "weekday": "Sunday",
+        "name": "Teyongsi Sirijunga Sawan Tongnam (SK*)"
+      },
+      {
+        "date": "Dec 15",
+        "weekday": "Sunday",
+        "name": "Puhgal Parim (SK*)"
+      },
+      {
+        "date": "Dec 15",
+        "weekday": "Sunday",
+        "name": "Chasok Tangnam (SK*)"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Wednesday",
+        "name": "Guru Ghasidas Jayanti (CG)"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Wednesday",
+        "name": "Death Anniversary of U SoSo Tham (ML)"
+      },
+      {
+        "date": "Dec 19",
+        "weekday": "Thursday",
+        "name": "Goa Liberation Day (GA)"
+      },
+      {
+        "date": "Dec 20",
+        "weekday": "Friday",
+        "name": "Barahimizong (SK*)"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve / Christmas Festival (ML MZ NL)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas (AN AP AR AS BR CG CH DH DL GA GJ HP HR JH JK KA KL LA LD MH ML MN MP MZ NL OR PB PY RJ SK TN TR TS UK UP WB)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day / Christmas Festival / Christmas Celebration (ML MZ NL TS)"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Christmas Festival / Christmas Celebration (ML NL)"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Shaheed Sabha (PB)"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Saturday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "Kagyed Dance (SK*)"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Death Anniversary of U Kiang Nangbah (ML)"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Tamu Lochar (SK*)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Losar (LA)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve (MZ)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Losoong / Namsoong (SK)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (AR ML MN MZ NL PY SK TN TS WB*)"
+      },
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Mannam Jayanti (KL)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Celebration (MZ)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Saturday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Sunday",
+        "name": "Nyempa Guzom (SK)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Guru Govind Singh Jayanti (CH HR JK PB RJ)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Nyempa Guzom (SK)"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of L Maharaja Gambhir Singh (MN)"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Saturday",
+        "name": "Imoinu Iratpa (MN)"
+      },
+      {
+        "date": "Jan 11",
+        "weekday": "Saturday",
+        "name": "Missionary Day (MZ)"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Sunday",
+        "name": "Swami Vivekananda Jayanti (WB)"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Sunday",
+        "name": "Gaan-Ngai (MN)"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Bhogi / Bogi Pandigai (AP TS)"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Lohri / Sohrai (JK*)"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Shakambhari Jayanti / Cher-Chhera Punni (CG)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Sankranti / Pongal (AP PY* TN TR)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Hazarat Ali's Birthday (LD UP)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Makara Sankranti / Magh Bihu / Uttarayana Punyakala (AN AR AS DH GJ KA LD OR SK TS)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Wednesday",
+        "name": "Thiruvalluvar Day / Mattu Pongal (PY* TN)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Wednesday",
+        "name": "Kanuma Panduga / Tusu Puja (AP AS)"
+      },
+      {
+        "date": "Jan 16",
+        "weekday": "Thursday",
+        "name": "Uzhavar Thirunal (TN)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Thursday",
+        "name": "Netaji Subhas Chandra Bose Jayanti (AS OR TR WB)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Saturday",
+        "name": "Statehood Day (HP)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Mairaj-ul-Alam / Shab-i-Meiraj (JK)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Gwther Bathou San (AS)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Sonam Lochhar (SK)"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "Me-Dam-Me-Phi (AS)"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "Friday following Shab-I-Miraj (JK*)"
+      },
+      {
+        "date": "Feb 2",
+        "weekday": "Sunday",
+        "name": "Day before Saraswati Puja (WB*)"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Vasant Panchami / Sir Chhotu Ram Jayanti / Saraswati Puja (HR OR TR WB)"
+      },
+      {
+        "date": "Feb 4",
+        "weekday": "Tuesday",
+        "name": "Shree Devnarayan Jayanti (RJ)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Tuesday",
+        "name": "Thaipoosam (TN)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Guru Ravidas Jayanti / Magha Purnima (HP HR JK* MP PB)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Bir Chilarai Divas (AS)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Friday",
+        "name": "Shab-e-Barat (WB*)"
+      },
+      {
+        "date": "Feb 15",
+        "weekday": "Saturday",
+        "name": "Lui-Ngai-Ni (MN)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Wednesday",
+        "name": "Chatrapati Shivaji Maharaj Jayanti (MH)"
+      },
+      {
+        "date": "Feb 20",
+        "weekday": "Thursday",
+        "name": "Statehood Day (AR)"
+      },
+      {
+        "date": "Feb 20",
+        "weekday": "Thursday",
+        "name": "State Day (MZ)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivaratri (AP CH DH DL GA GJ HP HR JH JK KA KL LD MH MP MZ OR PB RJ TR TS UK UP WB*)"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Losar (SK)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Panchayati Raj Divas (OR)"
+      },
+      {
+        "date": "Mar 7",
+        "weekday": "Friday",
+        "name": "Chapchâr Kût (MZ)"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Dolapurnima / Doljatra / Holika Dahan / Holi (AP AS JH JK* MN OR RJ TR TS UK UP WB)"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi / Dhuleti (AN AR CG CH DH DL GA GJ HP HR JH LA LD MH ML MN MP MZ NL OR PB RJ SK TR UK UP)"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Dolapurnima / Doljatra / Holika Dahan / Holi (BR)"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Bhumchu (SK)"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Saturday",
+        "name": "Holi / Dhuleti (BR)"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Saturday",
+        "name": "Day after Doljatra (WB*)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Nauroz (JK LA)"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Bihar Day (BR)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Martyrdom Day of Shaheed Bhagat Singh (PB)"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Shaheedi Diwas / Martyrdom Day of Sardar Bhagat Singh (HR)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Tuesday",
+        "name": "Bhakt Mata Karma Jayanti (CG)"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Thursday",
+        "name": "Birthday of Shri Shri Harichand Thakur (WB*)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Jumat-ul-Wida (JK)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Shab-i-Qadr (JK)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Gudi Padva / Ugadi / Chetti Chand / 1st Navratra (AP DH GA GJ JK KA MH MP RJ TS)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Telugu New Year (PY* TN)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Sajibu Nongmapanba (Cheiraoba) (MN)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Day before Ramazan / Id-ul-Fitr (PY* WB*)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramazan / Id-ul-Fitr / Kuthba-e-Ramzan (End of Ramadan) (AN AP AR AS BR CG CH DH DL GA GJ HP HR JH JK KA KL LA LD MH ML MN MP MZ NL OR PB PY* RJ SK TN TR TS UK UP WB)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Ramazan (2nd day) (TS)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Utkal Dibas / Odisha Day (OR)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Sarhul (JH)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Saturday",
+        "name": "Babu Jagjivan Ram Jayanthi (AP TS)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navami (AN AP BR CG CH DH DL GA GJ HP HR JH JK MH MP OR PB RJ SK TS UK UP)"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Tuesday",
+        "name": "Birthday of Sri Guru Nabha Dass Ji (PB)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Thursday",
+        "name": "Mahavir Jayanti / Janma Kalyanak (CG DH DL GJ HR JH KA LA LD MH MP MZ PB RJ TN UK UP WB)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Friday",
+        "name": "Mahatma Jyotiba Phule Jayanti (RJ)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Maha Visubha Sankranti (OR)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Vaisakhi / Baisakhi (HR JK MP PB)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Biju Festival (TR)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Cheiraoba (MN)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. Babasaheb Ambedkar Jayanti (AP BR CG CH GA GJ HP HR JH JK KA KL LA MH MP OR PB PY RJ SK TN TS UK UP WB)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Bengali New Year / Nababarsha / Masadi (TR WB)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Tamil New Year (PY TN)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Vishu (KL PY*)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Bohag Bihu (AS)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Bohag Bihu (AS)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Himachal Day (HP)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Vishu 2nd Day (PY*)"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Bohag Bihu (AR)"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Bohag Bihu (AS)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (KL)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (AN AP AR AS BR CG CH DH DL GA GJ HP JH KA KL MH ML MN MP MZ NL OR PB PY RJ SK TN TS UK UP WB)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (KL)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Garia Puja (TR)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Sati Sadhani Divas (AS)"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Wednesday",
+        "name": "Khongjom Day (MN)"
+      },
+      {
+        "date": "Apr 28",
+        "weekday": "Monday",
+        "name": "Tithi of Damodardeva (AS)"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Tuesday",
+        "name": "Maharshi Parasuram Jayanti (GJ HP HR MP PB RJ)"
+      },
+      {
+        "date": "Apr 30",
+        "weekday": "Wednesday",
+        "name": "Basava Jayanthi / Akshaya Tritiya (KA)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day / Labor Day (AP AS BR GA KA KL MN PB PY TN TR WB)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Maharashtra Din (MH)"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "Rabindra Nath Tagore Jayanti (WB)"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnima / Shyadar Pidar (AN AR AS CG CH DL HP JH JK LA LD MH MP MZ OR SK TR UK UP WB)"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Tuesday",
+        "name": "Janmotsav of Sri Sri Madhabdeva (AS)"
+      },
+      {
+        "date": "May 16",
+        "weekday": "Friday",
+        "name": "State Day (SK)"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Tuesday",
+        "name": "Sabitri Amabasya (OR)"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Maharana Pratap Jayanti (HP HR MP RJ)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Martyrdom Day of Sri Guru Arjun Dev Ji (PB)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Telangana State Formation Day (TS*)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Tuesday",
+        "name": "Urs Shah-I-Hamdan Sahib (JK*)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Tuesday",
+        "name": "Mela Khir Bhawani (JK*)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Bakri Id / Id-ul-Zuha (Feast of Sacrifice) (KL)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Day before Bakri Id / Id-ul-Zuha (PY*)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Bakri Id / Id-ul-Zuha (Feast of Sacrifice) (AN AP AS BR CG CH DL GA GJ HP HR JH JK KA LA LD MH ML MN MP MZ NL OR PB PY* RJ TN TR TS UK UP WB)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid-Ul-Azha Holiday (JK)"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Kabir Jayanti (CG HP HR PB)"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Saga Dawa (SK)"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Thursday",
+        "name": "Guru Hargobind Ji's Jayanti (JK)"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Saturday",
+        "name": "Pahaliraja / Pahili Raja (OR)"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Sunday",
+        "name": "Raja Sankranti (OR)"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Sunday",
+        "name": "YMA Day (MZ)"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Ratha Yathra / Kang (MN OR WB*)"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Monday",
+        "name": "Remna Ni (MZ)"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Thursday",
+        "name": "Kharchi Puja (TR)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Muharram / Ashoora (AN AP AS* BR CG DL GJ HP JH JK KA KL LA LD MH MP MZ OR RJ TN TS UK UP WB)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "MHIP Day (MZ)"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Sunday",
+        "name": "Bhanu Jayanti (SK)"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Monday",
+        "name": "Beh Deinkhlan (ML)"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Wednesday",
+        "name": "Harela (UK)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of U Tirot Sing (ML)"
+      },
+      {
+        "date": "July 19",
+        "weekday": "Saturday",
+        "name": "Ker Puja (TR)"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Monday",
+        "name": "Bonalu (TS)"
+      },
+      {
+        "date": "July 24",
+        "weekday": "Thursday",
+        "name": "Karkidaka Vaavu Bali (KL)"
+      },
+      {
+        "date": "July 24",
+        "weekday": "Thursday",
+        "name": "Hariyali Amavasya (CG)"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "Drukpa Tshechi (SK)"
+      },
+      {
+        "date": "July 31",
+        "weekday": "Thursday",
+        "name": "Martyrdom Day of Shahid Udham Singh (HR)"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Guru Rimpoche's Thungkar Tshechu (SK)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Friday",
+        "name": "Jhulana Purnima (OR)"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Friday",
+        "name": "Tendong Lho Rum Faat (SK)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Raksha Bandhan (CG DH GJ HP* HR MP RJ UK UP WB*)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Vishwa Adivasi Diwas / World Tribal Day (CG RJ)"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Wednesday",
+        "name": "Patriot's Day (MN)"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Thursday",
+        "name": "Tirobhab Tithi of Sri Sri Madhabdeva (AS)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Parsi New Year (Shahenshahi) (DH GJ LD MH)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Janmashtami / Sri Krishna Jayanti/ Sri Krishna Astami (LD)"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami / Sri Krishna Jayanti/ Sri Krishna Astami (AP AS BR CG CH DH DL GJ HP HR JH JK ML MN MP MZ NL OR PB RJ SK TN TR TS UK UP WB*)"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "De Jure Transfer Day (PY)"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Wednesday",
+        "name": "Nepali Bhasa Manyata Diwas (SK)"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "Tithi of Shrimanta Shankar Deva (AS)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Tuesday",
+        "name": "Hariyali Teej (CG)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Tuesday",
+        "name": "Haritalika Teej (SK)"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Wednesday",
+        "name": "Ganesh Chaturthi / Vinayaka Chaturthi / Chaturthi Paksha (AP DH GA GJ KA LD MH OR PY* TN TS)"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Thursday",
+        "name": "Nuakhai (OR)"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Thursday",
+        "name": "Ayyankali Jayanti (KL)"
+      },
+      {
+        "date": "Aug 28",
+        "weekday": "Thursday",
+        "name": "Ganesh Chaturthi (2nd Day) (GA)"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Tuesday",
+        "name": "Ramdev Jayanti and Teja Dashmi (RJ)"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Wednesday",
+        "name": "Karma Puja (JH)"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Wednesday",
+        "name": "Karam Puja (AS WB*)"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "First Onam (KL PY*)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Milad-un-Nabi / Baravfat (Prophet's Birthday) (AN AP DH DL GA GJ JH JK KA KL LA LD MH MN MP MZ NL OR PY RJ TN TR TS UK UP WB*)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Onam / Thiruonam (AN KL LD PY*)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Saturday",
+        "name": "Milad-un-Nabi / Baravfat (Prophet's Birthday) (CG)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Saturday",
+        "name": "Third Onam (KL)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Fourth Onam (KL)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Indrajatra (SK)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Pang Lhabsol (SK)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Sunday",
+        "name": "Sree Narayana Guru Jayanthi (KL)"
+      },
+      {
+        "date": "Sep 12",
+        "weekday": "Friday",
+        "name": "Friday Following Eid-i-Milad-ul-Nabi (JK)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Sunday",
+        "name": "Janmashtami / Sri Krishna Jayanti/ Sri Krishna Astami (KL)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Wednesday",
+        "name": "Vishwakarma Puja (UK)"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Mahalaya / Mahalaya Amavasye (KA OR TR WB)"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Sree Narayana Guru Samadhi Day (KL)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Maharaja Agrasen Jayanti (HR PB RJ)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "First day of Bathukamma (TS)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Navratra Stapanan / Navratri Ghatasthapana (RJ)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Mera Chaoren Houba of Lainingthou Sanamahi (MN)"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Haryana Veer and Shahidi Divas (HR)"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Maharaja Hari Singh's Birth Anniversary (JK)"
+      },
+      {
+        "date": "Sep 26",
+        "weekday": "Friday",
+        "name": "Durga Puja - Maha Chaturthi (WB*)"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Saturday",
+        "name": "Durga Puja - Maha Panchami (WB*)"
+      },
+      {
+        "date": "Sep 28",
+        "weekday": "Sunday",
+        "name": "Durga Puja - Maha Shashthi (WB*)"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Dussehra / Durga Puja / Durga Saptami (Maha Saptami) (AR AS OR TR WB)"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Durga Puja / Dasain (SK)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Dussehra / Durga Ashtami (Maha Ashtami) (AP AR AS BR JH MN OR RJ TR TS WB)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Jananeta Irawat Birth Day (MN)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Durga Puja / Dasain (SK)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Dussehra / Ayudha Puja / Saraswathi Puja (Maha Navami) (AR AS BR JH JK KA KL ML NL OR PY TN TR UP WB)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Durga Puja / Dasain (SK)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Half Yearly Closing of Bank Accounts (SK*)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Durga Puja / Dussehra / Dasehra (Vijaya Dashami) (AN AP AR AS BR CG CH DH DL GA GJ HP HR JH JK KA KL LA LD MH ML MP MZ NL OR PB RJ TN TR TS UK UP WB)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Janmotsav of Srimanta Shankardeva (AS)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Durga Puja / Dasain (SK)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Following day of Vijaya Dasami (TS)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Durga Puja / Dasain (SK)"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Sunday",
+        "name": "Birthday of Late Nar Bahadur Bhandari (SK)"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Lakshmi Puja / Kunar Purnima (AS* OR TR WB)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Birthday of Maharishi Valmiki Ji (CH DL HP HR KA MP PB UK)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Mera Houchongba (MN)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Karva Chauth (HP*) (only for women employees)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Wednesday",
+        "name": "St. Theresa Festival (PY*)"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Saturday",
+        "name": "Kati Bihu (AS)"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Saturday",
+        "name": "Urs Sheikh Noor-ud-din-Sahib (JK*)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Diwali / Diwali Amavasya / Deepavali (CG HP ML MZ RJ)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Deepavali / Diwali (AS GA KL LD PY* TN TR)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Naraka Chaturdashi / Kali Puja (AS KA OR WB)"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali / Diwali Amavasya / Deepavali (AN AP AR CH DH DL GJ HR JH JK LA MH MN MP NL OR PB TS UK UP)"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Laxmi Puja / Deepawali (SK)"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Diwali / Diwali Amavasya / Deepavali (BR)"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Balipadyami Diwali / Govardhan Pooja / Vikram Samvat (GJ HR KA LD MH PB RJ UK UP)"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Laxmi Puja / Deepawali (SK)"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Bhai Duj / Chitragupth Jayanti / Bhau Beej / Dawat Puja (AS GJ HP* RJ UP WB)"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Laxmi Puja / Deepawali (SK)"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "Ningol Chakkouba (MN)"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "Day after Bhatridwitya (WB*)"
+      },
+      {
+        "date": "Oct 26",
+        "weekday": "Sunday",
+        "name": "Accession Day (JK)"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "Chhath Puja Parva / Surya Sasthi (AS BR CG DH DL JH WB*)"
+      },
+      {
+        "date": "Oct 28",
+        "weekday": "Tuesday",
+        "name": "Chath Holiday (BR JH)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Friday",
+        "name": "Sardar Vallabhbhai Patel Jayanti (GJ)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Kannada Rajyothsava (KA)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Haryana Day (HR)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Puducherry Liberation Day (PY)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Kut (MN)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Igas-Bagwal (UK)"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Jayanti (AN AR AS CG CH DL GJ HP HR JH JK LA LD MH MP MZ NL PB RJ TS UK UP WB)"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Karthika Purnima / Rahasa Purnima (OR TS)"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Friday",
+        "name": "Wangala Festival (ML)"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Saturday",
+        "name": "Kanakdasa Jayanti (KA)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Lhabab Duchen (SK)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Saturday",
+        "name": "Birsa Munda Jayanti (MP)"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Sunday",
+        "name": "Shahidi Divas S. Kartar Singh Srabha Ji (PB)"
+      },
+      {
+        "date": "Nov 23",
+        "weekday": "Sunday",
+        "name": "Seng Kut Snem (ML)"
+      },
+      {
+        "date": "Nov 24",
+        "weekday": "Monday",
+        "name": "Lachit Divas (AS)"
+      },
+      {
+        "date": "Nov 24",
+        "weekday": "Monday",
+        "name": "Martyrdom Day of Sri Guru Teg Bahadur Ji (UK)"
+      },
+      {
+        "date": "Nov 25",
+        "weekday": "Tuesday",
+        "name": "Martyrdom Day of Sri Guru Teg Bahadur Ji (PB)"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Monday",
+        "name": "State Inauguration Day (NL)"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Monday",
+        "name": "Indigenous Faith Day (AR)"
+      },
+      {
+        "date": "Dec 2",
+        "weekday": "Tuesday",
+        "name": "Asom Divas / Su-Ka-Pha Divas (Assam Day) (AS)"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Wednesday",
+        "name": "Feast of St. Francis Xavier (GA)"
+      },
+      {
+        "date": "Dec 4",
+        "weekday": "Thursday",
+        "name": "Puhgal Parim (SK)"
+      },
+      {
+        "date": "Dec 5",
+        "weekday": "Friday",
+        "name": "Teyongsi Sirijunga Sawan Tongnam (SK)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Saturday",
+        "name": "Sakewa (SK)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Tuesday",
+        "name": "Barahimizong (SK)"
+      },
+      {
+        "date": "Dec 11",
+        "weekday": "Thursday",
+        "name": "Chasok Tangnam (SK)"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Friday",
+        "name": "Death Anniversary of Pa Togan Nengminja Sangma (ML)"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Friday",
+        "name": "Nupi Lal (MN)"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Thursday",
+        "name": "Guru Ghasidas Jayanti (CG)"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Thursday",
+        "name": "Death Anniversary of U SoSo Tham (ML)"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Thursday",
+        "name": "Kagyed Dance (SK)"
+      },
+      {
+        "date": "Dec 19",
+        "weekday": "Friday",
+        "name": "Goa Liberation Day (GA)"
+      },
+      {
+        "date": "Dec 20",
+        "weekday": "Saturday",
+        "name": "Losar (LA)"
+      },
+      {
+        "date": "Dec 20",
+        "weekday": "Saturday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Dec 21",
+        "weekday": "Sunday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Dec 22",
+        "weekday": "Monday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Tuesday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Tuesday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Wednesday",
+        "name": "Christmas Eve / Christmas Festival (ML MZ NL)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Wednesday",
+        "name": "Losoong / Namsoong (SK)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas (AN AP AR AS BR CG CH DH DL GA GJ HP HR JH JK KA KL LA LD MH ML MN MP MZ NL OR PB PY RJ SK TN TR TS UK UP WB)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day / Christmas Festival / Christmas Celebration (ML MZ NL TS)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Nyempa Guzom (SK)"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Guru Govind Singh Jayanti (CH HR JK PB RJ)"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Christmas Festival / Christmas Celebration (ML* NL)"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Nyempa Guzom (SK)"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Sunday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Sunday",
+        "name": "Shaheed Sabha (PB)"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Monday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Tuesday",
+        "name": "Death Anniversary of U Kiang Nangbah (ML)"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Tuesday",
+        "name": "Christmas Holidays (NL)"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Tuesday",
+        "name": "Tamu Lochar (SK)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Wednesday",
+        "name": "Imoinu Iratpa (MN)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Wednesday",
+        "name": "New Year's Eve (MZ)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Wednesday",
+        "name": "Christmas Holidays (NL)"
+      }
+    ]
+  }
+]

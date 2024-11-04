@@ -1,0 +1,412 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday (QC)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Family Day (AB BC NB ON SK)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Islander Day (PE)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Louis Riel Day (MB)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Heritage Day (NS) (Honouring William Hall)"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "St. Patrick’s Day Holiday (NL)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (optional in QC)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (NS) (designated retail closing day)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday (AB QC) (optional)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday (NT NU)"
+      },
+      {
+        "date": "Apr 22",
+        "weekday": "Monday",
+        "name": "St. George’s Day Holiday (NL)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Victoria Day (not statutory in NB NL NS PE)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Victoria Day (NB) (prescribed day of rest)"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Friday",
+        "name": "National Indigenous Peoples Day (NT YT)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Saint Jean Baptiste (QC)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "June Holiday (NL)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Canada Day"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Tuesday",
+        "name": "Nunavut Day (NU)"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Monday",
+        "name": "Orangeman’s Day Holiday (NL)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Civic/Provincial Holiday (widely observed but statutory only in BC NB NU NT SK)"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Discovery Day (YT)"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Truth and Reconciliation Day (AB ON QC SK) (only federal government)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Truth and Reconciliation Day (NB NL NS)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Truth and Reconciliation Day (BC NT NU* PE YT)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Orange Shirt Day (MB)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (not statutory in NB NS PE)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (NB) (prescribed day of rest)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (NS) (designated retail closing day)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Remembrance Day (not statutory in MB NS ON QC)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day (statutory only in NB NT ON)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day (NS) (designated retail closing day)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day (NL)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Bank Holiday (QC)"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Family Day (AB BC NB ON SK)"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Islander Day (PE)"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Louis Riel Day (MB)"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Heritage Day (NS) (Honouring Nora Bernard)"
+      },
+      {
+        "date": "Mar 17",
+        "weekday": "Monday",
+        "name": "St. Patrick’s Day (NL)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (optional in QC)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (NS) (designated retail closing day)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday (AB QC) (optional)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday (NT NU)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "St. George’s Day Holiday (NL)"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Victoria Day (not statutory in NB NL NS PE)"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Victoria Day (NB) (prescribed day of rest)"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Saturday",
+        "name": "National Indigenous Peoples Day (NT YT)"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Monday",
+        "name": "June Holiday (NL)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "Saint Jean Baptiste (QC)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Canada Day"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Wednesday",
+        "name": "Nunavut Day (NU)"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Monday",
+        "name": "Orangeman’s Day Holiday (NL)"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Civic/Provincial Holiday (widely observed but statutory only in BC NB NU NT SK)"
+      },
+      {
+        "date": "Aug 18",
+        "weekday": "Monday",
+        "name": "Discovery Day (YT)"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Truth and Reconciliation Day (AB ON QC SK) (only federal government)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Truth and Reconciliation Day (NB NL NS)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Truth and Reconciliation Day (BC NT NU* PE YT)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Orange Shirt Day (MB)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (not statutory in NB NS PE)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (NB) (prescribed day of rest)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Thanksgiving Day (NS) (designated retail closing day)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Remembrance Day (not statutory in MB NS ON QC)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day (statutory only in NB NT ON)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Bank Holiday"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day (NS) (designated retail closing day)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day (NL)"
+      }
+    ]
+  }
+]

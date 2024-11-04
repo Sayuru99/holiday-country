@@ -1,0 +1,117 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Monday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "Benito Juarez Day"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (widespread but only official for banks)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (widespread but only official for banks)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Elecciones federales y locales)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Presidential Inauguration Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day (widespread but only official for banks)"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Revolution Day Holiday"
+      },
+      {
+        "date": "Dec 12",
+        "weekday": "Thursday",
+        "name": "Lady of Guadalupe Day / Día del Empleado Bancario"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Constitution Day Holiday"
+      },
+      {
+        "date": "Mar 17",
+        "weekday": "Monday",
+        "name": "Benito Juarez Day"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (widespread but only official for banks)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (widespread but only official for banks)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Anniversary of the Battle of Puebla (widespread but only official for banks)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

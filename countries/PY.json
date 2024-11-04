@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "National Heroes' Day"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Tuesday",
+        "name": "Día de la Independencia Nacional"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Wednesday",
+        "name": "Día de la Madre"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Chaco Armistice Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Asunción Foundation Day"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Sunday",
+        "name": "Anniversary of the Battle of Boquerón"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Monday",
+        "name": "Battle of Boquerón Holiday"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Virgin of Caacupé Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "National Heroes' Day"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 14",
+        "weekday": "Wednesday",
+        "name": "Día de la Independencia Nacional"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Thursday",
+        "name": "Día de la Madre"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Thursday",
+        "name": "Chaco Armistice Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Asunción Foundation Day"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Anniversary of the Battle of Boquerón"
+      }
+    ]
+  }
+]

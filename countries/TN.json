@@ -1,0 +1,157 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Aïd El-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Aïd El-Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Aïd El Kebir / El-Idha Holiday"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Aïd El Kebir / El-Idha Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Ras el am el Hejri / Hégire (Islamic New Year)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Thursday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Tuesday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Le Mouled (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Evacuation Day (fête nationale de l'évacuation)"
+      },
+      {
+        "date": "Dec 17",
+        "weekday": "Tuesday",
+        "name": "Revolution and Youth Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Aïd El-Fitr Holiday (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Aïd El-Fitr Holiday (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Aïd El-Fitr Holiday (End of Ramadan)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Wednesday",
+        "name": "Martyrs' Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Aïd El Kebir / El-Idha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Aïd El Kebir / El-Idha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Aïd El Kebir / El-Idha Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Ras el am el Hejri / Hégire (Islamic New Year)"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Friday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Wednesday",
+        "name": "Women's Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Le Mouled (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Wednesday",
+        "name": "Evacuation Day (fête nationale de l'évacuation)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Ano Novo)"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Saturday",
+        "name": "Democracy Day"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Saturday",
+        "name": "Heroes' Day (Aniversário da morte de Amílcar Cabral)"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Ash Wednesday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday (afternoon)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Monday",
+        "name": "Praia City Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Praia Municipal Day"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Youth Day (Dia da Criança)"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day (Dia da Padroeira Nacional)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Natal)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Ano Novo)"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Democracy Day"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Heroes' Day (Aniversário da morte de Amílcar Cabral)"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnaval (except full day in São Vicente)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Ash Wednesday (except morning only in São Vicente)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday (afternoon) (tentative)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Tuesday",
+        "name": "Praia City Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Praia Municipal Day"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "Youth Day (Dia da Criança)"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day (Dia da Padroeira Nacional)"
+      }
+    ]
+  }
+]

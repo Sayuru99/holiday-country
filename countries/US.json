@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr's Birthday"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Presidents' Day (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Memorial Day Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Juneteenth (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Columbus Day Holiday (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Veterans Day Holiday (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr Day"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Presidents' Day (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Memorial Day Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Juneteenth (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Columbus Day Holiday (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Veterans Day Holiday (widespread in gov. and fin. sectors)"
+      },
+      {
+        "date": "Nov 27",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      }
+    ]
+  }
+]

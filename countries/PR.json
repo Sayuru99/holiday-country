@@ -1,0 +1,197 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Día de Año Nuevo)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany (Día de Reyes)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr's Birthday"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Día de los Próceres Puertorriqueños"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Saturday",
+        "name": "Día de la Ciudadanía Americana"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Friday",
+        "name": "Emancipation Day (Día de la Abolición de la Esclavitud)"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Juneteenth"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Thursday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Saturday",
+        "name": "José Celso Barbosa's Birthday"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labor Day (y Día de Santiago Iglesias Pantín)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Colombus Day (Día del Descubrimiento de América)"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Día de Elecciones Generales)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Veterans Day"
+      },
+      {
+        "date": "Nov 19",
+        "weekday": "Tuesday",
+        "name": "Puerto Rico Discovery Day"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve (Día de Noche Buena)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Día de Navidad)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Día de Año Nuevo)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (Día de Reyes)"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr Day"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Día de los Próceres Puertorriqueños"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Sunday",
+        "name": "Día de la Ciudadanía Americana"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Día de la Ciudadanía Americana Holiday"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Emancipation Day (Día de la Abolición de la Esclavitud)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Juneteenth"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 25",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Sunday",
+        "name": "José Celso Barbosa's Birthday"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "José Celso Barbosa Holiday"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labor Day (y Día de Santiago Iglesias Pantín)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Colombus Day (Día del Descubrimiento de América)"
+      }
+    ]
+  }
+]

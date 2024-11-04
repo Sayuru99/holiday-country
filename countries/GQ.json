@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (AFCON victory against Ivory Coast)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Wednesday",
+        "name": "President's Day (Natalicio de Obiang Nguema Mbasogo)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Freedom Day (Golpe de la Libertad)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Freedom Day holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Constitution Day (Día de la Ley Fundamental)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Independence Day holiday"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception Day (Patrona de Guinea Ecuatorial)"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Immaculate Conception holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "President's Day (Natalicio de Obiang Nguema Mbasogo)"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Sunday",
+        "name": "Freedom Day (Golpe de la Libertad)"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Freedom Day holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Constitution Day (Día de la Ley Fundamental)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Independence Day holiday"
+      }
+    ]
+  }
+]

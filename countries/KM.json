@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Leilat al-Meiraj (The Prophet's Ascension)"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Monday",
+        "name": "Cheikh Al Maarouf Day"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Ide el Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Ide el Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ide el Fitr (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Ide el Kabir (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Ide el Kabir Holiday"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Saturday",
+        "name": "National Day"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Muharram (Islamic New Year)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mouloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Nov 12",
+        "weekday": "Tuesday",
+        "name": "Journée nationale Mahorais"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Leilat al-Meiraj (The Prophet's Ascension)"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Tuesday",
+        "name": "Cheikh Al Maarouf Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ide el Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ide el Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Ide el Fitr (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Ide el Kabir (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Ide el Kabir Holiday"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Muharram (Islamic New Year)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "National Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Mouloud (The Prophet's Birthday)"
+      }
+    ]
+  }
+]

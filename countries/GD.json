@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 7",
+        "weekday": "Wednesday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Emancipation Day Holiday"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Monday",
+        "name": "Carnival Monday"
+      },
+      {
+        "date": "Aug 13",
+        "weekday": "Tuesday",
+        "name": "Carnival Tuesday"
+      },
+      {
+        "date": "Oct 19",
+        "weekday": "Saturday",
+        "name": "National Heroes Day"
+      },
+      {
+        "date": "Oct 25",
+        "weekday": "Friday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 7",
+        "weekday": "Friday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Emancipation Day Holiday"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Monday",
+        "name": "Carnival Monday"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Tuesday",
+        "name": "Carnival Tuesday"
+      },
+      {
+        "date": "Oct 19",
+        "weekday": "Sunday",
+        "name": "National Heroes Day"
+      },
+      {
+        "date": "Oct 25",
+        "weekday": "Saturday",
+        "name": "Thanksgiving Day"
+      }
+    ]
+  }
+]

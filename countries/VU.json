@@ -1,0 +1,212 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Wednesday",
+        "name": "In memory of Dr. W. H. Lini (Father of Independence)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Tuesday",
+        "name": "Custom Chief's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Wednesday",
+        "name": "Constitutional Referendum"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Shefa Day"
+      },
+      {
+        "date": "July 24",
+        "weekday": "Wednesday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "July 30",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Penama Day"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Tuesday",
+        "name": "Sanma Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Torba Day"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Friday",
+        "name": "Constitution Day Holiday"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Tuesday",
+        "name": "Tafea Day"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Malampa Day"
+      },
+      {
+        "date": "Nov 29",
+        "weekday": "Friday",
+        "name": "National Unity Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Family Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Friday",
+        "name": "In memory of Dr. W. H. Lini (Father of Independence)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Custom Chief's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Wednesday",
+        "name": "Shefa Day"
+      },
+      {
+        "date": "July 24",
+        "weekday": "Thursday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "July 30",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Tuesday",
+        "name": "Penama Day"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "Sanma Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Torba Day"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Sunday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Constitution Day Holiday"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Wednesday",
+        "name": "Tafea Day"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Malampa Day"
+      }
+    ]
+  }
+]

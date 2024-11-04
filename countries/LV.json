@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Jaungads)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Liela piektdiena)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday (Otras Lieldienas)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (Darba svetki)"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Declaration of Independence Day"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Declaration of Independence Holiday"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Sunday",
+        "name": "Ligo (Midsummer's Eve)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Jani (Saint John's Day)"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Proclamation of the Republic"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Christmas Holiday (workday moved to Sat. Dec. 14)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Ziemassvetki)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "New Year Holiday (workday moved to Sat. Dec. 28)"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve (Vecgada vakars)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Jaungads)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Liela piektdiena)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday (Otras Lieldienas)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (Darba svetki)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Bridge Holiday (workday moved to Sat. May 10)"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Sunday",
+        "name": "Declaration of Independence Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Declaration of Independence Holiday"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Monday",
+        "name": "Ligo (Midsummer's Eve)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "Jani (Saint John's Day)"
+      }
+    ]
+  }
+]

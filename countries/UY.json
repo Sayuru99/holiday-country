@@ -1,0 +1,157 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany (Día de los Niños)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Semana de Turismo)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday (Semana de Turismo)"
+      },
+      {
+        "date": "Apr 22",
+        "weekday": "Monday",
+        "name": "Landing of the 33 Patriots Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Saturday",
+        "name": "Battle of Las Piedras Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "José Artigas Birthday / Día del Nunca Más"
+      },
+      {
+        "date": "July 18",
+        "weekday": "Thursday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Sunday",
+        "name": "Independence Day (Declaratoria de la Florida)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Día de la Raza / Sarandí Battle Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day (Día de los Muertos)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Día de la Familia)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (Día de los Niños)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Presidential Inauguration Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnaval"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (Semana de Turismo)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday (Semana de Turismo)"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Landing of the 33 Patriots Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Sunday",
+        "name": "Battle of Las Piedras Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "José Artigas Birthday / Día del Nunca Más"
+      },
+      {
+        "date": "July 18",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "Independence Day (Declaratoria de la Florida)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "Día de la Raza / Sarandí Battle Day"
+      }
+    ]
+  }
+]

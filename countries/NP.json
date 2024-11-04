@@ -1,0 +1,482 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 12",
+        "weekday": "Friday",
+        "name": "Prithivi Jayanti (Unity Day)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Maghi Parba / Maghe Sankranti"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Sonam Lhosar (Tamang New Year)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Rastraya Prajatantra Dibas (Democracy Day)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maaha Shivaratri"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Nari Dibas (International Women's Day)"
+      },
+      {
+        "date": "Mar 11",
+        "weekday": "Monday",
+        "name": "Gyalpyo/Gyallo Loshar"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Holi / Phagu Purnima / Basanta Utsav (55 Hilly Districts)"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi / Phagu Purnima / Basanta Utsav (Terai and Inner Madhesh)"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Ghodejatra (Kathmandu Valley)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Ramjan Edul Fikra (End of Ramadan)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Nepali New Year (Bisket Jatra)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 23",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Visit of the Emir of Qatar)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Workers Day (Majdoor Divas)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Jayanti (Bhudda Day)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Ubhauli festival/Chandi Purnima (May Full Moon) (for Kirat, Rai, Yakhkha, Sunuwar, and Limbu employees)"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Tuesday",
+        "name": "Ganatantra Diwas / Republic Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-ul Ajah / Bakarid (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Sunday",
+        "name": "Bhoto Jatra (Kathmandu Valley)"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Naag Panchami / Janaipurnima / Rakshya Bandhan"
+      },
+      {
+        "date": "Aug 20",
+        "weekday": "Tuesday",
+        "name": "Gai Jatra (Kathmandu Valley and Bagmati Province)"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Shree Krishna Janmasthami"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Gaura Parba"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Friday",
+        "name": "Hari Taika (Teej) (only for women employees)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Muhammad Jayanti"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Indra Jatra (Kathmandu Valley)"
+      },
+      {
+        "date": "Sep 19",
+        "weekday": "Thursday",
+        "name": "Constitution Day (National Day)"
+      },
+      {
+        "date": "Sep 25",
+        "weekday": "Wednesday",
+        "name": "Jitiya Parwa (only for women employees following Jitiya Parwa)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Ghatasthapana"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Dashain Festival (Phulpati/Fulpaati)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Dashain Festival (Maha Astami)"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Dashain Festival (Maha Nawami)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dashain Festival (Vijaya Dashami)"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Dashain Festival (Pampakusha Ekadashi)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Dashain Festival (Dwadashi)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Yam Panchak / Tihar Festival (Laxmi Pooja)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Yam Panchak / Tihar Festival (Gai Tihar)"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Yam Panchak / Tihar Festival (Goru Tihar / Gobardhan Pooja)"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Yam Panchak / Tihar Festival (Bhai Tika)"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Yam Panchak / Tihar Festival"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Thursday",
+        "name": "Chhat Parwa"
+      },
+      {
+        "date": "Nov 10",
+        "weekday": "Sunday",
+        "name": "Phalgunanda Jayanti (only for Kiranti employees)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Jayanti (only for Sikh employees)"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Tuesday",
+        "name": "International Disabilities Day (only for disabled employees)"
+      },
+      {
+        "date": "Dec 15",
+        "weekday": "Sunday",
+        "name": "Urdhyauli Parwa / Mangshir Dhanya Purnima (only for Kiranti employees)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Tamu Lhosar"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 11",
+        "weekday": "Saturday",
+        "name": "Prithivi Jayanti (Unity Day)"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Maghi Parba / Maghe Sankranti"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Sahid Diwash (Martyrs' Day)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Sonam Lhosar (Tamang New Year)"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Wednesday",
+        "name": "Rastraya Prajatantra Dibas (Democracy Day)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maaha Shivaratri"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Gyalpyo/Gyallo Loshar"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "Nari Dibas (International Women's Day)"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Holi / Phagu Purnima / Basanta Utsav (55 Hilly Districts)"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi / Phagu Purnima / Basanta Utsav (Terai and Inner Madhesh)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Saturday",
+        "name": "Ghodejatra (Kathmandu Valley)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Ramjan Edul Fikra (End of Ramadan)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Nepali New Year (Bisket Jatra)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Workers Day (Majdoor Divas)"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Jayanti (Bhudda Day)"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Ubhauli festival/Chandi Purnima (May Full Moon) (for Kirat, Rai, Yakhkha, Sunuwar, and Limbu employees)"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Wednesday",
+        "name": "Ganatantra Diwas / Republic Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Edul Aajaha / Bakar Eed (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Naag Panchami / Janaipurnima / Rakshya Bandhan"
+      },
+      {
+        "date": "Aug 10",
+        "weekday": "Sunday",
+        "name": "Gai Jatra (Kathmandu Valley)"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Shree Krishna Janmasthami"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Gaura Parba"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Tuesday",
+        "name": "Hari Taika (Teej) (only for women employees)"
+      },
+      {
+        "date": "Sep 6",
+        "weekday": "Saturday",
+        "name": "Indra Jatra (Kathmandu Valley)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Sunday",
+        "name": "Jitiya Parwa (only for women employees following Jitiya Parwa)"
+      },
+      {
+        "date": "Sep 19",
+        "weekday": "Friday",
+        "name": "Constitution Day (National Day)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Ghatasthapana"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Dashain Festival (Phulpati/Fulpaati)"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Dashain Festival (Maha Astami)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Dashain Festival (Maha Nawami)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dashain Festival (Vijaya Dashami)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Dashain Festival (Pampakusha Ekadashi)"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Saturday",
+        "name": "Dashain Festival (Dwadashi)"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Yam Panchak / Tihar Festival (Laxmi Pooja)"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Yam Panchak / Tihar Festival (Gai Tihar)"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Yam Panchak / Tihar Festival (Goru Tihar / Gobardhan Pooja)"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Yam Panchak / Tihar Festival (Bhai Tika)"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "Yam Panchak / Tihar Festival"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "Chhat Parwa"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Jayanti (only for Sikh employees)"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Phalgunanda Jayanti (only for Kiranti employees)"
+      },
+      {
+        "date": "Dec 3",
+        "weekday": "Wednesday",
+        "name": "International Disabilities Day (only for disabled employees)"
+      },
+      {
+        "date": "Dec 5",
+        "weekday": "Friday",
+        "name": "Urdhyauli Parwa / Mangshir Dhanya Purnima (only for Kiranti employees)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Tuesday",
+        "name": "Tamu Lhosar"
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Hari Raya Puasa (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Vesak Day (Buddha Day)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Hari Raya Haji (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Friday",
+        "name": "National Day"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Hari Raya Puasa (End of Ramadan)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Vesak Day (Buddha Day)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Hari Raya Haji (Feast of Sacrifice)"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "National Day"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      }
+    ]
+  }
+]

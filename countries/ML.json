@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Journée de la souveraineté retrouvée"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Saturday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Martyrs' Day / Democracy Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Leylatoul Qadr (Nuit du Destin)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Lendemain de la Fête du Ramadan"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Africa Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Tabaski Holiday"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Achoura"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Mawloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Sunday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Baptism of the Prophet"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Journée de la souveraineté retrouvée"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Armed Forces Day"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Wednesday",
+        "name": "Martyrs' Day / Democracy Day"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Leylatoul Qadr (Nuit du Destin)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Sunday",
+        "name": "Africa Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Achoura"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Mawloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 12",
+        "weekday": "Friday",
+        "name": "Baptism of the Prophet"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Independence Day (National Day)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "Lailatou-Kadr (Quran Revelation)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "Apr 24",
+        "weekday": "Wednesday",
+        "name": "Concord Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Muharam (Islamic New Year)"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Friday",
+        "name": "Anniversary of the CNSP Coup"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Fête Nationale"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Mouloud (The Prophet's Birthday)"
+      },
+      {
+        "date": "Dec 18",
+        "weekday": "Wednesday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Lailatou-Kadr (Quran Revelation)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Korité (End of Ramadan)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 24",
+        "weekday": "Thursday",
+        "name": "Concord Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Tabaski (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Muharam (Islamic New Year)"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Saturday",
+        "name": "Anniversary of the CNSP Coup"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Sunday",
+        "name": "Fête Nationale"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "Mouloud (The Prophet's Birthday)"
+      }
+    ]
+  }
+]

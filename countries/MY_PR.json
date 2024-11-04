@@ -1,0 +1,207 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Israk dan Mikraj"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Chinese New Year, Day 2"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Nuzul Quran"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Hari Raya Puasa (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Hari Raya Puasa Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 17",
+        "weekday": "Friday",
+        "name": "State Public Holiday (Raja's Birthday)"
+      },
+      {
+        "date": "May 22",
+        "weekday": "Wednesday",
+        "name": "Wesak (Buddha Day)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "Birthday of SPB Yang di-Pertuan Agong"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Hari Raya Qurban (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Hari Raya Qurban, Day 2"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Awal Muharram (Islamic New Year)"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Awal Muharram Holiday"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Saturday",
+        "name": "National Day (Hari Kebangsaan)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Malaysia Day"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Maulidur Rasul (The Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali (Festival of Lights)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Israk dan Mikraj"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Chinese New Year, Day 2"
+      },
+      {
+        "date": "Mar 18",
+        "weekday": "Tuesday",
+        "name": "Nuzul Quran"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Hari Raya Puasa (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Hari Raya Puasa Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Wesak (Buddha Day)"
+      },
+      {
+        "date": "May 17",
+        "weekday": "Saturday",
+        "name": "State Public Holiday (Raja's Birthday)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Birthday of SPB Yang di-Pertuan Agong"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Hari Raya Qurban (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Hari Raya Qurban, Day 2"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Hari Raya Qurban, Day 2 Holiday"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Awal Muharram (Islamic New Year)"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Sunday",
+        "name": "National Day (Hari Kebangsaan)"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "National Day Holiday"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Maulidur Rasul (The Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Tuesday",
+        "name": "Malaysia Day"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Deepavali (Festival of Lights)"
+      }
+    ]
+  }
+]

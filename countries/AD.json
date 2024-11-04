@@ -1,0 +1,202 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Thursday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (starting at 12:00 noon)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Saint John The Baptist Day"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Andorra La Vella Festival"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Sunday",
+        "name": "Andorra La Vella Festival"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Andorra La Vella Festival"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Sunday",
+        "name": "Meritxell Day (National Day)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Saint Stephen's Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (starting at 12:00 noon)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "Saint John The Baptist Day"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Saturday",
+        "name": "Andorra La Vella Festival"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Sunday",
+        "name": "Andorra La Vella Festival"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Andorra La Vella Festival"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption"
+      },
+      {
+        "date": "Sep 8",
+        "weekday": "Monday",
+        "name": "Meritxell Day (National Day)"
+      }
+    ]
+  }
+]

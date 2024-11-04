@@ -1,0 +1,187 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Anul nou)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Second Day of the New Year"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Baptism of the Lord"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Sunday",
+        "name": "Council of the Holy Prophet John the Baptist"
+      },
+      {
+        "date": "Jan 24",
+        "weekday": "Wednesday",
+        "name": "Union of the Romanian Principalities (Ziua Micii Uniri)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (Ziua muncii)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday (Vinerea Mare)"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Pastele)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (Doua zi de Pasti)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "International Children's Day"
+      },
+      {
+        "date": "June 23",
+        "weekday": "Sunday",
+        "name": "Pentecost (Rusalii)"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Pentecost Monday (Doua zi de Rusalii)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Dormition of the Virgin Mary (Adormirea Maicii Domnului)"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Nov 30",
+        "weekday": "Saturday",
+        "name": "Feast of Saint Andrew (Sfântul Andrei)"
+      },
+      {
+        "date": "Dec 1",
+        "weekday": "Sunday",
+        "name": "National Day (Ziua unirii)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Craciunul)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Anul nou)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Second Day of the New Year"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday (tentative)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Baptism of the Lord"
+      },
+      {
+        "date": "Jan 7",
+        "weekday": "Tuesday",
+        "name": "Council of the Holy Prophet John the Baptist"
+      },
+      {
+        "date": "Jan 24",
+        "weekday": "Friday",
+        "name": "Union of the Romanian Principalities (Ziua Micii Uniri)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Orthodox Good Friday (Vinerea Mare)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Orthodox Easter (Pastele)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Orthodox Easter Monday (Doua zi de Pasti)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (Ziua muncii)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday (tentative)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "International Children's Day"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Pentecost (Rusalii)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Pentecost Monday (Doua zi de Rusalii)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Dormition of the Virgin Mary (Adormirea Maicii Domnului)"
+      }
+    ]
+  }
+]

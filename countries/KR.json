@@ -1,0 +1,207 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Seol-nal Holiday"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Seol-nal (Lunar New Year)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Seol-nal Holiday"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Seol-nal Holiday"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Friday",
+        "name": "Sam Il Jul (Samil Day)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Parliamentary Elections)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Orininal (Children's Day)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Children's Day Holiday"
+      },
+      {
+        "date": "May 15",
+        "weekday": "Wednesday",
+        "name": "Sukka Tansin Il (Buddha Day)"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Thursday",
+        "name": "Hyun Choong Il (Memorial Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Kwang Bok Jul (Independence Day)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Chusok (Harvest Moon Festival)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Chusok (Harvest Moon Festival)"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Chusok (Harvest Moon Festival)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "76th anniversary of Armed Forces Day"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Kae Chun Jul (Foundation Day)"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Wednesday",
+        "name": "Hangeul Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Seol-nal Holiday"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Seol-nal (Lunar New Year)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Seol-nal Holiday"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Sam Il Jul (Samil Day)"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Samil Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Orininal (Children's Day)"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Sukka Tansin Il (Buddha Day)"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Tuesday",
+        "name": "Children's Day Holiday"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Hyun Choong Il (Memorial Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Kwang Bok Jul (Independence Day)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Kae Chun Jul (Foundation Day)"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Sunday",
+        "name": "Chusok (Harvest Moon Festival)"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Chusok (Harvest Moon Festival)"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Chusok (Harvest Moon Festival)"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Wednesday",
+        "name": "Chusok (Harvest Moon Festival)"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Thursday",
+        "name": "Hangeul Day"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "Public Holiday (tentative)"
+      }
+    ]
+  }
+]

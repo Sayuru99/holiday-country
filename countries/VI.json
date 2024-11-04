@@ -1,0 +1,202 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "Crucian Christmas Festival (Food, Arts, and Crafts Fair) (half-day)"
+      },
+      {
+        "date": "Jan 4",
+        "weekday": "Thursday",
+        "name": "Crucian Christmas Festival (J'Ouvert)"
+      },
+      {
+        "date": "Jan 5",
+        "weekday": "Friday",
+        "name": "Crucian Christmas Festival (Children's Parade)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany (Three King's Day)"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr's Birthday"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Presidents' Day"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Holy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Transfer Day"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Virgin Islands Carnival 2024 (Food Fair) (afternoon)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "Virgin Islands Carnival 2024 (J'Ouvert)"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Virgin Islands Carnival 2024 (Children's Parade)"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Wednesday",
+        "name": "V.I. Emancipation Day"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Thursday",
+        "name": "U.S. Independence Day"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Columbus Day / PR Friendship Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "D. Hamilton Jackson Day (Liberty Day)"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Tuesday",
+        "name": "Election Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Veterans Day"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (Three King's Day)"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr Day"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Presidents' Day"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Transfer Day"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Holy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "July 3",
+        "weekday": "Thursday",
+        "name": "V.I. Emancipation Day"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Friday",
+        "name": "U.S. Independence Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Columbus Day / PR Friendship Day"
+      }
+    ]
+  }
+]

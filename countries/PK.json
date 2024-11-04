@@ -1,0 +1,212 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year Bank Holiday"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Monday",
+        "name": "Kashmir Solidarity Day"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Public Holiday (General Elections)"
+      },
+      {
+        "date": "Mar 12",
+        "weekday": "Tuesday",
+        "name": "Start of Ramadan Bank Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Pakistan Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eidul Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eidul Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eidul Fitr Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Eidul Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 28",
+        "weekday": "Tuesday",
+        "name": "Youm-e-Takbeer"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eidul Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eidul Azha Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Eidul Azha Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "July Bank Holiday"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Ashura Holiday (Yaum-e-Ashur)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Ashura Holiday (Yaum-e-Ashur)"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "The Prophet's Birthday (Eid Milad un Nabi)"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Public Holiday (SCO Summit) (Islamabad and Rawalpindi)"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (SCO Summit) (Islamabad and Rawalpindi)"
+      },
+      {
+        "date": "Oct 16",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (SCO Summit) (Islamabad and Rawalpindi)"
+      },
+      {
+        "date": "Nov 9",
+        "weekday": "Saturday",
+        "name": "Allama Iqbal Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Quaid-e-Azam's Birthday / Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Second Day of Christmas (for Christians only)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year Bank Holiday"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Wednesday",
+        "name": "Kashmir Solidarity Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Start of Ramadan Bank Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Pakistan Day"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eidul Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eidul Fitr Holiday"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Wednesday",
+        "name": "Eidul Fitr Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eidul Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eidul Azha Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "July Bank Holiday"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Ashura Holiday (Yaum-e-Ashur)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Ashura Holiday (Yaum-e-Ashur)"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "The Prophet's Birthday (Eid Milad un Nabi)"
+      }
+    ]
+  }
+]

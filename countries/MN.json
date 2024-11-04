@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Bituun (Lunar New Year's Eve)"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Tsagaan Sar (Lunar New Year) (Year of the Wood Male Dragon)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Lunar New Year Holiday"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Lunar New Year Holiday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Day"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Mothers' and Children's Day"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Friday",
+        "name": "Public Holiday (Parliamentary Election)"
+      },
+      {
+        "date": "July 10",
+        "weekday": "Wednesday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "July 11",
+        "weekday": "Thursday",
+        "name": "Naadam (National Day)"
+      },
+      {
+        "date": "July 12",
+        "weekday": "Friday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Saturday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Sunday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Monday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "National Pride Day (Chinggis Khaan's Birthday)"
+      },
+      {
+        "date": "Nov 26",
+        "weekday": "Tuesday",
+        "name": "Proclamation of the Constitution Day"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "National Independence Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Bituun (Lunar New Year's Eve)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Tsagaan Sar (Lunar New Year) (Year of the Blue Female Snake)"
+      },
+      {
+        "date": "Mar 2",
+        "weekday": "Sunday",
+        "name": "Lunar New Year Holiday"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Lunar New Year Holiday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "Mothers' and Children's Day"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Buddha Day"
+      },
+      {
+        "date": "July 11",
+        "weekday": "Friday",
+        "name": "Naadam (National Day)"
+      },
+      {
+        "date": "July 12",
+        "weekday": "Saturday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "July 13",
+        "weekday": "Sunday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "July 14",
+        "weekday": "Monday",
+        "name": "Naadam Holiday"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Tuesday",
+        "name": "Naadam Holiday"
+      }
+    ]
+  }
+]

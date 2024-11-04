@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Preseren's Day (Day of Slovenian Culture)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Saturday",
+        "name": "Resistance Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "May Day Holiday"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Whitsunday"
+      },
+      {
+        "date": "June 25",
+        "weekday": "Tuesday",
+        "name": "Day of Slovenian Sovereignty (National Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Reformation Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Independence and Unity Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Saturday",
+        "name": "Preseren's Day (Day of Slovenian Culture)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Sunday",
+        "name": "Resistance Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "May Day Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Whitsunday"
+      },
+      {
+        "date": "June 25",
+        "weekday": "Wednesday",
+        "name": "Day of Slovenian Sovereignty (National Day)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Friday",
+        "name": "Reformation Day"
+      }
+    ]
+  }
+]

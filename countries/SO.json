@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (except Somaliland)"
+      },
+      {
+        "date": "Feb 7",
+        "weekday": "Wednesday",
+        "name": "Miraaj Nabi / The Prophet's Ascension (Somaliland)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday (Somaliland)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Saturday",
+        "name": "Restoration of Somaliland Sovereignty Day (Somaliland)"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Sunday",
+        "name": "Somaliland Sovereignty Holiday (Somaliland)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday (Somaliland)"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Republic Day (except Somaliland)"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Islamic New Year (Somaliland)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Ashura (except Somaliland)"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Mawlid Nabi (The Prophet's Birthday)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (except Somaliland)"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Miraaj Nabi / The Prophet's Ascension (Somaliland)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday (Somaliland)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Sunday",
+        "name": "Restoration of Somaliland Sovereignty Day (Somaliland)"
+      },
+      {
+        "date": "May 19",
+        "weekday": "Monday",
+        "name": "Somaliland Sovereignty Holiday (Somaliland)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday (Somaliland)"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Islamic New Year (Somaliland)"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Republic Day (except Somaliland)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Ashura (except Somaliland)"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Mawlid Nabi (The Prophet's Birthday)"
+      }
+    ]
+  }
+]

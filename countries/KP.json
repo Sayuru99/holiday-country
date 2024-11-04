@@ -1,0 +1,192 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Solar New Year's Day"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Korean People's Army Foundation Day"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Seollal Holiday"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Friday",
+        "name": "Day of the Shining Star (Kim Jong Il's Birthday)"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Cheongwoldaeboreum (Korean Folk Festival)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Chungmyung Day"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Monday",
+        "name": "April Holiday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Thursday",
+        "name": "Army Foundation Anniversary"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Thursday",
+        "name": "Korean Children's Union Foundation Day"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Saturday",
+        "name": "Victory Day (1953)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Liberation Day (1945)"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Sunday",
+        "name": "Day of Songun"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Monday",
+        "name": "National Day (1948)"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Han'gawi Holiday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "KWP Foundation Day (1945)"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Saturday",
+        "name": "Mothers' Day"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Solar New Year's Day"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Seollal Holiday"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Saturday",
+        "name": "Korean People's Army Foundation Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Cheongwoldaeboreum (Korean Folk Festival)"
+      },
+      {
+        "date": "Feb 16",
+        "weekday": "Sunday",
+        "name": "Kim Jong Il's Birthday"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Friday",
+        "name": "Chungmyung Day"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "April Holiday"
+      },
+      {
+        "date": "Apr 25",
+        "weekday": "Friday",
+        "name": "Army Foundation Anniversary"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Korean Children's Union Foundation Day"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Sunday",
+        "name": "Victory Day (1953)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Liberation Day (1945)"
+      },
+      {
+        "date": "Aug 25",
+        "weekday": "Monday",
+        "name": "Day of Songun"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Tuesday",
+        "name": "National Day (1948)"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Han'gawi Holiday"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "KWP Foundation Day (1945)"
+      }
+    ]
+  }
+]

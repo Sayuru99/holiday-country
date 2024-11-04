@@ -1,0 +1,547 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Friday",
+        "name": "Birthday of Swami Vivekananda"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Tuesday",
+        "name": "Birthday of Netaji"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Day before Saraswati Puja"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Saraswati Puja (Shree Panchami)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Monday",
+        "name": "Shab-e-Barat"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivaratri"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Doljatra"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Day after Doljatra"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "Birthday of Shri Shri Harichand Thakur"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Day before Ramazan / Id-ul-Fitr"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "ld-Ul-Fitar (End of Ramadan)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Bengali New Year's Day (Nababarsha)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Birthday of Dr. B. R. Ambedkar"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navami"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Mahavir Jayanti / Janma Kalyanak"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Wednesday",
+        "name": "Birthday of Rabindra Nath Tagore"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Purnima / Birthday of Pandit Raghunath Murmu"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Wednesday",
+        "name": "Jamai Shasthi (from 14:00)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "ld-Ud-Zoha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Ratha Yathra"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Muharram"
+      },
+      {
+        "date": "Aug 8",
+        "weekday": "Thursday",
+        "name": "State Public Holiday (Death of former CM Buddhadeb Bhattacharjee)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Raksha Bandhan"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janmashtami / Sri Krishna Jayanti/ Sri Krishna Astami"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "Karam Puja"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Milad-un-Nabi / Baravfat (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahalaya"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Monday",
+        "name": "Durga Puja - Maha Chaturthi"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Tuesday",
+        "name": "Durga Puja - Maha Panchami"
+      },
+      {
+        "date": "Oct 9",
+        "weekday": "Wednesday",
+        "name": "Durga Puja - Maha Shashthi"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "Durga Puja - Saptami"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Durga Puja - Astami"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Durga Puja - Nabami"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Durga Puja - Vijaya Dasami"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Additional day for Durga Puja"
+      },
+      {
+        "date": "Oct 15",
+        "weekday": "Tuesday",
+        "name": "Additional day for Durga Puja"
+      },
+      {
+        "date": "Oct 16",
+        "weekday": "Wednesday",
+        "name": "Lakshmi Puja"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Additional day for Lakshmi Puja"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Friday",
+        "name": "Additional day for Lakshmi Puja"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Kali Puja"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Additional day for Kali Puja"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Bhatridwitya"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Day after Bhatridwitya"
+      },
+      {
+        "date": "Nov 7",
+        "weekday": "Thursday",
+        "name": "Chhath Puja Parva"
+      },
+      {
+        "date": "Nov 8",
+        "weekday": "Friday",
+        "name": "Additional day for Chhat Puja"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Birthday of Guru Nanak"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Sunday",
+        "name": "Birthday of Swami Vivekananda"
+      },
+      {
+        "date": "Jan 23",
+        "weekday": "Thursday",
+        "name": "Birthday of Netaji"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 2",
+        "weekday": "Sunday",
+        "name": "Day before Saraswati Puja"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Saraswati Puja (Shree Panchami)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Friday",
+        "name": "Shab-e-Barat"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivaratri"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Doljatra"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Saturday",
+        "name": "Day after Doljatra"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Thursday",
+        "name": "Birthday of Shri Shri Harichand Thakur"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Day before Ramazan / Id-ul-Fitr"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "ld-Ul-Fitar (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Thursday",
+        "name": "Mahavir Jayanti / Janma Kalyanak"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Bengali New Year's Day (Nababarsha)"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Birthday of Dr. B. R. Ambedkar"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "May Day"
+      },
+      {
+        "date": "May 8",
+        "weekday": "Thursday",
+        "name": "Birthday of Rabindra Nath Tagore"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnima / Birthday of Pandit Raghunath Murmu"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "ld-Ud-Zoha / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 27",
+        "weekday": "Friday",
+        "name": "Ratha Yathra"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Muharram"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Raksha Bandhan"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janmashtami / Sri Krishna Jayanti/ Sri Krishna Astami"
+      },
+      {
+        "date": "Sep 3",
+        "weekday": "Wednesday",
+        "name": "Karam Puja"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Milad-un-Nabi / Baravfat (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 21",
+        "weekday": "Sunday",
+        "name": "Mahalaya"
+      },
+      {
+        "date": "Sep 26",
+        "weekday": "Friday",
+        "name": "Durga Puja - Maha Chaturthi"
+      },
+      {
+        "date": "Sep 27",
+        "weekday": "Saturday",
+        "name": "Durga Puja - Maha Panchami"
+      },
+      {
+        "date": "Sep 28",
+        "weekday": "Sunday",
+        "name": "Durga Puja - Maha Shashthi"
+      },
+      {
+        "date": "Sep 29",
+        "weekday": "Monday",
+        "name": "Durga Puja - Saptami"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Durga Puja - Astami"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Durga Puja - Nabami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Durga Puja - Vijaya Dasami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Lakshmi Puja"
+      },
+      {
+        "date": "Oct 20",
+        "weekday": "Monday",
+        "name": "Kali Puja"
+      },
+      {
+        "date": "Oct 23",
+        "weekday": "Thursday",
+        "name": "Bhatridwitya"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "Day after Bhatridwitya"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Monday",
+        "name": "Chhath Puja Parva"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Birthday of Guru Nanak"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      }
+    ]
+  }
+]

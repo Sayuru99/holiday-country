@@ -1,0 +1,197 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Republic Day / New Year's Day"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Chinese New Year Holiday (workday moved to Sat. Feb. 17)"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Chinese New Year's Eve"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Chinese New Year's Day"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Wednesday",
+        "name": "Peace Memorial Day"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Tomb Sweeping Day"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Children's Day Holiday/Tomb Sweeping Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day (except Government)"
+      },
+      {
+        "date": "June 10",
+        "weekday": "Monday",
+        "name": "Dragon Boat Festival"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Mid-Autumn Festival"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Typhoon Krathon)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Public Holiday (Typhoon Krathon) (Taipei)"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Thursday",
+        "name": "National Day (Double Tenth)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Republic Day / New Year's Day"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Saturday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Jan 27",
+        "weekday": "Monday",
+        "name": "Chinese New Year Holiday (workday moved to Sat. Feb. 8)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Chinese New Year's Eve"
+      },
+      {
+        "date": "Jan 29",
+        "weekday": "Wednesday",
+        "name": "Chinese New Year's Day"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Feb 1",
+        "weekday": "Saturday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Feb 2",
+        "weekday": "Sunday",
+        "name": "Chinese New Year Holiday"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Peace Memorial Day"
+      },
+      {
+        "date": "Apr 3",
+        "weekday": "Thursday",
+        "name": "Children's Day Holiday/Tomb Sweeping Day Holiday"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Friday",
+        "name": "Tomb Sweeping Day"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Friday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day (except Government)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "Dragon Boat Festival Holiday"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Saturday",
+        "name": "Dragon Boat Festival"
+      },
+      {
+        "date": "Oct 6",
+        "weekday": "Monday",
+        "name": "Mid-Autumn Festival"
+      },
+      {
+        "date": "Oct 10",
+        "weekday": "Friday",
+        "name": "National Day (Double Tenth)"
+      }
+    ]
+  }
+]

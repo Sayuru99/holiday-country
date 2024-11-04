@@ -1,0 +1,327 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 11",
+        "weekday": "Monday",
+        "name": "Beginning of the Holy Month of Ramadan"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Public Holiday (except banks)"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Tuesday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 3",
+        "weekday": "Wednesday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 8",
+        "weekday": "Monday",
+        "name": "Public Holiday (except banks)"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "On the Occasion of Eid ul-Fitr"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "On the Occasion of Eid ul-Fitr"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Parliamentary Elections)"
+      },
+      {
+        "date": "Apr 22",
+        "weekday": "Monday",
+        "name": "Public Holiday (Day after the Elections)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 15",
+        "weekday": "Saturday",
+        "name": "Hajj Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Eid ul-Ad'haa (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "On the Occasion of Eid ul-Ad'haa"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "On the Occasion of Eid ul-Ad'haa"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "On the Occasion of Eid ul-Ad'haa"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "On the Occasion of Eid ul-Ad'haa"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Islamic New Year 1446 (Hijri)"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Saturday",
+        "name": "On the Occasion of Independence Day"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (heavy rainfall)"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Wednesday",
+        "name": "National Day"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Prophet's Birthday / Eid Milad un Nabi"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "The Day Maldives Embraced Islam"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "Nov 10",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Republic Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Beginning of the Holy Month of Ramadan"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Thursday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 22",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Tuesday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Wednesday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Thursday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Saturday",
+        "name": "Public Holiday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "On the Occasion of Eid ul-Fitr"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "On the Occasion of Eid ul-Fitr"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Hajj Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid ul-Ad'haa (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "On the Occasion of Eid ul-Ad'haa"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "On the Occasion of Eid ul-Ad'haa"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "On the Occasion of Eid ul-Ad'haa"
+      },
+      {
+        "date": "June 26",
+        "weekday": "Thursday",
+        "name": "Islamic New Year 1447 (Hijri)"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Saturday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Sunday",
+        "name": "On the Occasion of Independence Day"
+      },
+      {
+        "date": "Aug 24",
+        "weekday": "Sunday",
+        "name": "National Day"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "The Prophet's Birthday / Eid Milad un Nabi"
+      },
+      {
+        "date": "Sep 24",
+        "weekday": "Wednesday",
+        "name": "The Day Maldives Embraced Islam"
+      }
+    ]
+  }
+]

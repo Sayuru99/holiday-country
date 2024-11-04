@@ -1,0 +1,352 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year Day"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Sunday",
+        "name": "Bhogi"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Sankranti / Pongal"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Hazarat Ali's Birthday"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Shab-e-Meraj"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivaratri"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Babu Jagjivan Ram's Birthday"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "Ugadi"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eidul Fitar / Ramzan (End of Ramadan)"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Following day of Ramzan"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. B.R. Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Sri Rama Navami"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Sunday",
+        "name": "Telangana State Formation Day"
+      },
+      {
+        "date": "June 4",
+        "weekday": "Tuesday",
+        "name": "Counting Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eidul Azah / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Shahadat Imam Hussain / 10th Moharam"
+      },
+      {
+        "date": "July 29",
+        "weekday": "Monday",
+        "name": "Bonalu"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Sri Krishna Astami (as per Srivaishnava Agamam)"
+      },
+      {
+        "date": "Sep 7",
+        "weekday": "Saturday",
+        "name": "Vinayaka Chavithi"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "Milad-un-Nabi (Prophet's Birthday)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Bathukamma Starting Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Vijaya Dasami"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Following day of Vijaya Dasami"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak's Birthday"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Kartika Purnima"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Boxing Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year Day"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Bhogi"
+      },
+      {
+        "date": "Jan 14",
+        "weekday": "Tuesday",
+        "name": "Sankranti / Pongal"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivaratri"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Ugadi"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eidul Fitar / Ramzan (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Following day of Ramzan"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Saturday",
+        "name": "Babu Jagjivan Ram's Birthday"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Sri Rama Navami"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. B.R. Ambedkar's Birthday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Telangana State Formation Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eidul Azah / Bakrid (Feast of Sacrifice)"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Shahadat Imam Hussain / 10th Moharam"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Monday",
+        "name": "Bonalu"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Sri Krishna Astami (as per Srivaishnava Agamam)"
+      },
+      {
+        "date": "Aug 27",
+        "weekday": "Wednesday",
+        "name": "Vinayaka Chavithi"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Milad-un-Nabi (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Bathukamma Starting Day"
+      },
+      {
+        "date": "Sep 30",
+        "weekday": "Tuesday",
+        "name": "Durgastami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Vijaya Dasami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Following day of Vijaya Dasami"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Deepavali"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak's Birthday"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Kartika Purnima"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Friday",
+        "name": "Boxing Day"
+      }
+    ]
+  }
+]

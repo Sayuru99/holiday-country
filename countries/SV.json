@@ -1,0 +1,297 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 26",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 27",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Día de la Madre"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Presidential Inauguration"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Día del Padre"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Heavy Rains)"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Fiesta de San Salvador (San Salvador)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Fiesta de San Salvador (San Salvador)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 6",
+        "weekday": "Tuesday",
+        "name": "Celebración del Divino Salvador del Mundo"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day (Día de los Muertos)"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 28",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 29",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 15",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 16",
+        "weekday": "Wednesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Bridge Public Holiday (tentative)"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Saturday",
+        "name": "Día de la Madre"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Tuesday",
+        "name": "Día del Padre"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Saturday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Sunday",
+        "name": "Fiesta de San Salvador (San Salvador)"
+      },
+      {
+        "date": "Aug 3",
+        "weekday": "Sunday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Tuesday",
+        "name": "Fiesta de San Salvador (San Salvador)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Tuesday",
+        "name": "Public Sector Holiday"
+      },
+      {
+        "date": "Aug 6",
+        "weekday": "Wednesday",
+        "name": "Celebración del Divino Salvador del Mundo"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      }
+    ]
+  }
+]

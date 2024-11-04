@@ -1,0 +1,187 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 21",
+        "weekday": "Tuesday",
+        "name": "Navy Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Municipal and Regional Gubernatorial Primaries)"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Día Nacional de los Pueblos Indígenas"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Saturday",
+        "name": "Saints Peter and Paul's Day"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Lady of Carmen Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 19",
+        "weekday": "Thursday",
+        "name": "Army Day"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Friday",
+        "name": "Fiestas Patrias"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Encuentro de Dos Mundos"
+      },
+      {
+        "date": "Oct 27",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Municipal and Regional Gubernatorial Elections)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Reformation Day (Día de las Iglesias Evangélicas y Protestantes)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 24",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Municipal and Regional Gubernatorial Elections) (regional)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 21",
+        "weekday": "Wednesday",
+        "name": "Navy Day"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Friday",
+        "name": "Día Nacional de los Pueblos Indígenas"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Sunday",
+        "name": "Saints Peter and Paul's Day"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Sunday",
+        "name": "Public Holiday (Primary Presidential and Legislative Elections) (tentative)"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Wednesday",
+        "name": "Lady of Carmen Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Sep 19",
+        "weekday": "Friday",
+        "name": "Army Day"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "Encuentro de Dos Mundos (might be canceled beginning in 2025)"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Friday",
+        "name": "Reformation Day (Día de las Iglesias Evangélicas y Protestantes)"
+      }
+    ]
+  }
+]

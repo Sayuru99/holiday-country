@@ -1,0 +1,222 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Friday",
+        "name": "Battle of Arica / Flag Day"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Monday",
+        "name": "Fiesta del Inti Raymi"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Saturday",
+        "name": "Saints Peter and Paul's Day"
+      },
+      {
+        "date": "July 23",
+        "weekday": "Tuesday",
+        "name": "Día de la Fuerza Aérea del Perú"
+      },
+      {
+        "date": "July 26",
+        "weekday": "Friday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "July 27",
+        "weekday": "Saturday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Sunday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 29",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Aug 6",
+        "weekday": "Tuesday",
+        "name": "Battle of Junín Day"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Friday",
+        "name": "Santa Rosa de Lima Day"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Monday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Tuesday",
+        "name": "Battle of Angamos Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 14",
+        "weekday": "Thursday",
+        "name": "Public Holiday (APEC Summit) (Lima + Callao)"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Public Holiday (APEC Summit) (Lima + Callao)"
+      },
+      {
+        "date": "Nov 16",
+        "weekday": "Saturday",
+        "name": "Public Holiday (APEC Summit) (Lima + Callao)"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Battle of Ayacucho"
+      },
+      {
+        "date": "Dec 23",
+        "weekday": "Monday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "Día no laborable en el sector público"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Día no laborable en el sector público"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Battle of Arica / Flag Day"
+      },
+      {
+        "date": "June 24",
+        "weekday": "Tuesday",
+        "name": "Fiesta del Inti Raymi"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Sunday",
+        "name": "Saints Peter and Paul's Day"
+      },
+      {
+        "date": "July 23",
+        "weekday": "Wednesday",
+        "name": "Día de la Fuerza Aérea del Perú"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 29",
+        "weekday": "Tuesday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "Aug 6",
+        "weekday": "Wednesday",
+        "name": "Battle of Junín Day"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Saturday",
+        "name": "Santa Rosa de Lima Day"
+      },
+      {
+        "date": "Oct 8",
+        "weekday": "Wednesday",
+        "name": "Battle of Angamos Day"
+      }
+    ]
+  }
+]

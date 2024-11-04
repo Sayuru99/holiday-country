@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Founders' Day (Jour des Aïeux)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Lundi Gras (Carnival Monday) (afternoon)"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Mardi Gras (Carnival)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Mercredi des Cendres (Carnival)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor and Agriculture Day"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Saturday",
+        "name": "Flag and University Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assomption"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Friday",
+        "name": "Jour de Dessalines"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Mort de Dessalines"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Vertières Battle and Armed Forces Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Founders' Day (Jour des Aïeux)"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Lundi Gras (Carnival Monday) (afternoon)"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Mardi Gras (Carnival)"
+      },
+      {
+        "date": "Mar 5",
+        "weekday": "Wednesday",
+        "name": "Mercredi des Cendres (Carnival)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor and Agriculture Day"
+      },
+      {
+        "date": "May 18",
+        "weekday": "Sunday",
+        "name": "Flag and University Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assomption"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Saturday",
+        "name": "Jour de Dessalines"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Friday",
+        "name": "Mort de Dessalines"
+      }
+    ]
+  }
+]

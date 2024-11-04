@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Monday",
+        "name": "Unity Day"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Saturday",
+        "name": "President Ntaryamira Day"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Aid-El-Fithr (End of Ramadan)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 9",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Saturday",
+        "name": "President Pierre Nkurunziza Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Aid-El-Hadj (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Aid-El-Hadj Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "Prince Louis Rwagasore Day"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Prince Louis Rwagasore Day Holiday"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Monday",
+        "name": "President Ndadaye Mélchior Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 5",
+        "weekday": "Wednesday",
+        "name": "Unity Day"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Aid-El-Fithr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Aid-El-Fithr Holiday"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "President Ntaryamira Day"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Monday",
+        "name": "President Ntaryamira Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Ascension Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Aid-El-Hadj (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "President Pierre Nkurunziza Day"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "President Pierre Nkurunziza Day Holiday"
+      },
+      {
+        "date": "July 1",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Prince Louis Rwagasore Day"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "President Ndadaye Mélchior Day"
+      }
+    ]
+  }
+]

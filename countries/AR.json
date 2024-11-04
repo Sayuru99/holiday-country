@@ -1,0 +1,197 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Lunes de Carnaval"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Martes de Carnaval"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Sunday",
+        "name": "Truth and Justice Day"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (día no laborable)"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Public Holiday (día no laborable con fines turísticos)"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Tuesday",
+        "name": "Malvinas Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "First Government Day (Día de la Revolución de Mayo)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Paso a la Inmortalidad del Gral. de Güemes"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Paso a la Inmortalidad del Gral. Belgrano"
+      },
+      {
+        "date": "June 21",
+        "weekday": "Friday",
+        "name": "Public Holiday (día no laborable con fines turísticos)"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 17",
+        "weekday": "Saturday",
+        "name": "Paso a la Inmortalidad del Gral. de San Martín"
+      },
+      {
+        "date": "Oct 11",
+        "weekday": "Friday",
+        "name": "Public Holiday (día no laborable con fines turísticos)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Día del Respeto a la Diversidad Cultural"
+      },
+      {
+        "date": "Nov 6",
+        "weekday": "Wednesday",
+        "name": "Bank Holiday (Día del Bancario)"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Día de la Soberanía Nacional Holiday (in lieu of Nov. 20)"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Immaculate Conception Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday (afternoon)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "Bank Holiday (afternoon)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Lunes de Carnaval"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Martes de Carnaval"
+      },
+      {
+        "date": "Mar 24",
+        "weekday": "Monday",
+        "name": "Truth and Justice Day"
+      },
+      {
+        "date": "Apr 2",
+        "weekday": "Wednesday",
+        "name": "Malvinas Day"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "Maundy Thursday (día no laborable)"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Sunday",
+        "name": "First Government Day (Día de la Revolución de Mayo)"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Monday",
+        "name": "Paso a la Inmortalidad del Gral. de Güemes (in lieu of June 17)"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Friday",
+        "name": "Paso a la Inmortalidad del Gral. Belgrano"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 17",
+        "weekday": "Sunday",
+        "name": "Paso a la Inmortalidad del Gral. de San Martín"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "Día del Respeto a la Diversidad Cultural"
+      }
+    ]
+  }
+]

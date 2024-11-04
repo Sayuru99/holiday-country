@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day (Nova godina)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Saturday",
+        "name": "Epiphany (Sveta tri kralja)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (Uskrs)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday (Uskrsni ponedjeljak)"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Parliamentary elections)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day (Praznik rada)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "National Day (Dan državnosti)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day (Tijelovo)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Anti-Fascist Resistance Day (Dan antifašističke borbe)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Monday",
+        "name": "Victory and Homeland Thanksgiving Day (Dan pobjede i domovinske zahvalnosti)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day (Velika Gospa)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints' Day (Svi Sveti)"
+      },
+      {
+        "date": "Nov 18",
+        "weekday": "Monday",
+        "name": "Homeland War Victims Remembrance Day (Dan sjećanja na žrtve Domovinskog rata)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day (Božic)"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "Saint Stephen's Day (Sveti Stjepan)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day (Nova godina)"
+      },
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Epiphany (Sveta tri kralja)"
+      },
+      {
+        "date": "Apr 20",
+        "weekday": "Sunday",
+        "name": "Easter Sunday (Uskrs)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday (Uskrsni ponedjeljak)"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day (Praznik rada)"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Friday",
+        "name": "National Day (Dan državnosti)"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Corpus Christi Day (Tijelovo)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Sunday",
+        "name": "Anti-Fascist Resistance Day (Dan antifašističke borbe)"
+      },
+      {
+        "date": "Aug 5",
+        "weekday": "Tuesday",
+        "name": "Victory and Homeland Thanksgiving Day (Dan pobjede i domovinske zahvalnosti)"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day (Velika Gospa)"
+      }
+    ]
+  }
+]

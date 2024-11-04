@@ -1,0 +1,147 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr's Birthday"
+      },
+      {
+        "date": "Feb 19",
+        "weekday": "Monday",
+        "name": "Presidents' Day"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "American Samoa Flag Day"
+      },
+      {
+        "date": "May 27",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Juneteenth Independence Day"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Tuesday",
+        "name": "Manu'a Cession Day"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Sunday",
+        "name": "White Sunday"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Columbus Day / Indigenous Peoples' Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Veterans Day"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 20",
+        "weekday": "Monday",
+        "name": "Martin Luther King Jr Day"
+      },
+      {
+        "date": "Feb 17",
+        "weekday": "Monday",
+        "name": "Presidents' Day"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Thursday",
+        "name": "American Samoa Flag Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 26",
+        "weekday": "Monday",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Juneteenth Independence Day"
+      },
+      {
+        "date": "July 4",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "July 16",
+        "weekday": "Wednesday",
+        "name": "Manu'a Cession Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Sunday",
+        "name": "White Sunday"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Columbus Day / Indigenous Peoples' Day"
+      }
+    ]
+  }
+]

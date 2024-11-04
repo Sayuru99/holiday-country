@@ -1,0 +1,237 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "Winter Solstice (Nyilo)"
+      },
+      {
+        "date": "Jan 9",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (National Assembly Elections)"
+      },
+      {
+        "date": "Jan 12",
+        "weekday": "Friday",
+        "name": "Traditional Day of Offering"
+      },
+      {
+        "date": "Feb 10",
+        "weekday": "Saturday",
+        "name": "Dangpa Losar (Lunar New Year) (Year of the Male Wood Dragon)"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Losar Holiday"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Wednesday",
+        "name": "Anniversary of His Majesty the King"
+      },
+      {
+        "date": "Feb 22",
+        "weekday": "Thursday",
+        "name": "Anniversary of His Majesty the King Holiday"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Friday",
+        "name": "Anniversary of His Majesty the King Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Thursday",
+        "name": "Zhabdrung Kuchhoe (Death Anniversary of Zhabdrung)"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Thursday",
+        "name": "Anniversary of the 3rd Druk Gyalpo"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Lord Buddha's Parinirvana"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Birth Anniversary of Guru Rinpoche"
+      },
+      {
+        "date": "July 10",
+        "weekday": "Wednesday",
+        "name": "The First Sermon of Lord Buddha"
+      },
+      {
+        "date": "Sep 9",
+        "weekday": "Monday",
+        "name": "Thimphu Drubchoe (Thimphu)"
+      },
+      {
+        "date": "Sep 13",
+        "weekday": "Friday",
+        "name": "Thimphu Tshechu (Thimphu)"
+      },
+      {
+        "date": "Sep 14",
+        "weekday": "Saturday",
+        "name": "Thimphu Tshechu (Thimphu)"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "Thimphu Tshechu (Thimphu)"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Blessed Rainy Day (Thrue Bab)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dassain"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Druk Gyalpo Coronation Anniversary"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Anniversary of the 4th Druk Gyalpo / Constitution Day / GNH Day"
+      },
+      {
+        "date": "Nov 22",
+        "weekday": "Friday",
+        "name": "Descending Day of Lord Buddha (Lhabab Duechen)"
+      },
+      {
+        "date": "Dec 17",
+        "weekday": "Tuesday",
+        "name": "National Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "Winter Solstice (Nyilo)"
+      },
+      {
+        "date": "Jan 30",
+        "weekday": "Thursday",
+        "name": "Traditional Day of Offering"
+      },
+      {
+        "date": "Feb 21",
+        "weekday": "Friday",
+        "name": "Anniversary of His Majesty the King"
+      },
+      {
+        "date": "Feb 22",
+        "weekday": "Saturday",
+        "name": "Anniversary of His Majesty the King Holiday"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Sunday",
+        "name": "Anniversary of His Majesty the King Holiday"
+      },
+      {
+        "date": "Feb 28",
+        "weekday": "Friday",
+        "name": "Dangpa Losar (Lunar New Year) (Year of the Female Wood Snake)"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Losar Holiday"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Anniversary of the 3rd Druk Gyalpo"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Wednesday",
+        "name": "Zhabdrung Kuchhoe (Death Anniversary of Zhabdrung)"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Lord Buddha's Parinirvana"
+      },
+      {
+        "date": "July 5",
+        "weekday": "Saturday",
+        "name": "Birth Anniversary of Guru Rinpoche"
+      },
+      {
+        "date": "July 28",
+        "weekday": "Monday",
+        "name": "The First Sermon of Lord Buddha"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Blessed Rainy Day (Thrue Bab)"
+      },
+      {
+        "date": "Sep 28",
+        "weekday": "Sunday",
+        "name": "Thimphu Drubchoe (Thimphu)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dassain"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Thimphu Tshechu (Thimphu)"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Friday",
+        "name": "Thimphu Tshechu (Thimphu)"
+      },
+      {
+        "date": "Oct 4",
+        "weekday": "Saturday",
+        "name": "Thimphu Tshechu (Thimphu)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Druk Gyalpo Coronation Anniversary"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Anniversary of the 4th Druk Gyalpo / Constitution Day / GNH Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Tuesday",
+        "name": "Descending Day of Lord Buddha (Lhabab Duechen)"
+      },
+      {
+        "date": "Dec 17",
+        "weekday": "Wednesday",
+        "name": "National Day"
+      }
+    ]
+  }
+]

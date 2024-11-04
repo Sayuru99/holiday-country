@@ -1,0 +1,227 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year's Holiday"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Wednesday",
+        "name": "New Year's Holiday"
+      },
+      {
+        "date": "Jan 8",
+        "weekday": "Monday",
+        "name": "Coming of Age Day"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Sunday",
+        "name": "Foundation Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Foundation Day Holiday"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Friday",
+        "name": "Emperor's Birthday"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Wednesday",
+        "name": "Vernal Equinox"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Monday",
+        "name": "Showa Day"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Friday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Saturday",
+        "name": "Greenery Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Children's Day Holiday"
+      },
+      {
+        "date": "July 15",
+        "weekday": "Monday",
+        "name": "Marine Day"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Sunday",
+        "name": "Mountain Day"
+      },
+      {
+        "date": "Aug 12",
+        "weekday": "Monday",
+        "name": "Mountain Day Holiday"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Respect for the Aged Day"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Sunday",
+        "name": "Autumnal Equinox"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Autumnal Equinox Holiday"
+      },
+      {
+        "date": "Oct 14",
+        "weekday": "Monday",
+        "name": "Sports Day"
+      },
+      {
+        "date": "Nov 3",
+        "weekday": "Sunday",
+        "name": "Culture Day"
+      },
+      {
+        "date": "Nov 4",
+        "weekday": "Monday",
+        "name": "Culture Day Holiday"
+      },
+      {
+        "date": "Nov 23",
+        "weekday": "Saturday",
+        "name": "Labor Thanksgiving Day"
+      },
+      {
+        "date": "Dec 30",
+        "weekday": "Monday",
+        "name": "New Year's Holiday"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year's Holiday"
+      },
+      {
+        "date": "Jan 3",
+        "weekday": "Friday",
+        "name": "New Year's Holiday"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Coming of Age Day"
+      },
+      {
+        "date": "Feb 11",
+        "weekday": "Tuesday",
+        "name": "Foundation Day"
+      },
+      {
+        "date": "Feb 23",
+        "weekday": "Sunday",
+        "name": "Emperor's Birthday"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Monday",
+        "name": "Emperor's Birthday Holiday"
+      },
+      {
+        "date": "Mar 20",
+        "weekday": "Thursday",
+        "name": "Vernal Equinox"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Tuesday",
+        "name": "Showa Day"
+      },
+      {
+        "date": "May 3",
+        "weekday": "Saturday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "May 4",
+        "weekday": "Sunday",
+        "name": "Greenery Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Children's Day"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Tuesday",
+        "name": "Designated Holiday"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Monday",
+        "name": "Marine Day"
+      },
+      {
+        "date": "Aug 11",
+        "weekday": "Monday",
+        "name": "Mountain Day"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Monday",
+        "name": "Respect for the Aged Day"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Autumnal Equinox"
+      },
+      {
+        "date": "Oct 13",
+        "weekday": "Monday",
+        "name": "Sports Day"
+      }
+    ]
+  }
+]

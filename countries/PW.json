@@ -1,0 +1,132 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Friday",
+        "name": "Youth Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Sunday",
+        "name": "Senior Citizens' Day"
+      },
+      {
+        "date": "May 6",
+        "weekday": "Monday",
+        "name": "Senior Citizens' Day Holiday"
+      },
+      {
+        "date": "May 31",
+        "weekday": "Friday",
+        "name": "President's Day Holiday"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "President's Day"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Tuesday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Sep 2",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Thursday",
+        "name": "United Nations' Day"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Tuesday",
+        "name": "National Day of Democracy"
+      },
+      {
+        "date": "Nov 22",
+        "weekday": "Friday",
+        "name": "Family Day"
+      },
+      {
+        "date": "Nov 28",
+        "weekday": "Thursday",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Youth Day Holiday"
+      },
+      {
+        "date": "Mar 15",
+        "weekday": "Saturday",
+        "name": "Youth Day"
+      },
+      {
+        "date": "May 5",
+        "weekday": "Monday",
+        "name": "Senior Citizens' Day"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Sunday",
+        "name": "President's Day"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "President's Day Holiday"
+      },
+      {
+        "date": "July 9",
+        "weekday": "Wednesday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "Sep 1",
+        "weekday": "Monday",
+        "name": "Labor Day"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Oct 24",
+        "weekday": "Friday",
+        "name": "United Nations' Day"
+      }
+    ]
+  }
+]

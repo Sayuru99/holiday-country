@@ -1,0 +1,382 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 15",
+        "weekday": "Monday",
+        "name": "Parkash Purb of Guru Govind Singh"
+      },
+      {
+        "date": "Jan 17",
+        "weekday": "Wednesday",
+        "name": "Guru Gobind Singh Jayanti"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 14",
+        "weekday": "Wednesday",
+        "name": "Basant Panchami / Sir Chhotu Ram jayanti"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Guru Ravidas Jayanti"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Maha Shivratri"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Shaheedi Diwas / Martyrdom Day of Bhagat Singh, Raisruru and Sukhdev"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Id-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Vaisakhi"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Dr. B. R. Ambedkar Javanti"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ram Navmi"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Sunday",
+        "name": "Mahavir Jayanti"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 10",
+        "weekday": "Friday",
+        "name": "Lord Parshuram Jayanti"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "June 1",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha election)"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Sunday",
+        "name": "Maharana Pratap Jayanti"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Id-ul-Zuha / Bakr-Id (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Sant Kabir Jayanti"
+      },
+      {
+        "date": "July 31",
+        "weekday": "Wednesday",
+        "name": "Martyrdom Day of Shahid Udham Singh"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Monday",
+        "name": "Raksha Bandhan"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janamashtmi"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Shaheedi Divas / Haryana War Heroes' Martyrdom Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 3",
+        "weekday": "Thursday",
+        "name": "Maharaja Agrasen Jayanti"
+      },
+      {
+        "date": "Oct 5",
+        "weekday": "Saturday",
+        "name": "Public Holiday (General Election to the Legislative Assembly)"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dussehra"
+      },
+      {
+        "date": "Oct 17",
+        "weekday": "Thursday",
+        "name": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "Oct 31",
+        "weekday": "Thursday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Haryana Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "Vishvakarma Day"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Guru Gobind Singh Jayanti"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Basant Panchami / Sir Chhotu Ram jayanti"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Guru Ravidas Jayanti"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Maha Shivratri"
+      },
+      {
+        "date": "Mar 14",
+        "weekday": "Friday",
+        "name": "Holi"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Shaheedi Diwas / Martyrdom Day of Bhagat Singh, Raisruru and Sukhdev"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Id-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ram Navmi"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Thursday",
+        "name": "Mahavir Jayanti"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Vaisakhi"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Dr. B. R. Ambedkar Javanti"
+      },
+      {
+        "date": "Apr 29",
+        "weekday": "Tuesday",
+        "name": "Lord Parshuram Jayanti"
+      },
+      {
+        "date": "May 29",
+        "weekday": "Thursday",
+        "name": "Maharana Pratap Jayanti"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Id-ul-Zuha / Bakr-Id (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 11",
+        "weekday": "Wednesday",
+        "name": "Sant Kabir Jayanti"
+      },
+      {
+        "date": "July 31",
+        "weekday": "Thursday",
+        "name": "Martyrdom Day of Shahid Udham Singh"
+      },
+      {
+        "date": "Aug 9",
+        "weekday": "Saturday",
+        "name": "Raksha Bandhan"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janamashtmi"
+      },
+      {
+        "date": "Sep 22",
+        "weekday": "Monday",
+        "name": "Maharaja Agrasen Jayanti"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Shaheedi Divas / Haryana War Heroes' Martyrdom Day"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dussehra"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 7",
+        "weekday": "Tuesday",
+        "name": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 22",
+        "weekday": "Wednesday",
+        "name": "Vishvakarma Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Saturday",
+        "name": "Haryana Day"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Guru Gobind Singh Jayanti"
+      }
+    ]
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 13",
+        "weekday": "Saturday",
+        "name": "Lohri (only in Jammu)"
+      },
+      {
+        "date": "Jan 17",
+        "weekday": "Wednesday",
+        "name": "Guru Gobind Singh Ji's Birthday"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30)"
+      },
+      {
+        "date": "Jan 22",
+        "weekday": "Monday",
+        "name": "Pran Pratishtha of Ram Mandir (until 14:30) (public sector banks)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Friday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Feb 8",
+        "weekday": "Thursday",
+        "name": "Shab-i-Miraj"
+      },
+      {
+        "date": "Feb 9",
+        "weekday": "Friday",
+        "name": "Friday following Shab-I-Miraj"
+      },
+      {
+        "date": "Feb 24",
+        "weekday": "Saturday",
+        "name": "Guru Ravi Das' Birthday (only in Jammu)"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "Mahashivaratri"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Thursday",
+        "name": "Nauroz"
+      },
+      {
+        "date": "Mar 25",
+        "weekday": "Monday",
+        "name": "Holi (only in Jammu)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Jumat-ul-Vida"
+      },
+      {
+        "date": "Apr 7",
+        "weekday": "Sunday",
+        "name": "Shab-i-Qadr"
+      },
+      {
+        "date": "Apr 9",
+        "weekday": "Tuesday",
+        "name": "1st Navratra"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Baisakhi"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Sunday",
+        "name": "Birthday of Dr. B. R. Ambedkar"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Ramanavami"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "Apr 26",
+        "weekday": "Friday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 7",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 13",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "May 23",
+        "weekday": "Thursday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "May 25",
+        "weekday": "Saturday",
+        "name": "Public Holiday (Lok Sabha Elections)"
+      },
+      {
+        "date": "June 13",
+        "weekday": "Thursday",
+        "name": "Urs Shah-I-Hamdan Sahib (only in Kashmir)"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Friday",
+        "name": "Mela Khir Bhawani (only in Kashmir)"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid-ul-Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "June 22",
+        "weekday": "Saturday",
+        "name": "Guru Hargobind Ji's Birthday"
+      },
+      {
+        "date": "July 17",
+        "weekday": "Wednesday",
+        "name": "Ashoora"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 26",
+        "weekday": "Monday",
+        "name": "Janamashtami"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "Eid-i-Milad-ul-Nabi (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 18",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Assembly Elections)"
+      },
+      {
+        "date": "Sep 20",
+        "weekday": "Friday",
+        "name": "Friday Following Eid-i-Milad-ul-Nabi"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Monday",
+        "name": "Maharaja Hari Singh's Birth Anniversary"
+      },
+      {
+        "date": "Sep 25",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (Assembly Elections)"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Tuesday",
+        "name": "Public Holiday (Assembly Elections)"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Wednesday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Dussehra"
+      },
+      {
+        "date": "Oct 12",
+        "weekday": "Saturday",
+        "name": "Mahanavami"
+      },
+      {
+        "date": "Oct 26",
+        "weekday": "Saturday",
+        "name": "Accession Day"
+      },
+      {
+        "date": "Oct 30",
+        "weekday": "Wednesday",
+        "name": "Urs Sheikh Noor-ud-din-Sahib (only in Kashmir)"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Nov 15",
+        "weekday": "Friday",
+        "name": "Guru Nanak Dev's Birthday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 6",
+        "weekday": "Monday",
+        "name": "Guru Gobind Singh Ji's Birthday"
+      },
+      {
+        "date": "Jan 13",
+        "weekday": "Monday",
+        "name": "Lohri (only in Jammu)"
+      },
+      {
+        "date": "Jan 26",
+        "weekday": "Sunday",
+        "name": "Republic Day (National Day)"
+      },
+      {
+        "date": "Jan 28",
+        "weekday": "Tuesday",
+        "name": "Shab-i-Miraj"
+      },
+      {
+        "date": "Jan 31",
+        "weekday": "Friday",
+        "name": "Friday following Shab-I-Miraj (only in Kashmir)"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Wednesday",
+        "name": "Guru Ravi Das' Birthday (only in Jammu)"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Wednesday",
+        "name": "Mahashivaratri"
+      },
+      {
+        "date": "Mar 13",
+        "weekday": "Thursday",
+        "name": "Holi (only in Jammu)"
+      },
+      {
+        "date": "Mar 21",
+        "weekday": "Friday",
+        "name": "Nauroz"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Jumat-ul-Vida"
+      },
+      {
+        "date": "Mar 28",
+        "weekday": "Friday",
+        "name": "Shab-i-Qadr"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "1st Navratra"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid-ul-Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Annual Accounts Closing (Bank Holiday)"
+      },
+      {
+        "date": "Apr 6",
+        "weekday": "Sunday",
+        "name": "Ramanavami"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Sunday",
+        "name": "Baisakhi"
+      },
+      {
+        "date": "Apr 14",
+        "weekday": "Monday",
+        "name": "Birthday of Dr. B. R. Ambedkar"
+      },
+      {
+        "date": "May 12",
+        "weekday": "Monday",
+        "name": "Buddha Purnima"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Tuesday",
+        "name": "Mela Khir Bhawani (only in Kashmir)"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Tuesday",
+        "name": "Urs Shah-I-Hamdan Sahib (only in Kashmir)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid-ul-Azha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid-ul-Azha Holiday"
+      },
+      {
+        "date": "June 12",
+        "weekday": "Thursday",
+        "name": "Guru Hargobind Ji's Birthday"
+      },
+      {
+        "date": "July 6",
+        "weekday": "Sunday",
+        "name": "Ashoora"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Aug 16",
+        "weekday": "Saturday",
+        "name": "Janamashtami"
+      },
+      {
+        "date": "Sep 5",
+        "weekday": "Friday",
+        "name": "Eid-i-Milad-ul-Nabi (Prophet's Birthday)"
+      },
+      {
+        "date": "Sep 12",
+        "weekday": "Friday",
+        "name": "Friday Following Eid-i-Milad-ul-Nabi"
+      },
+      {
+        "date": "Sep 23",
+        "weekday": "Tuesday",
+        "name": "Maharaja Hari Singh's Birth Anniversary"
+      },
+      {
+        "date": "Oct 1",
+        "weekday": "Wednesday",
+        "name": "Mahanavami"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Dussehra"
+      },
+      {
+        "date": "Oct 2",
+        "weekday": "Thursday",
+        "name": "Mahatma Gandhi's Birthday"
+      },
+      {
+        "date": "Oct 18",
+        "weekday": "Saturday",
+        "name": "Urs Sheikh Noor-ud-din-Sahib (only in Kashmir)"
+      },
+      {
+        "date": "Oct 21",
+        "weekday": "Tuesday",
+        "name": "Diwali"
+      },
+      {
+        "date": "Oct 26",
+        "weekday": "Sunday",
+        "name": "Accession Day"
+      },
+      {
+        "date": "Nov 5",
+        "weekday": "Wednesday",
+        "name": "Guru Nanak Dev's Birthday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Thursday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 27",
+        "weekday": "Saturday",
+        "name": "Guru Gobind Singh Ji's Birthday"
+      }
+    ]
+  }
+]

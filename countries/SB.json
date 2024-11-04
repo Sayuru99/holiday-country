@@ -1,0 +1,187 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 26",
+        "weekday": "Monday",
+        "name": "Choiseul Province Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "Apr 17",
+        "weekday": "Wednesday",
+        "name": "Public Holiday (National Election)"
+      },
+      {
+        "date": "May 20",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 3",
+        "weekday": "Monday",
+        "name": "Isabel Province Holiday"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Friday",
+        "name": "Temotu Province Holiday"
+      },
+      {
+        "date": "June 14",
+        "weekday": "Friday",
+        "name": "King's Birthday Holiday"
+      },
+      {
+        "date": "June 28",
+        "weekday": "Friday",
+        "name": "Central Province Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Sunday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "July 8",
+        "weekday": "Monday",
+        "name": "Independence Day Holiday"
+      },
+      {
+        "date": "July 19",
+        "weekday": "Friday",
+        "name": "Rennell and Bellona Province Holiday"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Thursday",
+        "name": "Guadalcanal Province Holiday"
+      },
+      {
+        "date": "Aug 2",
+        "weekday": "Friday",
+        "name": "Makira Ulawa Province Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Malaita Province Holiday"
+      },
+      {
+        "date": "Dec 6",
+        "weekday": "Friday",
+        "name": "Western Province Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "Dec 26",
+        "weekday": "Thursday",
+        "name": "National Day of Thanksgiving"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Feb 25",
+        "weekday": "Tuesday",
+        "name": "Choiseul Province Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Holy Saturday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "June 2",
+        "weekday": "Monday",
+        "name": "Isabel Province Holiday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Whit Monday"
+      },
+      {
+        "date": "June 9",
+        "weekday": "Monday",
+        "name": "Temotu Province Holiday"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Monday",
+        "name": "King's Birthday Holiday"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Monday",
+        "name": "Central Province Holiday"
+      },
+      {
+        "date": "July 7",
+        "weekday": "Monday",
+        "name": "Independence Day (National Day)"
+      },
+      {
+        "date": "July 21",
+        "weekday": "Monday",
+        "name": "Rennell and Bellona Province Holiday"
+      },
+      {
+        "date": "Aug 1",
+        "weekday": "Friday",
+        "name": "Guadalcanal Province Holiday"
+      },
+      {
+        "date": "Aug 4",
+        "weekday": "Monday",
+        "name": "Makira Ulawa Province Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Malaita Province Holiday"
+      }
+    ]
+  }
+]

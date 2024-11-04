@@ -1,0 +1,172 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Feb 15",
+        "weekday": "Thursday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Mar 11",
+        "weekday": "Monday",
+        "name": "Start of Ramadan (Awal Ramadan)"
+      },
+      {
+        "date": "Apr 10",
+        "weekday": "Wednesday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Apr 11",
+        "weekday": "Thursday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 12",
+        "weekday": "Friday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 13",
+        "weekday": "Saturday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 27",
+        "weekday": "Saturday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "International Workers' Day"
+      },
+      {
+        "date": "June 16",
+        "weekday": "Sunday",
+        "name": "Arafat Day"
+      },
+      {
+        "date": "June 17",
+        "weekday": "Monday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Wednesday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 20",
+        "weekday": "Thursday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "Aug 14",
+        "weekday": "Wednesday",
+        "name": "Anniversary of the Return to Power"
+      },
+      {
+        "date": "Aug 18",
+        "weekday": "Sunday",
+        "name": "Independence Day (Jeshen)"
+      },
+      {
+        "date": "Aug 30",
+        "weekday": "Friday",
+        "name": "Anniversary Of The Withdrawal Of The Last American Soldier"
+      },
+      {
+        "date": "Sep 15",
+        "weekday": "Sunday",
+        "name": "The Prophet's Birthday (Mawleed al-Nabi)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Feb 14",
+        "weekday": "Friday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Mar 1",
+        "weekday": "Saturday",
+        "name": "Start of Ramadan (Awal Ramadan)"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Sunday",
+        "name": "Eid al Fitr (End of Ramadan)"
+      },
+      {
+        "date": "Mar 31",
+        "weekday": "Monday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Tuesday",
+        "name": "Eid al Fitr Holiday"
+      },
+      {
+        "date": "Apr 28",
+        "weekday": "Monday",
+        "name": "Victory Day"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "International Workers' Day"
+      },
+      {
+        "date": "June 5",
+        "weekday": "Thursday",
+        "name": "Arafat Day"
+      },
+      {
+        "date": "June 6",
+        "weekday": "Friday",
+        "name": "Eid al Adha (Feast of Sacrifice)"
+      },
+      {
+        "date": "June 7",
+        "weekday": "Saturday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "June 8",
+        "weekday": "Sunday",
+        "name": "Eid al Adha Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Anniversary of the Return to Power"
+      },
+      {
+        "date": "Aug 19",
+        "weekday": "Tuesday",
+        "name": "Independence Day (Jeshen)"
+      },
+      {
+        "date": "Aug 31",
+        "weekday": "Sunday",
+        "name": "Anniversary Of The Withdrawal Of The Last American Soldier"
+      },
+      {
+        "date": "Sep 4",
+        "weekday": "Thursday",
+        "name": "The Prophet's Birthday (Mawleed al-Nabi)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Tuesday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Mar 30",
+        "weekday": "Saturday",
+        "name": "Easter Saturday"
+      },
+      {
+        "date": "Apr 1",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 30",
+        "weekday": "Thursday",
+        "name": "Fete Dieu (Corpus Christi)"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Tuesday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Saturday",
+        "name": "Independence Day / National Day"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Thursday",
+        "name": "Assumption Day"
+      },
+      {
+        "date": "Nov 1",
+        "weekday": "Friday",
+        "name": "All Saints Day"
+      },
+      {
+        "date": "Dec 8",
+        "weekday": "Sunday",
+        "name": "Feast of the Immaculate Conception"
+      },
+      {
+        "date": "Dec 9",
+        "weekday": "Monday",
+        "name": "Immaculate Conception Holiday"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas Day"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 2",
+        "weekday": "Thursday",
+        "name": "New Year Holiday"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 19",
+        "weekday": "Saturday",
+        "name": "Easter Saturday"
+      },
+      {
+        "date": "Apr 21",
+        "weekday": "Monday",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "June 18",
+        "weekday": "Wednesday",
+        "name": "Constitution Day"
+      },
+      {
+        "date": "June 19",
+        "weekday": "Thursday",
+        "name": "Fete Dieu (Corpus Christi)"
+      },
+      {
+        "date": "June 29",
+        "weekday": "Sunday",
+        "name": "Independence Day / National Day"
+      },
+      {
+        "date": "June 30",
+        "weekday": "Monday",
+        "name": "Independence Day / National Day Holiday"
+      },
+      {
+        "date": "Aug 15",
+        "weekday": "Friday",
+        "name": "Assumption Day"
+      }
+    ]
+  }
+]

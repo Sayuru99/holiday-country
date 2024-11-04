@@ -1,0 +1,167 @@
+[
+  {
+    "year": "2024",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Monday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Thursday",
+        "name": "Luanda City Day"
+      },
+      {
+        "date": "Feb 4",
+        "weekday": "Sunday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Feb 12",
+        "weekday": "Monday",
+        "name": "Carnival Holiday"
+      },
+      {
+        "date": "Feb 13",
+        "weekday": "Tuesday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Friday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Saturday",
+        "name": "Day of the Liberation of Southern Africa"
+      },
+      {
+        "date": "Mar 29",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Thursday",
+        "name": "Angolan Peace Day"
+      },
+      {
+        "date": "Apr 5",
+        "weekday": "Friday",
+        "name": "Angolan Peace Day Holiday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Wednesday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "Sep 16",
+        "weekday": "Monday",
+        "name": "National Heroes' Day Holiday"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Tuesday",
+        "name": "National Heroes' Day"
+      },
+      {
+        "date": "Nov 2",
+        "weekday": "Saturday",
+        "name": "All Souls' Day"
+      },
+      {
+        "date": "Nov 11",
+        "weekday": "Monday",
+        "name": "Independence Day"
+      },
+      {
+        "date": "Dec 24",
+        "weekday": "Tuesday",
+        "name": "Christmas Eve (non-working afternoon)"
+      },
+      {
+        "date": "Dec 25",
+        "weekday": "Wednesday",
+        "name": "Christmas and Family Day"
+      },
+      {
+        "date": "Dec 31",
+        "weekday": "Tuesday",
+        "name": "New Year's Eve (non-working afternoon)"
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "holidays": [
+      {
+        "date": "Jan 1",
+        "weekday": "Wednesday",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "Jan 25",
+        "weekday": "Saturday",
+        "name": "Luanda City Day"
+      },
+      {
+        "date": "Feb 3",
+        "weekday": "Monday",
+        "name": "Liberation Day Holiday"
+      },
+      {
+        "date": "Feb 4",
+        "weekday": "Tuesday",
+        "name": "Liberation Day"
+      },
+      {
+        "date": "Mar 3",
+        "weekday": "Monday",
+        "name": "Carnival Holiday"
+      },
+      {
+        "date": "Mar 4",
+        "weekday": "Tuesday",
+        "name": "Carnival"
+      },
+      {
+        "date": "Mar 8",
+        "weekday": "Saturday",
+        "name": "International Women's Day"
+      },
+      {
+        "date": "Mar 23",
+        "weekday": "Sunday",
+        "name": "Day of the Liberation of Southern Africa"
+      },
+      {
+        "date": "Apr 4",
+        "weekday": "Friday",
+        "name": "Angolan Peace Day"
+      },
+      {
+        "date": "Apr 18",
+        "weekday": "Friday",
+        "name": "Good Friday"
+      },
+      {
+        "date": "May 1",
+        "weekday": "Thursday",
+        "name": "Labour Day"
+      },
+      {
+        "date": "May 2",
+        "weekday": "Friday",
+        "name": "Labour Day Holiday"
+      },
+      {
+        "date": "Sep 17",
+        "weekday": "Wednesday",
+        "name": "National Heroes' Day"
+      }
+    ]
+  }
+]
