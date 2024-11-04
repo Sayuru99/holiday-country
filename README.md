@@ -2,7 +2,7 @@
 
 ## Description
 
-`holiday-country` is an npm package that allows you to fetch country-specific holidays by year. It retrieves holiday data from a JSON repository hosted on AWS S3.
+`holiday-country` is an npm package that allows you to fetch country-specific holidays by year.
 
 ## Installation
 
